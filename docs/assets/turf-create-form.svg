@@ -1,0 +1,91 @@
+<svg viewBox="0 0 920 600" xmlns="http://www.w3.org/2000/svg" font-family="system-ui, -apple-system, Segoe UI, Roboto, sans-serif">
+  <defs>
+    <filter id="sh" x="-20%" y="-20%" width="140%" height="140%">
+      <feDropShadow dx="0" dy="3" stdDeviation="7" flood-color="#16371a" flood-opacity="0.12"/>
+    </filter>
+    <style>
+      .lbl{fill:#38402f;font-size:12.5px;font-weight:600}
+      .val{fill:#3a4230;font-size:12.5px}
+      .ph{fill:#aab29c;font-size:12.5px}
+      .in{fill:#ffffff;stroke:#d3dac8}
+      .hdr{fill:#1b2015;font-size:15px;font-weight:700}
+      .badge{fill:#169c19}
+      .bt{fill:#ffffff;font-size:11px;font-weight:700}
+    </style>
+  </defs>
+  <rect width="920" height="600" fill="#f3f6ef"/>
+
+  <!-- title bar -->
+  <text x="28" y="46" fill="#1b2015" font-size="24" font-weight="700">SIR Walter</text>
+  <text x="742" y="46" fill="#c0392b" font-size="15" font-weight="600">Delete</text>
+  <rect x="820" y="26" width="72" height="32" rx="6" fill="#169c19"/>
+  <text x="856" y="47" class="bt" font-size="13" text-anchor="middle">Save</text>
+
+  <!-- ===== LEFT CARD ===== -->
+  <g filter="url(#sh)"><rect x="28" y="82" width="530" height="432" rx="12" fill="#ffffff" stroke="#e2e8da"/></g>
+
+  <!-- names row -->
+  <circle cx="46" cy="112" r="9" class="badge"/><text x="46" y="116" class="bt" text-anchor="middle">1</text>
+  <text x="64" y="116" class="lbl">Short Name</text>
+  <rect x="64" y="124" width="220" height="34" rx="6" class="in"/><text x="78" y="146" class="val">SIR Walter</text>
+  <text x="308" y="116" class="lbl">Abbreviation</text>
+  <rect x="308" y="124" width="228" height="34" rx="6" class="in"/><text x="322" y="146" class="val">SW</text>
+
+  <text x="64" y="190" class="lbl">Full Name</text>
+  <rect x="64" y="198" width="472" height="34" rx="6" class="in"/><text x="78" y="220" class="val">Sir Walter DNA Certified Buffalo Grass</text>
+
+  <text x="64" y="264" class="lbl">Description</text>
+  <rect x="64" y="272" width="472" height="86" rx="6" class="in"/>
+  <text x="78" y="294" class="val" font-size="12">There are so many reasons why Sir Walter is Australia's best</text>
+  <text x="78" y="312" class="val" font-size="12">buffalo grass. It has stood the test of time, proving again and</text>
+  <text x="78" y="330" class="val" font-size="12">again that it will go anywhere and grow anywhere.</text>
+
+  <!-- price / logistics row -->
+  <circle cx="46" cy="392" r="9" class="badge"/><text x="46" y="396" class="bt" text-anchor="middle">2</text>
+  <text x="64" y="396" class="lbl" font-size="11.5">Retail price/unit</text>
+  <rect x="64" y="404" width="106" height="32" rx="6" class="in"/><text x="78" y="425" class="val">$19.64</text>
+  <text x="184" y="396" class="lbl" font-size="11.5">Cost price/unit</text>
+  <rect x="184" y="404" width="106" height="32" rx="6" class="in"/>
+  <circle cx="308" cy="392" r="9" class="badge"/><text x="308" y="396" class="bt" text-anchor="middle">3</text>
+  <text x="322" y="396" class="lbl" font-size="11.5">SQM per Pallet</text>
+  <rect x="322" y="404" width="96" height="32" rx="6" class="in"/><text x="336" y="425" class="val">55</text>
+  <text x="430" y="396" class="lbl" font-size="11.5">Weight in kgs</text>
+  <rect x="430" y="404" width="96" height="32" rx="6" class="in"/>
+
+  <!-- status -->
+  <text x="64" y="472" class="lbl">Status</text>
+  <rect x="64" y="480" width="140" height="32" rx="6" fill="#eaf5ea" stroke="#8fce92"/>
+  <text x="78" y="501" fill="#169c19" font-size="12.5" font-weight="600">Published</text>
+
+  <!-- ===== RIGHT CARD (Sawfish + Shopify) ===== -->
+  <g filter="url(#sh)"><rect x="584" y="82" width="308" height="250" rx="12" fill="#ffffff" stroke="#1b2015" stroke-width="2"/></g>
+  <circle cx="600" cy="118" r="9" class="badge"/><text x="600" y="122" class="bt" text-anchor="middle">4</text>
+  <text x="616" y="123" class="hdr">Sawfish</text>
+  <circle cx="748" cy="118" r="9" class="badge"/><text x="748" y="122" class="bt" text-anchor="middle">5</text>
+  <text x="764" y="123" class="hdr">Shopify</text>
+
+  <text x="604" y="158" class="lbl" font-size="11.5">Sawfish Item Code</text>
+  <rect x="604" y="166" width="130" height="32" rx="6" class="in"/><text x="616" y="187" class="val" font-size="11.5">101 - Sir Walter</text>
+  <text x="604" y="224" class="lbl" font-size="11.5">Sawfish Account Code</text>
+  <rect x="604" y="232" width="130" height="32" rx="6" class="in"/><text x="616" y="253" class="val" font-size="11.5">200 - Sales</text>
+
+  <text x="752" y="158" class="lbl" font-size="11.5">Shopify Item</text>
+  <rect x="752" y="166" width="124" height="32" rx="6" class="in"/><text x="762" y="187" class="val" font-size="11">Sir Walter DNA Certifie…</text>
+
+  <!-- volume pricing -->
+  <text x="584" y="372" fill="#1b2015" font-size="15" font-weight="700">Volume Pricing</text>
+  <text x="584" y="392" class="ph" font-size="11.5">per-segment rates by order volume (MIN / MAX / rate)</text>
+
+  <!-- ===== LEGEND ===== -->
+  <line x1="28" y1="524" x2="892" y2="524" stroke="#e2e8da"/>
+  <g font-size="12">
+    <circle cx="40" cy="546" r="9" class="badge"/><text x="40" y="550" class="bt" text-anchor="middle">1</text>
+    <text x="56" y="550" fill="#4a5340"><tspan font-weight="700" fill="#38402f">Three names</tspan> — orders · apps · invoice line</text>
+    <circle cx="40" cy="574" r="9" class="badge"/><text x="40" y="578" class="bt" text-anchor="middle">2</text>
+    <text x="56" y="578" fill="#4a5340"><tspan font-weight="700" fill="#38402f">Retail</tspan> = baseline every segment discounts from</text>
+    <circle cx="480" cy="546" r="9" class="badge"/><text x="480" y="550" class="bt" text-anchor="middle">3</text>
+    <text x="496" y="550" fill="#4a5340"><tspan font-weight="700" fill="#38402f">SQM/Pallet + weight</tspan> — pallet count &amp; truck load</text>
+    <circle cx="480" cy="574" r="9" class="badge"/><text x="480" y="578" class="bt" text-anchor="middle">4</text>
+    <text x="496" y="578" fill="#4a5340"><tspan font-weight="700" fill="#c0392b">Sawfish</tspan> required to invoice · <tspan font-weight="700" fill="#38402f">5</tspan> Shopify links online sales</text>
+  </g>
+</svg>

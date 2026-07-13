@@ -1,0 +1,205 @@
+site_name: Turfware Help
+site_description: Turfware user guides — orders, delivery, cutting, setup & integrations
+docs_dir: docs
+theme:
+  name: material
+  language: en
+  palette:
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: custom
+      accent: custom
+      toggle: { icon: material/weather-night, name: Dark mode }
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: custom
+      accent: custom
+      toggle: { icon: material/weather-sunny, name: Light mode }
+  features:
+    - navigation.sections
+    - navigation.top
+    - navigation.instant
+    - navigation.tracking
+    - navigation.indexes
+    - toc.follow
+    - search.suggest
+    - search.highlight
+    - content.action.edit
+  logo: assets/logo.svg
+  favicon: assets/favicon.png
+extra_css:
+  - assets/turfware.css
+markdown_extensions:
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+  - toc: { permalink: true }
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.emoji
+  - pymdownx.tabbed:
+      alternate_style: true
+plugins:
+  - search
+nav:
+  - Home: index.md
+  - "Web App":
+    - "Order Management":
+      - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
+      - "Order":
+        - "Accepting Manual Payment": web-app/order-management/order/accepting-manual-payment.md
+        - "Add Turfcare to an Order": web-app/order-management/order/add-turfcare-to-an-order.md
+        - "Add a document": web-app/order-management/order/add-a-document.md
+        - "Create a “Pickup Only” order": web-app/order-management/order/create-a-pickup-only-order.md
+        - "Create “Deliver” order": web-app/order-management/order/create-deliver-order.md
+        - "Create “Pickup Only - Non-Farm location - Freight required” order": web-app/order-management/order/create-pickup-only-non-farm-location-freight-required-order.md
+        - "Flags": web-app/order-management/order/flags.md
+        - "Installation and Delivery": web-app/order-management/order/installation-and-delivery.md
+        - "Lock or unlock": web-app/order-management/order/lock-or-unlock.md
+        - "Preparation, Installation and Delivery": web-app/order-management/order/preparation-installation-and-delivery.md
+        - "Save and move status": web-app/order-management/order/save-and-move-status.md
+        - "Send invoice to Xero": web-app/order-management/order/send-invoice-to-xero.md
+        - "Timeline": web-app/order-management/order/timeline.md
+        - "Updating Order / Order Confirmation": web-app/order-management/order/updating-order-order-confirmation.md
+      - "Quotes Accepted":
+        - "Automation to quotes accepted by online acceptance, How does this work, next steps": web-app/order-management/quotes-accepted/automation-to-quotes-accepted-by-online-acceptance-how-does-this-work-next-steps.md
+        - "How to manage quotes accepted status": web-app/order-management/quotes-accepted/how-to-manage-quotes-accepted-status.md
+      - "Quotes":
+        - "Create a quote": web-app/order-management/quotes/create-a-quote.md
+        - "Move a quote to quote excepted and then to order pending": web-app/order-management/quotes/move-a-quote-to-quote-excepted-and-then-to-order-pending.md
+        - "Send a quote": web-app/order-management/quotes/send-a-quote.md
+        - "Splitting Invoice": web-app/order-management/quotes/splitting-invoice.md
+      - "On Hold":
+        - "The power of Hold, removed orders from Cutsheets and delivery runs": web-app/order-management/on-hold/the-power-of-hold-removed-orders-from-cutsheets-and-delivery-runs.md
+        - "What is on hold?": web-app/order-management/on-hold/what-is-on-hold.md
+        - "What is the relevance of on hold?": web-app/order-management/on-hold/what-is-the-relevance-of-on-hold.md
+      - "Lost":
+        - "What is lost?": web-app/order-management/lost/what-is-lost.md
+        - "What is the relevance of loss?": web-app/order-management/lost/what-is-the-relevance-of-loss.md
+      - "Orders Confirmed":
+        - "What is the order confirmed?": web-app/order-management/orders-confirmed/what-is-the-order-confirmed.md
+        - "What is the relevance of orders confirmed?": web-app/order-management/orders-confirmed/what-is-the-relevance-of-orders-confirmed.md
+      - "Orders Pending":
+        - "What is the order pending?": web-app/order-management/orders-pending/what-is-the-order-pending.md
+        - "What is the relevance of orders pending?": web-app/order-management/orders-pending/what-is-the-relevance-of-orders-pending.md
+    - "Delete":
+      - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
+      - "Overview": web-app/delete/overview.md
+      - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
+    - "Customers":
+      - "Adding a note": web-app/customers/adding-a-note.md
+      - "Adding business contacts": web-app/customers/adding-business-contacts.md
+      - "Adding document": web-app/customers/adding-document.md
+      - "Billing": web-app/customers/billing.md
+      - "Linking to Xero": web-app/customers/linking-to-xero.md
+      - "New Contact": web-app/customers/new-contact.md
+      - "Special Pricing": web-app/customers/special-pricing.md
+    - "Turfware Setup":
+      - "GST Rounding System with Xero Integration": web-app/turfware-setup/gst-rounding-system-with-xero-integration.md
+      - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md
+      - "Farm Settings":
+        - "Carrier Settings": web-app/turfware-setup/farm-settings/carrier-settings.md
+        - "Farms": web-app/turfware-setup/farm-settings/farms.md
+        - "Freight rates": web-app/turfware-setup/farm-settings/freight-rates.md
+        - "Installation providers": web-app/turfware-setup/farm-settings/installation-providers.md
+        - "Pickup Location": web-app/turfware-setup/farm-settings/pickup-location.md
+        - "Products": web-app/turfware-setup/farm-settings/products.md
+        - "Segment": web-app/turfware-setup/farm-settings/segment.md
+        - "Services": web-app/turfware-setup/farm-settings/services.md
+        - "Turf Varieties": web-app/turfware-setup/farm-settings/turf-varieties.md
+      - "Farm Setup":
+        - "Chart of Accounts": web-app/turfware-setup/farm-setup/chart-of-accounts.md
+        - "Company Information": web-app/turfware-setup/farm-setup/company-information.md
+        - "Market Channels": web-app/turfware-setup/farm-setup/market-channels.md
+        - "Payment Methods": web-app/turfware-setup/farm-setup/payment-methods.md
+        - "Xero Configuration": web-app/turfware-setup/farm-setup/xero-configuration.md
+      - "Communications":
+        - "Communications": web-app/turfware-setup/communications/communications.md
+    - "How to use lists":
+      - "Concept of list, best practices": web-app/how-to-use-lists/concept-of-list-best-practices.md
+      - "How to use date functions": web-app/how-to-use-lists/how-to-use-date-functions.md
+      - "How to use filters": web-app/how-to-use-lists/how-to-use-filters.md
+      - "How to use search": web-app/how-to-use-lists/how-to-use-search.md
+    - "Users":
+      - "Create a user": web-app/users/create-a-user.md
+      - "How to give access to each user group": web-app/users/how-to-give-access-to-each-user-group.md
+      - "User Roles": web-app/users/user-roles.md
+    - "Shortcuts":
+      - "Create order": web-app/shortcuts/create-order.md
+      - "Cutsheet": web-app/shortcuts/cutsheet.md
+      - "Forecast": web-app/shortcuts/forecast.md
+      - "Sales": web-app/shortcuts/sales.md
+    - "Operations":
+      - "Cutsheets": web-app/operations/cutsheets.md
+      - "Installation": web-app/operations/installation.md
+      - "Preparation": web-app/operations/preparation.md
+    - "Logistics":
+      - "Delivery":
+        - "Export into CSV": web-app/logistics/delivery/export-into-csv.md
+        - "Print Docket": web-app/logistics/delivery/print-docket.md
+      - "Pickup":
+        - "How to generate reports and mark off pickup collected": web-app/logistics/pickup/how-to-generate-reports-and-mark-off-pickup-collected.md
+        - "What is the impact when pickup is collected": web-app/logistics/pickup/what-is-the-impact-when-pickup-is-collected.md
+      - "Scheduling":
+        - "How to use the routing Feature": web-app/logistics/scheduling/how-to-use-the-routing-feature.md
+        - "How to use the scheduler": web-app/logistics/scheduling/how-to-use-the-scheduler.md
+    - "Report":
+      - "How to export reports into PDF and Excel":
+        - "How to export reports into PDF and Excel": web-app/report/how-to-export-reports-into-pdf-and-excel/how-to-export-reports-into-pdf-and-excel.md
+      - "How to toggle between reports":
+        - "How to toggle between reports": web-app/report/how-to-toggle-between-reports/how-to-toggle-between-reports.md
+      - "How to use filters on each report":
+        - "Installation Report": web-app/report/how-to-use-filters-on-each-report/installation-report.md
+        - "Logistics Report": web-app/report/how-to-use-filters-on-each-report/logistics-report.md
+        - "Preparation Report": web-app/report/how-to-use-filters-on-each-report/preparation-report.md
+        - "Sales Report": web-app/report/how-to-use-filters-on-each-report/sales-report.md
+  - "Delivery App":
+    - "Setting up Delivery App":
+      - "Android": delivery-app/setting-up-delivery-app/android.md
+      - "IOS": delivery-app/setting-up-delivery-app/ios.md
+    - "Using the Delivery app":
+      - "Driver App Overview": delivery-app/using-the-delivery-app/driver-app-overview.md
+      - "Auto triggers once the order is confirmed delivered":
+        - "Auto triggers once the order is confirmed delivered": delivery-app/using-the-delivery-app/auto-triggers-once-the-order-is-confirmed-delivered/auto-triggers-once-the-order-is-confirmed-delivered.md
+      - "Delivery Order":
+        - "Completing delivery": delivery-app/using-the-delivery-app/delivery-order/completing-delivery.md
+        - "Moving to the next order": delivery-app/using-the-delivery-app/delivery-order/moving-to-the-next-order.md
+        - "Order Priority": delivery-app/using-the-delivery-app/delivery-order/order-priority.md
+        - "Order details": delivery-app/using-the-delivery-app/delivery-order/order-details.md
+        - "Site Contact": delivery-app/using-the-delivery-app/delivery-order/site-contact.md
+        - "Using Google Maps": delivery-app/using-the-delivery-app/delivery-order/using-google-maps.md
+      - "Pick List":
+        - "Delivery Time": delivery-app/using-the-delivery-app/pick-list/delivery-time.md
+        - "Dispatch location by order": delivery-app/using-the-delivery-app/pick-list/dispatch-location-by-order.md
+        - "Order details": delivery-app/using-the-delivery-app/pick-list/order-details.md
+        - "Pallet Codes": delivery-app/using-the-delivery-app/pick-list/pallet-codes.md
+        - "Pallets per order": delivery-app/using-the-delivery-app/pick-list/pallets-per-order.md
+      - "Logout/Login ":
+        - "Login": delivery-app/using-the-delivery-app/logout-login/login.md
+        - "Logout": delivery-app/using-the-delivery-app/logout-login/logout.md
+      - "Scrolling by date":
+        - "Scrolling by date": delivery-app/using-the-delivery-app/scrolling-by-date/scrolling-by-date.md
+      - "Viewing Route from the front screen":
+        - "Viewing Route from the front screen": delivery-app/using-the-delivery-app/viewing-route-from-the-front-screen/viewing-route-from-the-front-screen.md
+    - "Sending Invite to Delivery App":
+      - "Sending Invite to Delivery App": delivery-app/sending-invite-to-delivery-app/sending-invite-to-delivery-app.md
+  - "Cutting App":
+    - "Setting up the Cutting App":
+      - "Android": cutting-app/setting-up-the-cutting-app/android.md
+      - "IOS": cutting-app/setting-up-the-cutting-app/ios.md
+    - "Using Cutting App":
+      - "Cutting App Overview": cutting-app/using-cutting-app/cutting-app-overview.md
+      - "As a forklift operator":
+        - "Confirming order": cutting-app/using-cutting-app/as-a-forklift-operator/confirming-order.md
+        - "Selecting order": cutting-app/using-cutting-app/as-a-forklift-operator/selecting-order.md
+        - "Updating order": cutting-app/using-cutting-app/as-a-forklift-operator/updating-order.md
+        - "Viewing Orders": cutting-app/using-cutting-app/as-a-forklift-operator/viewing-orders.md
+      - "As a Harvestor":
+        - "Selecting order": cutting-app/using-cutting-app/as-a-harvestor/selecting-order.md
+        - "Updating order": cutting-app/using-cutting-app/as-a-harvestor/updating-order.md
+        - "Viewing Orders": cutting-app/using-cutting-app/as-a-harvestor/viewing-orders.md
+    - "Sending Invite to Cutting App":
+      - "Sending Invite to Cutting App": cutting-app/sending-invite-to-cutting-app/sending-invite-to-cutting-app.md
+  - "General":
+    - "Turfware Glossary": general/turfware-glossary.md
