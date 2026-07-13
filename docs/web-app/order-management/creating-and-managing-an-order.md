@@ -45,7 +45,7 @@ How the order is fulfilled. Choosing a type reveals the matching section.
     - **Delivery Rates** — auto-filled from your **Freight Rate settings** (Farm Settings → Freight Rates), by postcode. Switch to a custom rate to adjust or override. Use the **Freight price** toggle to show freight on the invoice as a **flat rate** or a **$/m²** rate.
     - **Delivery Notes** — a heads-up for the driver, e.g. *"Call Shawn on arrival, long driveway and he'll meet you out front."* Shows on the driver app.
 
-    *[Screenshot: Delivery Address + Delivery Rates sections]*
+    ![Delivery Address and Delivery Rates on the order](../../assets/order-delivery-address.png)
 
 ### Products & Services
 
