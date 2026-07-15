@@ -98,6 +98,7 @@ nav:
     - "Turfware Setup":
       - "GST Rounding System with Xero Integration": web-app/turfware-setup/gst-rounding-system-with-xero-integration.md
       - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md
+      - "Order Settings": web-app/turfware-setup/order-settings.md
       - "Farm Settings":
         - "Carrier Settings": web-app/turfware-setup/farm-settings/carrier-settings.md
         - "Farms": web-app/turfware-setup/farm-settings/farms.md
@@ -107,6 +108,7 @@ nav:
         - "Products": web-app/turfware-setup/farm-settings/products.md
         - "Segment": web-app/turfware-setup/farm-settings/segment.md
         - "Services": web-app/turfware-setup/farm-settings/services.md
+        - "Suppliers": web-app/turfware-setup/farm-settings/suppliers.md
         - "Turf Varieties": web-app/turfware-setup/farm-settings/turf-varieties.md
       - "Farm Setup":
         - "Chart of Accounts": web-app/turfware-setup/farm-setup/chart-of-accounts.md

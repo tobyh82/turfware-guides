@@ -18,7 +18,7 @@ Shows the customer's current **account status against their credit limit** and t
 
 ### Order Detail
 
-- **Customer** — search across *all* customers in Turfware. The search returns the customer / business name **and** address, so you can tell two "John Smith"s apart.
+- **Customer** — search across *all* customers in Turfware. The search returns the customer / business name **and** address, so you can tell two "John Smith"s apart. If the customer isn't a **Sawfish client** yet, you can create one from here so their invoices sync to your accounts.
 - **Segment & Sales Person** — if these are set on the customer's profile they're pre-filled; otherwise fill them in.
 - **PO** — a free-text field. If you complete it, it becomes the **reference field on the invoice**, so the customer can match the invoice to their PO. If the customer supplied a PO document, attach it under the **Documents** tab for reference.
 - **Market Channel** — where the customer came from. Helps you understand which marketing channels are working.
@@ -75,7 +75,7 @@ What's available here is set by **Company Settings → Order Settings** — only
 
 ### Order Summary
 
-The order value, calculated **line by line**, replicating the invoice values. Here you can apply a **discount to a specific line item** — e.g. 25% off a product. The discount shows on the invoice, so the customer can see it applied.
+The order value, calculated **line by line**, replicating the invoice values. Apply a **discount as a field on any line item** — the same way Xero, MYOB and Shopify do it (e.g. 25% off a product). The discount shows on the invoice, so the customer can see it applied.
 
 ## Saving the order
 
@@ -97,6 +97,9 @@ To move an order into the workflow, change the **order Status** in the top-right
 
     **Administrator override** — only an Administrator can force-confirm an unpaid order. This triggers an *"Order Not Paid"* confirmation popup, and the override is recorded in the order **Timeline**.
 
+!!! tip "Recording a payment"
+    Any **user or super-user can record a payment** on an order at **any time** (via **Received Payment**) — there's no cut-off-time restriction, so you don't need manager permission to mark an order paid.
+
 ## Order actions (the ⋯ menu)
 
 The key actions live in the **⋯ menu** in the top-right of the order.
@@ -109,13 +112,15 @@ Sends an **email confirmation** of the order to the customer. We recommend sendi
 
 Takes the order **out of the workflow**, saves all its information, and stores it on its own list (**Orders → On Hold**) to come back to. Typically used for rain delays, site delays, etc. — the order may even be paid, but is on hold operationally. When it's ready, move it back: by default it returns to **Orders Pending** so you can update the harvest and delivery dates.
 
+While an order is on hold, an **On Hold** badge shows on the order (next to the lock icon), so its status is clear at a glance.
+
 ### Generate invoice
 
 Generate and send the customer's invoice. There are **three decisions**:
 
 1. **Invoice date** — defaults to today's date; adjust if required.
 2. **Due date** — auto-populates from the customer's payment terms. No terms → due date = invoice date; 14-day terms → due date = invoice date + 14. You can also set it manually.
-3. **Generation option** — **Draft**, **Approve**, or **Approve & Send**. Only **Approve & Send** sends the invoice to the customer now. Draft and Approve generate the invoice **without sending** — to send later, go to the **Invoicing** tab, where you can also **view** and **print** the invoice.
+3. **Generation option** — **Draft**, **Approve Only**, or **Approve & Send** (matching Sawfish). Only **Approve & Send** emails the invoice to the customer now. **Draft** and **Approve Only** generate the invoice **without sending** — send it later from the **Invoicing** tab, where you can also **view** and **print** it.
 
 *[Screenshot: Generate invoice modal]* · *[Screenshot: Invoicing tab — Approve and Send]*
 
