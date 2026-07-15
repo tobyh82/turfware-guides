@@ -45,6 +45,7 @@ plugins:
 nav:
   - Home: index.md
   - "Web App":
+    - "Operations Planner": web-app/operations-planner.md
     - "Order Management":
       - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
       - "Order":
