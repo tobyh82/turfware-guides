@@ -6,35 +6,31 @@ title: "Suppliers"
 
 Suppliers are the businesses that provide **turf, products, installation or services** to you. Setting a supplier up lets you attach them to an order (for example, the installation supplier on a job) and — soon — generate a **purchase order (PO)** from Turfware that maps straight into your accounting system.
 
+![Supplier setup page — details, supply categories, Sawfish mapping and the per-category supply-rates tab](../../../assets/supplier-turf-tab.png)
+
 ## Where to set them up
 
 Go to **Farm Settings → Suppliers**. Click **Create Supplier** to add a new one, or click any row to edit an existing one.
 
 ## 1. Details
 
-Complete the supplier's details, then tick **what the supplier provides to your business** — **Turf**, **Product**, **Installation** and/or **Services**.
+Complete the supplier's details — **Company name**, **Contact person**, **Phone**, **Email** — and switch **Active** on.
 
-Ticking a category reveals its matching **tab** below, ready to set up.
+Then tick the **Supply categories** the supplier provides to your business: **Turf**, **Products**, **Installation** and/or **Services**. Ticking a category reveals its matching **tab** lower down the page.
 
-*[Screenshot: Supplier Details — details fields + the "what they provide" tick boxes]*
+## 2. Sawfish (accounting link)
 
-## 2. Set up each category tab
+In the **Sawfish** panel, set the supplier's **Sawfish Item Code** and **Sawfish Account Code** (e.g. an expense / cost-of-goods account). These map a purchase order generated from Turfware to the correct **item** and **account** in your accounting system. *(PO generation is a feature coming soon.)*
 
-For every category you ticked, a tab appears. Complete each one:
+## 3. Supply rates — one tab per category
 
-=== "Turf / Product / Services"
-    - Select the item from the **dropdown** — these are your existing **Turf varieties, Products and Services**, so they need to be set up first. See [Turf Varieties](turf-varieties.md), [Products](products.md) and [Services](services.md).
-    - Link the supplier's **expense Chart-of-Accounts (COA)** and **Item**, so a PO generated from Turfware maps correctly to your accounting system *(PO generation is a feature coming soon)*.
-    - Add the **cost price** for the item.
+For each category you ticked, its tab (Turf / Installation / Products / Services) shows a **Supply Rates** table. For each line:
 
-=== "Installation"
-    - Select the installation offering from the **dropdown**.
-    - Link the **expense COA** and **Item** for accounting mapping.
-    - Add the **cost price**.
+- Pick the item from the **dropdown** — these are your existing **Turf varieties, Products and Services**, so set those up first. See [Turf Varieties](turf-varieties.md), [Products](products.md) and [Services](services.md).
+- Enter the supplier's **Price / SQM** — the table shows both ex-GST and inc-GST.
+- Use **Add item** for more lines.
 
-    This is the supplier you then choose in an order's **Installation** section — see [Creating & Managing an Order](../../order-management/creating-and-managing-an-order.md).
-
-*[Screenshot: a supplier category tab — dropdown, COA/Item link, cost price]*
+The **Installation** supplier you set up here is the one you then select in an order's **Installation** section — see [Creating & Managing an Order](../../order-management/creating-and-managing-an-order.md).
 
 ## Save
 
