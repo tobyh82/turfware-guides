@@ -4,16 +4,26 @@ title: Turfware Help
 
 # Turfware Help Centre
 
-Welcome to the Turfware guides. Everything you need to run turf orders, deliveries, cutting, setup and integrations — in one place.
-
-!!! tip "This is a preview"
-    This site is a proof-of-concept generated automatically from your existing 114 HelpJuice articles, to show how a docs-as-code guides site would look and feel. Content, branding and structure are all editable as plain Markdown files.
+Welcome to the Turfware guides — everything you need to run turf orders, deliveries, cutting, setup and integrations, in one place. Use the search bar at the top to find anything instantly.
 
 ## Browse by area
 
-- **Web App**
-- **Delivery App**
-- **Cutting App**
-- **General**
+<div class="grid cards" markdown>
 
-Use the search bar at the top to find anything instantly.
+-   __[Web App](web-app/index.md)__
+
+    Run orders, customers, logistics, reporting and setup in the Turfware admin.
+
+-   __[Delivery App](delivery-app/index.md)__
+
+    For drivers — delivery runs, order details and proof of delivery.
+
+-   __[Cutting App](cutting-app/index.md)__
+
+    For the harvest team — cut lists and confirming harvests.
+
+-   __[General](general/index.md)__
+
+    Glossary and cross-cutting reference.
+
+</div>

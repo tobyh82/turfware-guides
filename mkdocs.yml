@@ -1,4 +1,5 @@
 site_name: Turfware Help
+site_url: https://tobyh82.github.io/turfware-guides/
 site_description: Turfware user guides — orders, delivery, cutting, setup & integrations
 docs_dir: docs
 theme:
@@ -45,6 +46,7 @@ plugins:
 nav:
   - Home: index.md
   - "Web App":
+    - web-app/index.md
     - "Operations Planner": web-app/operations-planner.md
     - "Order Management":
       - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
@@ -158,6 +160,7 @@ nav:
         - "Preparation Report": web-app/report/how-to-use-filters-on-each-report/preparation-report.md
         - "Sales Report": web-app/report/how-to-use-filters-on-each-report/sales-report.md
   - "Delivery App":
+    - delivery-app/index.md
     - "Setting up Delivery App":
       - "Android": delivery-app/setting-up-delivery-app/android.md
       - "IOS": delivery-app/setting-up-delivery-app/ios.md
@@ -188,6 +191,7 @@ nav:
     - "Sending Invite to Delivery App":
       - "Sending Invite to Delivery App": delivery-app/sending-invite-to-delivery-app/sending-invite-to-delivery-app.md
   - "Cutting App":
+    - cutting-app/index.md
     - "Setting up the Cutting App":
       - "Android": cutting-app/setting-up-the-cutting-app/android.md
       - "IOS": cutting-app/setting-up-the-cutting-app/ios.md
@@ -205,4 +209,5 @@ nav:
     - "Sending Invite to Cutting App":
       - "Sending Invite to Cutting App": cutting-app/sending-invite-to-cutting-app/sending-invite-to-cutting-app.md
   - "General":
+    - general/index.md
     - "Turfware Glossary": general/turfware-glossary.md
