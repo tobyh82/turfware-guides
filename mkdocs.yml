@@ -96,13 +96,12 @@ nav:
       - "Overview": web-app/delete/overview.md
       - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
     - "Customers":
-      - "Adding a note": web-app/customers/adding-a-note.md
-      - "Adding business contacts": web-app/customers/adding-business-contacts.md
-      - "Adding document": web-app/customers/adding-document.md
-      - "Billing": web-app/customers/billing.md
-      - "Linking to Xero": web-app/customers/linking-to-xero.md
-      - "New Contact": web-app/customers/new-contact.md
+      - web-app/customers/index.md
+      - "Adding a customer": web-app/customers/adding-a-customer.md
+      - "Customer summary": web-app/customers/customer-summary.md
       - "Special Pricing": web-app/customers/special-pricing.md
+      - "Billing": web-app/customers/billing.md
+      - "Documents": web-app/customers/documents.md
     - "Turfware Setup":
       - "GST Rounding System with Xero Integration": web-app/turfware-setup/gst-rounding-system-with-xero-integration.md
       - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md

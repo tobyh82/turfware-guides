@@ -4,18 +4,20 @@ title: "Billing"
 
 # Billing
 
-- In the “Billing” tab it shows the financial information related to the customer.
+The **Billing** tab shows all of a customer's orders and their account position in one place.
 
-- Current and Overdue Amounts: At the top, two prominent boxes show the "Current" and "Overdue" amounts. (See Figure below)
+## Where to find it
 
-- Table: Below the amount boxes is a table that displays billing details such as order number, invoice number, abbreviation, suburb, order status, date, due date, paid, and due. (See Figure below)
+Open the customer → **Billing** tab.
 
-- Graph: At the bottom of the page, there's a graph titled"Money in and out over the last 12 months." The graph is empty, suggesting that this customer has had no financial activity (money in or out) over the past year. (See Figure below)
+## What it shows
 
-- AccountStatus and Sale Terms: On the right side of the page, the account status is marked as "ACTIVE," and the sale terms are set to "0 DAYS AFTER BILL DATE," indicating that payment is due immediately after the bill is generated.
+- **Due and Overdue balances** — two boxes at the top give the customer's current **Due** and **Overdue** amounts at a glance.
+- **Orders table** — every order for the customer, line by line: order number, PO / reference, invoice number, suburb, status, date, due date, paid and due.
+- **Search** — find an order by **order number** or **PO / reference**.
+- **Click through** — click any line item to open that order.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350800/Customer_-_Attachment_2.jpg)
+*[Screenshot: Billing tab — customer account view — save as customer-billing.png]*
 
----
-
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
+!!! tip "Chasing payment"
+    The **Overdue** box plus the per-order **due date** column make this the quickest place to see what a customer owes and follow it up.

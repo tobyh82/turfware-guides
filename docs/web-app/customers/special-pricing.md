@@ -4,16 +4,27 @@ title: "Special Pricing"
 
 # Special Pricing
 
-- Add special pricing:
+The **Pricing** tab is where you set **customer-specific pricing**.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/bff6e533-810a-4cdc-be75-6e4155b3d036)
+## Where to find it
 
-- Update special pricing:
+Open the customer → **Pricing** tab.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/c2980bb1-89a4-48b6-a433-147609754949)
+!!! warning "This overrides everything"
+    Special pricing applies **only to this customer** and **overrides all other price settings in Turfware** (including segment pricing). Use it for negotiated customer rates.
 
-- To activate the special pricing, switch on the “**Special****Pricing**” on the top right.
+## Turn it on
 
----
+Special pricing is off by default. Switch the **Special Pricing** toggle **on** (top right of the tab) to activate it.
 
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
+## Set the prices
+
+With it on, add special pricing by:
+
+- **Turf varieties** — a custom rate per variety.
+- **Products** — a custom rate per product.
+- **Freight** — a custom freight rate.
+
+*[Screenshot: Pricing tab — special pricing by turf, product and freight — save as customer-pricing.png]*
+
+Save your changes. From now on, this customer's orders use these rates instead of the standard ones.
