@@ -16,7 +16,7 @@ Complete the customer's details. Two fields matter most:
 - **Organisation Type — Company or Individual.** This dictates **how the customer is set up in your accounting system (Sawfish)** and **how you search for them in Turfware** (business name vs a person's name).
 - **Segment.** This dictates the **pricing the customer receives**, as per your segment pricing controls (e.g. Wholesale, Retail, Trade).
 
-*[Screenshot: Add new customer form — save as customer-add-new.png]*
+![Add Customer — Business Name, ABN, Segment, Organisation Type, primary person and site contact](../../assets/customer-add-new.png)
 
 ## The duplicate check — Confirm Sawfish Link
 
@@ -28,7 +28,7 @@ If it finds a possible match, the **Confirm Sawfish Link** window appears, listi
 - If it's genuinely a **new** customer, click **Create new Sawfish client**.
 - **Cancel** backs out without saving.
 
-*[Screenshot: Confirm Sawfish Link — save as customer-sawfish-link.png]*
+![Confirm Sawfish Link — link an existing client or create a new one](../../assets/customer-sawfish-link.png)
 
 !!! warning "Why this matters"
     Linking to the correct Sawfish client keeps one clean customer record across Turfware and your accounts — no duplicate invoices, no split payment history.

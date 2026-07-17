@@ -14,4 +14,4 @@ Open the customer → **Documents** tab.
 
 Click the green **Upload** button (top right), choose the file, and save. It's now stored against the customer and available to anyone who opens their record.
 
-*[Screenshot: Documents tab — save as customer-documents.png]*
+![Documents — upload files against the customer](../../assets/customer-documents.png)

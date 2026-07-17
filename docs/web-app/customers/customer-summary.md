@@ -6,7 +6,7 @@ title: "Customer summary"
 
 Open a customer by clicking their row on the **Customers** page. The **Summary** tab is the customer's home — their details, contacts and notes in one place. Across the top are five tabs: **Summary, Pricing, Billing, Marketing, Documents**.
 
-*[Screenshot: Customer summary view — save as customer-summary.png]*
+![Customer summary — details, contacts and notes](../../assets/customer-summary.png)
 
 ## Customer details
 
@@ -24,7 +24,7 @@ Under **Business Contact**, click the green **Add Contact** button. Enter the co
 
 Tick only what that person should get — e.g. an accounts contact gets **Invoices**, a site contact gets **Order delivery ETA**. Click **Save**.
 
-*[Screenshot: Add Business Contact — save as customer-add-contact.png]*
+![Add Business Contact — details and communication preferences](../../assets/customer-add-contact.png)
 
 ## Add a note
 

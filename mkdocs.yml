@@ -53,6 +53,13 @@ nav:
       - "Cut Sheet": web-app/dashboard/cut-sheet.md
       - "Forecast": web-app/dashboard/forecast.md
       - "Sales": web-app/dashboard/sales.md
+    - "Customers":
+      - web-app/customers/index.md
+      - "Adding a customer": web-app/customers/adding-a-customer.md
+      - "Customer summary": web-app/customers/customer-summary.md
+      - "Special Pricing": web-app/customers/special-pricing.md
+      - "Billing": web-app/customers/billing.md
+      - "Documents": web-app/customers/documents.md
     - "Order Management":
       - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
       - "Order":
@@ -95,13 +102,6 @@ nav:
       - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
       - "Overview": web-app/delete/overview.md
       - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
-    - "Customers":
-      - web-app/customers/index.md
-      - "Adding a customer": web-app/customers/adding-a-customer.md
-      - "Customer summary": web-app/customers/customer-summary.md
-      - "Special Pricing": web-app/customers/special-pricing.md
-      - "Billing": web-app/customers/billing.md
-      - "Documents": web-app/customers/documents.md
     - "Turfware Setup":
       - "GST Rounding System with Xero Integration": web-app/turfware-setup/gst-rounding-system-with-xero-integration.md
       - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md

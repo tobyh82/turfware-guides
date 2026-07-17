@@ -19,12 +19,12 @@ Special pricing is off by default. Switch the **Special Pricing** toggle **on** 
 
 ## Set the prices
 
-With it on, add special pricing by:
+With it on, add pricing in three sections — each shows the **Custom Price** against the standard **Default Price**, and each has its own **Add** button:
 
-- **Turf varieties** — a custom rate per variety.
-- **Products** — a custom rate per product.
-- **Freight** — a custom freight rate.
+- **Special Turf Pricing** — a custom price per turf **variety**.
+- **Special Turf Care Pricing** — a custom price per **turf care product**.
+- **Special Freight Pricing** — a custom freight rate per **zone**: custom **$/SQM**, a **flat rate**, and a **flat-rate SQM (max)**.
 
-*[Screenshot: Pricing tab — special pricing by turf, product and freight — save as customer-pricing.png]*
+![Pricing tab — special turf, turf care and freight pricing](../../assets/customer-pricing.png)
 
 Save your changes. From now on, this customer's orders use these rates instead of the standard ones.

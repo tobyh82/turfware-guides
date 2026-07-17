@@ -17,7 +17,7 @@ Open the customer → **Billing** tab.
 - **Search** — find an order by **order number** or **PO / reference**.
 - **Click through** — click any line item to open that order.
 
-*[Screenshot: Billing tab — customer account view — save as customer-billing.png]*
+![Billing — current and overdue balances, and every order](../../assets/customer-billing.png)
 
 !!! tip "Chasing payment"
     The **Overdue** box plus the per-order **due date** column make this the quickest place to see what a customer owes and follow it up.
