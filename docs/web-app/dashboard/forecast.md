@@ -4,22 +4,21 @@ title: "Forecast"
 
 # Forecast
 
-The **Forecast** is a short-term, **day-by-day table** of everything coming up — broken down by **turf variety** — so you can see the workload ahead for both delivery and installation in one place.
+The **Forecast** (headed **Payments / Forecast** in the app) is a short-term, **7-day look ahead** — three tables that show the order, delivery and laying workload coming up, so you can plan harvest, trucks and laying crews against real demand.
 
 ## Where to find it
 
 Top navigation → **Forecast**.
 
-## What it shows
+## The three forecasts
 
-Across the next several days, for each **turf variety**:
+Each table lists the **coming 7 days across the top** (day and date); the figures run down the side. Where there are orders, they break down by **turf variety**.
 
-- **Delivery** — square metres (m²), number of **orders**, and **pallets**.
-- **Installation** — number of **orders** and total **square metres**.
+- **Order Forecast** — **Total M²** booked per day.
+- **Delivery Forecast** — **No. of Orders** and **No. of Pallets** per day.
+- **Laying Forecast** — **No. of Orders** and **Total SQM** per day.
 
-This lets you plan harvest, trucks and laying crews against real upcoming demand.
+![Forecast — 7-day Order, Delivery and Laying tables](../../assets/dashboard-forecast.png)
 
-*[Screenshot: Forecast — day-by-day table by turf variety]*
-
-!!! note "Screenshot to add"
-    A clean **Forecast** screenshot wasn't in the folder with the others. Drop one into `~/Desktop/Turfware_Guide/` (e.g. `Turfware_Forecast_Dashboard.png`) and I'll place it here.
+!!! tip "Plan the week ahead"
+    Read the three together: **Order Forecast** tells you how much turf to cut, **Delivery Forecast** how many trucks and pallets you'll need, and **Laying Forecast** how much installation crew work is booked.
