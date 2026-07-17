@@ -10,9 +10,9 @@ The Turfware web admin — where you plan operations, create and manage orders, 
 
 <div class="grid cards" markdown>
 
--   __[Operations Planner](operations-planner.md)__
+-   __[Dashboards](dashboard/index.md)__
 
-    Your forward-looking capacity view — trucks, pallets, drops and orders across the next four weeks.
+    Quick-view dashboards: Planner, Cut Sheet, Forecast and Sales.
 
 -   __[Creating & Managing an Order](order-management/creating-and-managing-an-order.md)__
 

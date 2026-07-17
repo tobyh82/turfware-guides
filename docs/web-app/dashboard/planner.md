@@ -1,10 +1,10 @@
 ---
-title: "Operations Planner"
+title: "Planner"
 ---
 
-# Operations Planner
+# Planner
 
-The Operations Planner is your **forward-looking capacity view**. Across the next four weeks it shows how full each day is — trucks, pallet spaces and drops — alongside how many orders are **pending** vs **confirmed**, so you can plan and manage orders against your real capacity.
+The **Planner** is your **forward-looking capacity view**. Across the next four weeks it shows how full each day is — trucks, pallet spaces and drops — alongside how many orders are **pending** vs **confirmed**, so you can plan and manage orders against your real capacity.
 
 ## Where to find it
 
@@ -22,7 +22,7 @@ Each day tile shows, at a glance:
 
 Use **Previous 4 Weeks** / **Next 4 Weeks** to move the window; today's date is highlighted.
 
-*[Screenshot: Operations Planner — 4-week view]*
+*[Screenshot: Planner — 4-week view]*
 
 ## Filter by operation type
 

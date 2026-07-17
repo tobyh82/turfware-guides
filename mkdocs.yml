@@ -47,7 +47,12 @@ nav:
   - Home: index.md
   - "Web App":
     - web-app/index.md
-    - "Operations Planner": web-app/operations-planner.md
+    - "Dashboard":
+      - web-app/dashboard/index.md
+      - "Planner": web-app/dashboard/planner.md
+      - "Cut Sheet": web-app/dashboard/cut-sheet.md
+      - "Forecast": web-app/dashboard/forecast.md
+      - "Sales": web-app/dashboard/sales.md
     - "Order Management":
       - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
       - "Order":
