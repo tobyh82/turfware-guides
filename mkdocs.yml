@@ -61,8 +61,16 @@ nav:
       - "Billing": web-app/customers/billing.md
       - "Documents": web-app/customers/documents.md
     - "Order Management":
+      - web-app/order-management/index.md
       - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
-      - "Order":
+      - "Quotes": web-app/order-management/quotes.md
+      - "Quotes Accepted": web-app/order-management/quotes-accepted.md
+      - "Shopify Pending": web-app/order-management/shopify-pending.md
+      - "Orders Pending": web-app/order-management/orders-pending.md
+      - "Orders Confirmed": web-app/order-management/orders-confirmed.md
+      - "On Hold": web-app/order-management/on-hold.md
+      - "Lost": web-app/order-management/lost.md
+      - "Order — detail how-tos":
         - "Accepting Manual Payment": web-app/order-management/order/accepting-manual-payment.md
         - "Add Turfcare to an Order": web-app/order-management/order/add-turfcare-to-an-order.md
         - "Add a document": web-app/order-management/order/add-a-document.md
@@ -74,30 +82,9 @@ nav:
         - "Lock or unlock": web-app/order-management/order/lock-or-unlock.md
         - "Preparation, Installation and Delivery": web-app/order-management/order/preparation-installation-and-delivery.md
         - "Save and move status": web-app/order-management/order/save-and-move-status.md
-        - "Send invoice to Xero": web-app/order-management/order/send-invoice-to-xero.md
+        - "Send invoice to Sawfish": web-app/order-management/order/send-invoice-to-xero.md
         - "Timeline": web-app/order-management/order/timeline.md
         - "Updating Order / Order Confirmation": web-app/order-management/order/updating-order-order-confirmation.md
-      - "Quotes Accepted":
-        - "Automation to quotes accepted by online acceptance, How does this work, next steps": web-app/order-management/quotes-accepted/automation-to-quotes-accepted-by-online-acceptance-how-does-this-work-next-steps.md
-        - "How to manage quotes accepted status": web-app/order-management/quotes-accepted/how-to-manage-quotes-accepted-status.md
-      - "Quotes":
-        - "Create a quote": web-app/order-management/quotes/create-a-quote.md
-        - "Move a quote to quote excepted and then to order pending": web-app/order-management/quotes/move-a-quote-to-quote-excepted-and-then-to-order-pending.md
-        - "Send a quote": web-app/order-management/quotes/send-a-quote.md
-        - "Splitting Invoice": web-app/order-management/quotes/splitting-invoice.md
-      - "On Hold":
-        - "The power of Hold, removed orders from Cutsheets and delivery runs": web-app/order-management/on-hold/the-power-of-hold-removed-orders-from-cutsheets-and-delivery-runs.md
-        - "What is on hold?": web-app/order-management/on-hold/what-is-on-hold.md
-        - "What is the relevance of on hold?": web-app/order-management/on-hold/what-is-the-relevance-of-on-hold.md
-      - "Lost":
-        - "What is lost?": web-app/order-management/lost/what-is-lost.md
-        - "What is the relevance of loss?": web-app/order-management/lost/what-is-the-relevance-of-loss.md
-      - "Orders Confirmed":
-        - "What is the order confirmed?": web-app/order-management/orders-confirmed/what-is-the-order-confirmed.md
-        - "What is the relevance of orders confirmed?": web-app/order-management/orders-confirmed/what-is-the-relevance-of-orders-confirmed.md
-      - "Orders Pending":
-        - "What is the order pending?": web-app/order-management/orders-pending/what-is-the-order-pending.md
-        - "What is the relevance of orders pending?": web-app/order-management/orders-pending/what-is-the-relevance-of-orders-pending.md
     - "Delete":
       - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
       - "Overview": web-app/delete/overview.md
