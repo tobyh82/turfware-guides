@@ -72,7 +72,7 @@ What's available here is set by **Company Settings → Order Settings** — only
 
     The key difference from other services: you select the **installation supplier** (set up in **Farm Settings → Suppliers**).
 
-    *[Screenshot: Installation section]*
+    ![Installation — rate, Total/$Sqm toggle and installation supplier](../../assets/order-installation.png)
 
 === "Services"
     Services you provide that may happen on a **different date** to the turf or product delivery — e.g. preparation or maintenance. Because of that, a service has its **own date**, which triggers its **own workflow**: setting a service date populates it on **Operations → Preparations**. Otherwise it works like a product, pulling from **Farm Settings → Services**.
@@ -80,6 +80,8 @@ What's available here is set by **Company Settings → Order Settings** — only
 ### Order Summary
 
 The order value, calculated **line by line**, replicating the invoice values. Apply a **discount as a field on any line item** — the same way Xero, MYOB and Shopify do it (e.g. 25% off a product). The discount shows on the invoice, so the customer can see it applied.
+
+![Order Summary — line-by-line category, quantity, unit price, discount, GST and totals](../../assets/order-summary-table.png)
 
 ## Saving the order
 
@@ -112,6 +114,8 @@ The key actions live in the **⋯ menu** in the top-right of the order.
 
 Sends an **email confirmation** of the order to the customer. We recommend sending it — it provides a validation of the order confirmation. It's a **template** you can customise (Notifications → *Order Confirmation*). A popup appears, pre-filled with that order's information; add email addresses and adjust the wording to suit.
 
+![Confirm Order — email recipients, subject and body before sending](../../assets/order-send-confirmation.png)
+
 ### Put on hold
 
 Takes the order **out of the workflow**, saves all its information, and stores it on its own list (**Orders → On Hold**) to come back to. Typically used for rain delays, site delays, etc. — the order may even be paid, but is on hold operationally. When it's ready, move it back: by default it returns to **Orders Pending** so you can update the harvest and delivery dates.
@@ -126,7 +130,9 @@ Generate and send the customer's invoice. There are **three decisions**:
 2. **Due date** — auto-populates from the customer's payment terms. No terms → due date = invoice date; 14-day terms → due date = invoice date + 14. You can also set it manually.
 3. **Generation option** — **Draft**, **Approve Only**, or **Approve & Send** (matching Sawfish). Only **Approve & Send** emails the invoice to the customer now. **Draft** and **Approve Only** generate the invoice **without sending** — send it later from the **Invoicing** tab, where you can also **view** and **print** it.
 
-*[Screenshot: Generate invoice modal]* · *[Screenshot: Invoicing tab — Approve and Send]*
+![Generate invoice — invoice date, due date, and Draft / Approve Only / Approve & Send](../../assets/order-generate-invoice.png)
+
+*[Screenshot: Invoicing tab — Approve and Send]*
 
 !!! tip "Where invoices live"
     Every invoice for an order is listed on its **Invoicing** tab — showing invoice number, Sawfish status, invoice status, amount paid and amount due — with **Approve and Send / Approve Only / View / Print** actions.
