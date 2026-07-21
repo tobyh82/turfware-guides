@@ -75,26 +75,26 @@ nav:
       - "Overview": web-app/delete/overview.md
       - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
     - "Turfware Setup":
-      - "GST Rounding System with Xero Integration": web-app/turfware-setup/gst-rounding-system-with-xero-integration.md
-      - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md
       - "Order Settings": web-app/turfware-setup/order-settings.md
+      - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md
       - "Farm Settings":
-        - "Carrier Settings": web-app/turfware-setup/farm-settings/carrier-settings.md
-        - "Farms": web-app/turfware-setup/farm-settings/farms.md
-        - "Freight rates": web-app/turfware-setup/farm-settings/freight-rates.md
-        - "Installation providers": web-app/turfware-setup/farm-settings/installation-providers.md
-        - "Pickup Location": web-app/turfware-setup/farm-settings/pickup-location.md
+        - "Turf": web-app/turfware-setup/farm-settings/turf-varieties.md
         - "Products": web-app/turfware-setup/farm-settings/products.md
-        - "Segment": web-app/turfware-setup/farm-settings/segment.md
         - "Services": web-app/turfware-setup/farm-settings/services.md
+        - "Segments": web-app/turfware-setup/farm-settings/segment.md
         - "Suppliers": web-app/turfware-setup/farm-settings/suppliers.md
-        - "Turf Varieties": web-app/turfware-setup/farm-settings/turf-varieties.md
-      - "Farm Setup":
-        - "Chart of Accounts": web-app/turfware-setup/farm-setup/chart-of-accounts.md
-        - "Company Information": web-app/turfware-setup/farm-setup/company-information.md
+        - "Carrier Settings": web-app/turfware-setup/farm-settings/carrier-settings.md
+        - "Freight Rate": web-app/turfware-setup/farm-settings/freight-rates.md
+        - "Farm Groups": web-app/turfware-setup/farm-settings/farm-groups.md
+        - "Farms": web-app/turfware-setup/farm-settings/farms.md
+        - "Pick Up Locations": web-app/turfware-setup/farm-settings/pickup-location.md
+        - "Pallet Types": web-app/turfware-setup/farm-settings/pallet-types.md
+      - "System Settings":
         - "Market Channels": web-app/turfware-setup/farm-setup/market-channels.md
+        - "Company Information": web-app/turfware-setup/farm-setup/company-information.md
+        - "Sawfish Configuration": web-app/turfware-setup/farm-setup/sawfish-configuration.md
         - "Payment Methods": web-app/turfware-setup/farm-setup/payment-methods.md
-        - "Xero Configuration": web-app/turfware-setup/farm-setup/xero-configuration.md
+        - "Chart of Accounts": web-app/turfware-setup/farm-setup/chart-of-accounts.md
       - "Communications":
         - "Communications": web-app/turfware-setup/communications/communications.md
     - "How to use lists":
