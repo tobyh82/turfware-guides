@@ -49,10 +49,7 @@ Internal notes about the turf — characteristics, care, ideal use. For **your t
 - **Sawfish Item Code** — the **item** this variety maps to in your accounting system. Create the matching item there first, then select it here.
 - **Sawfish Account Code** — the **chart-of-accounts code** revenue from this variety posts to.
 
-Setting these up in your accounting system:
-
-- **Xero** — [Add an item](https://central.xero.com/s/article/Add-an-inventory-item) · [Add an account](https://central.xero.com/s/article/Add-or-edit-an-account-in-your-chart-of-accounts)
-- **MYOB** — [Creating items](https://www.myob.com/au/support/myob-business/inventory/creating-items?productview=Browser) · [Add an account](https://www.myob.com/au/support/myob-business/accounting/financial-control/accounts-list?productview=Browser)
+Create the matching item and account in **Sawfish** first, then enter their codes here — Turfware syncs the invoice to Sawfish (see [Sawfish Configuration](../farm-setup/sawfish-configuration.md)).
 
 ## 7. Shopify
 

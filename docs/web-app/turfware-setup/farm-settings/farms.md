@@ -4,16 +4,17 @@ title: "Farms"
 
 # Farms
 
-- List all farms:
+**Farms** are the properties where your turf is grown and harvested. Each turf line on an order is assigned a farm to harvest from, and farms drive the harvest and capacity views.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350758/Farm_setting_-_Attachment_11.jpg)
+## Where to find it
 
-- Create a new farm:
+Left-hand navigation → **Farm Settings → Farms**. Click **Create** to add a farm, or click a row to edit.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/38f7911e-dbdc-44db-8eda-5152a05818cb)
+## Setting up a farm
 
-- Update farm: Click the row to get to the farm edit page.
+Complete the farm's **name** and details (and its **[Farm Group](farm-groups.md)**, if you use groups). Once set up, a farm can be selected on turf lines when building an order.
 
----
+*[Screenshot: Farms — save as fs-farms.png]*
 
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
+!!! note "To verify"
+    I'll confirm the exact fields against the live create form — send a screenshot and I'll finish this page.

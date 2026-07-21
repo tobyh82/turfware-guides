@@ -1,19 +1,20 @@
 ---
-title: "Pickup Location"
+title: "Pick Up Locations"
 ---
 
-# Pickup Location
+# Pick Up Locations
 
-- List all pickup locations:
+**Pick Up Locations** are the places customers can **collect** an order from — for example *Store 1* or *Main Farm*. They appear in the **Pickup** section when you build a Pickup order.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350759/Farm_setting_-_Attachment_12.jpg)
+## Where to find it
 
-- Create a new pick-up location:
+Left-hand navigation → **Farm Settings → Pick Up Locations**. Click **Create** to add one, or click a row to edit.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/3b277d7e-5cfd-4695-a09c-5420532984eb)
+## Setting up a location
 
-- Update pick-up location: Click the row to get to the pickup location edit page.
+Give the location a **name** and **address**. You can also mark whether **freight is required** — use this for a non-farm pickup point that still needs the order transported from the farm, which adds it to the freight and scheduling queue.
 
----
+*[Screenshot: Pick Up Locations — save as fs-pickup-locations.png]*
 
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
+!!! note "To verify"
+    I'll confirm the exact fields against the live create form — send a screenshot and I'll finish this page.

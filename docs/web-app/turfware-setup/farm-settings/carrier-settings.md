@@ -4,16 +4,17 @@ title: "Carrier Settings"
 
 # Carrier Settings
 
-- List all Delivery companies: 
+**Carriers** are the **delivery companies** you use to get orders to customers — your own fleet or third-party freight providers. They're used when scheduling deliveries in Logistics.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350756/Farm_setting_-_Attachment_9.jpg)
+## Where to find it
 
-- Create a new delivery company:
+Left-hand navigation → **Farm Settings → Carrier Settings**. Click **Create** to add a carrier, or click a row to edit.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/9899778c-ca08-486f-a627-5872d22a2351)
+## Setting up a carrier
 
-- Update the delivery company: Click the row to get to the carrier edit page.
+Complete the carrier's details (company name and contact information) and save. The carrier is then available to assign to delivery runs.
 
----
+*[Screenshot: Carrier Settings — save as fs-carrier-settings.png]*
 
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
+!!! note "To verify"
+    I'll confirm the exact fields against the live create form and finish this page — send a screenshot and I'll slot it in.

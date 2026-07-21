@@ -1,19 +1,40 @@
 ---
-title: "Segment"
+title: "Segments"
 ---
 
-# Segment
+# Segments
 
-- List all Segments. See Figure 1.2.4:
+**Segments** are your **pricing tiers** — for example Wholesale, Resellers, Retail and Trade. A customer's segment sets the **default pricing** they receive on turf, turf care and installation, so you price consistently by customer type. Every customer is assigned a segment (see [Adding a customer](../../customers/adding-a-customer.md)).
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350754/Farm_setting_-_Attachment_7.jpg)
+## Where to find it
 
-- Create new Segments:
+Left-hand navigation → **Farm Settings → Segments**. Click **Create Segment** to add one, or click a row to edit.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/7c773ed1-3250-4e82-9f29-d607459a4fc0)
+## What a segment sets
 
-- Update the segment: Click the row to get to the segment edit page.
+**Details**
 
----
+- **Name** and **Status** — set Status to **Published** to make the segment usable.
+- **Sawfish Tracking Category Item** — links the segment to a Sawfish tracking category, so sales by segment report correctly in your accounts.
 
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
+**Turf & turf care pricing**
+
+- **Turf Pricing Discount** and **Turf Care Pricing Discount** — a blanket **discount off RRP** for this segment (e.g. Wholesale = **40% off RRP**). This is the segment's headline pricing.
+
+**Laying (installation) pricing**
+
+- **Laying Rate**, **Laying Flat Rate** and **Laying Min Sqm** — the installation rates applied for orders on this segment.
+
+**Special pricing — optional overrides**
+
+- **Turf Special Pricing** and **Turf Care Special Pricing** — override the blanket discount for specific varieties or products. Pick the product, set a **discount as a % or $** (toggle), and click **Add** (e.g. Sir Grange 15%, Winter Green Couch $1).
+
+*[Screenshot: Segment edit — pricing tier setup — save as fs-segment.png]*
+
+## How it flows
+
+When a customer on this segment is added to an order, these rates pre-fill automatically. A **customer-level** override still wins — see [Special Pricing](../../customers/special-pricing.md), which overrides all segment pricing.
+
+## Save
+
+Click **Save**.
