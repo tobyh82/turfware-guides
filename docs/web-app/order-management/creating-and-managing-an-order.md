@@ -108,7 +108,7 @@ To move an order into the workflow, change the **order Status** in the top-right
     **Administrator override** — only an Administrator can force-confirm an unpaid order. This triggers an *"Order Not Paid"* confirmation popup, and the override is recorded in the order **Timeline**.
 
 !!! tip "Recording a payment"
-    Any **user or super-user can record a payment** on an order at **any time** (via **Received Payment**) — there's no cut-off-time restriction, so you don't need manager permission to mark an order paid.
+    Any **user or super-user can record a payment** on an order at **any time** via the **Received Payment** button (under *Payment Status*) — there's no cut-off-time restriction, so you don't need manager permission. Enter the **payment method, date, reference** and any **notes**. Recording a payment can move the order to **Confirmed**, and it's how you log payments taken **outside Sawfish** — e.g. **cash or bank transfer**.
 
 ## Order actions (the ⋯ menu)
 
@@ -126,6 +126,10 @@ Takes the order **out of the workflow**, saves all its information, and stores i
 
 While an order is on hold, an **On Hold** badge shows on the order (next to the lock icon), so its status is clear at a glance.
 
+### Mark as lost
+
+If an order isn't going ahead, move it to **Lost** — it's closed and archived but kept for reporting and marketing. See [Lost](lost.md).
+
 ### Generate invoice
 
 Generate and send the customer's invoice. There are **three decisions**:
@@ -140,3 +144,26 @@ Generate and send the customer's invoice. There are **three decisions**:
 
 !!! tip "Where invoices live"
     Every invoice for an order is listed on its **Invoicing** tab — showing invoice number, Sawfish status, invoice status, amount paid and amount due — with **Approve and Send / Approve Only / View / Print** actions.
+
+## Flag or lock an order
+
+Two controls sit beside the order number at the top of the order:
+
+- **Flag** — click the **flag icon** to flag the order for attention (for example, something needs checking before it proceeds).
+- **Lock** — the **lock icon** freezes the order so key details can't be changed by accident. While an order is locked, these fields are disabled: **customer, segment, sales person, services, pallet type, purchase order, market channel, delivery location, freight price, deliveries** and **installation (layer / laying)**. Click it again to unlock and edit.
+
+## The Timeline tab
+
+The **Timeline** tracks every change to the order — what changed, who changed it, and when. Open it from the order's **Timeline** tab. Each entry shows:
+
+- **# (ID)** — the change record's identifier.
+- **Description** — a summary of the change (e.g. *"Order Status Updated"*).
+- **Audited** — what changed, including the old and new values.
+- **Causer** — the user who made the change, or **System** for an automated update.
+- **Created At** — when it happened.
+
+Administrator overrides — like force-confirming an unpaid order — are recorded here too.
+
+## The Documents tab
+
+Store files against the order — purchase orders, site plans, anything relevant. Open the **Documents** tab, click **Upload** (top right), choose the **document type** and **file**, and upload. All the order's documents are listed on this tab.
