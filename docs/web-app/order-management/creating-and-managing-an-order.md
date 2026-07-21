@@ -8,7 +8,7 @@ The Order page is where an order is built, saved, moved through your workflow, a
 
 This guide follows the full flow: building the order on the **Order Summary** tab, saving it, moving it through the workflow, and the key actions.
 
-*[Screenshot: Order page header — the four tabs, Status dropdown and ⋯ menu]*
+![Order page — tabs, Status control, ⋯ menu and Customer Account Status](../../assets/order-page-header.png)
 
 ## The Order Summary tab
 
@@ -37,7 +37,7 @@ How the order is fulfilled. Choosing a type reveals the matching section.
 
     Selecting Pickup reveals the **Pickup** section — complete **Contact Name**, **Contact Number**, **Pick Up Location**, **Pickup Time** and **Pickup Date**. This generates the pickup on the **Pickup list** (Logistics → Pickup).
 
-    *[Screenshot: Pickup Details section]*
+    ![Pickup Details — contact, pick-up location, time and date](../../assets/order-pickup.png)
 
 === "Delivery"
     A **Delivery date** is required — the date the order is to be delivered. The **Delivery** section appears:
@@ -60,10 +60,12 @@ What's available here is set by **Company Settings → Order Settings** — only
 
     **Cutsheet notes** — notes for the harvest team, e.g. *"display home order."*
 
-    *[Screenshot: Harvesting section]*
+    ![Turf lines and Harvesting — variety, farm, size, pallets, pallet type and cutsheet notes](../../assets/order-turf-harvesting.png)
 
 === "Product"
     Select the **product**, the **stock location** (if the product is linked to Shopify for inventory management) and the **units**. The rest pre-fills from the product's setup.
+
+    ![Products — product, stock location, units and price](../../assets/order-products.png)
 
 === "Installation"
     Pre-calculates from the **laying rates** on the customer's segment. You can also set a **custom** installation price. As with freight, choose how it appears on the invoice — **flat rate** or **$/m²**.
