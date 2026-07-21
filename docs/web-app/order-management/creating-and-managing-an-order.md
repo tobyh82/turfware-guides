@@ -18,7 +18,9 @@ Shows the customer's current **account status against their credit limit** and t
 
 ### Order Detail
 
-- **Customer** — search across *all* customers in Turfware. The search returns the customer / business name **and** address, so you can tell two "John Smith"s apart. If the customer isn't a **Sawfish client** yet, you can create one from here so their invoices sync to your accounts.
+- **Customer** — search across *all* customers in Turfware. The search returns the customer / business name **and** address, so you can tell two "John Smith"s apart. If the customer doesn’t exist yet, you can **create a new Turfware customer directly from the order** without leaving the page. And if they aren’t a **Sawfish client** yet, you can create/link that from here too, so their invoices sync to your accounts.
+
+  *[Screenshot: Create a new customer from the order — save as order-create-customer.png]*
 - **Segment & Sales Person** — if these are set on the customer's profile they're pre-filled; otherwise fill them in.
 - **PO** — a free-text field. If you complete it, it becomes the **reference field on the invoice**, so the customer can match the invoice to their PO. If the customer supplied a PO document, attach it under the **Documents** tab for reference.
 - **Market Channel** — where the customer came from. Helps you understand which marketing channels are working.
