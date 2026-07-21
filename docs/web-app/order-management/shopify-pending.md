@@ -29,7 +29,5 @@ The usual cause is a **product-mapping gap**: a Shopify product (variant) that *
 2. Fix the **product mapping** (link the Shopify product to the correct Turfware product) and correct any missing details.
 3. Once the order is complete and the values reconcile, it can move into the normal workflow ([Orders Pending](orders-pending.md) → [Orders Confirmed](orders-confirmed.md)).
 
-*[Screenshot: Shopify Pending Orders list — save as om-shopify-pending.png]*
-
 !!! tip "Prevention"
     Keeping every Shopify product correctly **linked to its Turfware product** (in the product setup) means online orders reconcile automatically and rarely stop here.

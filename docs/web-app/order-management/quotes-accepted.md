@@ -22,5 +22,3 @@ When a customer **accepts and pays** a quote through the online link, Turfware r
 ## Managing the list
 
 Filter the list by **accepted date** using the date-range filter, and use search to narrow it further. You can also start a new quote from here with **Create Quote**.
-
-*[Screenshot: Quotes Accepted list — save as om-quotes-accepted.png]*

@@ -20,7 +20,11 @@ Shows the customer's current **account status against their credit limit** and t
 
 - **Customer** — search across *all* customers in Turfware. The search returns the customer / business name **and** address, so you can tell two "John Smith"s apart. If the customer doesn’t exist yet, you can **create a new Turfware customer directly from the order** without leaving the page. And if they aren’t a **Sawfish client** yet, you can create/link that from here too, so their invoices sync to your accounts.
 
-  *[Screenshot: Create a new customer from the order — save as order-create-customer.png]*
+  Type a name that isn't already in Turfware and a **Create new customer?** option appears; click it to open the **Create Customer** form (email, name, segment, organisation type, contacts and billing/delivery addresses), then **Save** — the new customer is attached to the order.
+
+  ![Typing a new name reveals the “Create new customer?” prompt](../../assets/order-create-customer-1.png)
+
+  ![The Create Customer form opened from the order](../../assets/order-create-customer-2.png)
 - **Segment & Sales Person** — if these are set on the customer's profile they're pre-filled; otherwise fill them in.
 - **PO** — a free-text field. If you complete it, it becomes the **reference field on the invoice**, so the customer can match the invoice to their PO. If the customer supplied a PO document, attach it under the **Documents** tab for reference.
 - **Market Channel** — where the customer came from. Helps you understand which marketing channels are working.
@@ -132,7 +136,7 @@ Generate and send the customer's invoice. There are **three decisions**:
 
 ![Generate invoice — invoice date, due date, and Draft / Approve Only / Approve & Send](../../assets/order-generate-invoice.png)
 
-*[Screenshot: Invoicing tab — Approve and Send]*
+![Invoicing tab — Sawfish status, invoice status, amounts, and Resend / View / Print](../../assets/order-invoicing-tab.png)
 
 !!! tip "Where invoices live"
     Every invoice for an order is listed on its **Invoicing** tab — showing invoice number, Sawfish status, invoice status, amount paid and amount due — with **Approve and Send / Approve Only / View / Print** actions.

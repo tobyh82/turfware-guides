@@ -14,7 +14,7 @@ Left-hand navigation → **Order Management → Quotes**.
 
 Click the green **Create Quote** button (top left). Build it exactly like an order — customer, turf, products, delivery — see [Creating & Managing an Order](creating-and-managing-an-order.md).
 
-*[Screenshot: Quotes list + Create Quote — save as om-quotes-list.png]*
+![Quotes list with the Create Quote button](../../assets/om-quotes-list.png)
 
 ## Send a quote
 

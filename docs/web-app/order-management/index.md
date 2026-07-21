@@ -30,4 +30,4 @@ Each status opens a filtered list of orders. The list shows, per order: **Delive
 
 Narrow it with the filters along the top — **date range, Turf Type, Order Status, Payment Status, Hide Invoiced Orders** and **Search a Customer** — then **Print** the result if you need a hard copy.
 
-*[Screenshot: Orders list — filters and columns — save as om-orders-list.png]*
+![Orders list — filters and columns](../../assets/om-orders-list.png)
