@@ -10,6 +10,8 @@ Services are the labour and offerings you charge for — turf installation, grou
 
 Go to **Farm Settings → Services**. Click **Create Service** to add a new one, or click any row to edit an existing one.
 
+*[Screenshot: Service create/edit form — save as fs-services.png]*
+
 ## 1. Naming
 
 - **Short Name** — the name shown **on orders**.
