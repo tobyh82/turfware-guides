@@ -4,7 +4,7 @@ title: "Freight Rate"
 
 # Freight Rate
 
-**Freight Rates** are your **delivery zones and their prices**. Each zone covers a set of postcodes and carries a rate, so when you add a delivery to an order, Turfware **auto-fills the freight price** from the delivery address (e.g. the *North Brisbane* zone).
+**Freight Rates** are your **delivery zones and their prices**. When you add a delivery to an order, Turfware matches the delivery address to a zone and **auto-fills the freight price** (e.g. the *North Brisbane* zone).
 
 ## Where to find it
 
@@ -12,9 +12,10 @@ Left-hand navigation → **Farm Settings → Freight Rate**. Click **Create** to
 
 ## Setting up a zone
 
-Give the zone a **name**, the **area/postcodes** it covers, and its **rate** (a flat rate or a $/m² rate). On an order, the matching zone's rate pre-fills the **Delivery Rates**, and you can still switch to a custom rate on the order itself (see [Creating & Managing an Order](../../order-management/creating-and-managing-an-order.md)).
+- **Name** — the zone name (e.g. *North Brisbane*) *(required)*.
+- **Rate** — the zone's base freight rate.
+- **SQM modifier** and **Flat rate modifier** — these drive how the price is calculated when the order shows freight as **$/m²** versus a **flat rate**.
+
+On an order, the matching zone's rate pre-fills the **Delivery Rates**, and you can still override it with a custom rate on the order (see [Creating & Managing an Order](../../order-management/creating-and-managing-an-order.md)).
 
 *[Screenshot: Freight Rate — zones and rates — save as fs-freight-rate.png]*
-
-!!! note "To verify"
-    I'll confirm the exact fields against the live create form — send a screenshot and I'll finish this page.

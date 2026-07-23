@@ -12,9 +12,8 @@ Left-hand navigation → **Farm Settings → Pick Up Locations**. Click **Create
 
 ## Setting up a location
 
-Give the location a **name** and **address**. You can also mark whether **freight is required** — use this for a non-farm pickup point that still needs the order transported from the farm, which adds it to the freight and scheduling queue.
+- **Name** — the location name *(required)*.
+- **Location** — the address of the pickup point.
+- **Freight required** — mark this for a **non-farm** pickup point that still needs the order **transported from the farm**. When set, the order is added to the freight and scheduling queue so the turf is moved from the farm to the pickup site.
 
 *[Screenshot: Pick Up Locations — save as fs-pickup-locations.png]*
-
-!!! note "To verify"
-    I'll confirm the exact fields against the live create form — send a screenshot and I'll finish this page.

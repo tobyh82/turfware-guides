@@ -12,9 +12,10 @@ Left-hand navigation → **Farm Settings → Farms**. Click **Create** to add a 
 
 ## Setting up a farm
 
-Complete the farm's **name** and details (and its **[Farm Group](farm-groups.md)**, if you use groups). Once set up, a farm can be selected on turf lines when building an order.
+- **Name** — the farm name *(required)*.
+- **Short name** — a shorthand used where space is tight.
+- **Notes** — any notes about the farm.
+
+Group farms together with [Farm Groups](farm-groups.md). Once set up, a farm can be selected on a turf line when building an order.
 
 *[Screenshot: Farms — save as fs-farms.png]*
-
-!!! note "To verify"
-    I'll confirm the exact fields against the live create form — send a screenshot and I'll finish this page.
