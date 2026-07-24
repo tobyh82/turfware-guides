@@ -4,16 +4,16 @@ title: "Payment Methods"
 
 # Payment Methods
 
-Lists all available payment methods.
+**Payment Methods** are the ways you accept payment — for example *Cash, Bank Transfer, Card* or *EFTPOS*. They appear when you record a payment against an order (**Received Payment**).
 
-![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaSgqP-VnBaoHm76eJDpoEyKk5FQ8IIQW4tGgJDeZBxdWt24dwOdFE8YF7lanJWtSI1zfY_7aP1EFadJH1-IabXF1BZLTVeOdu50HrRoAfIKGeMrkdooaOB4Pj9mksimbePcmeb60G_EDivUI51FgG9xa_?key=3Q7MbhCXNVNVuAVyNMcRtg)
+## Where to find it
 
-Create a new payment method:
+Left-hand navigation → **System Settings → Payment Methods**. Click **Create** to add one, or click a row to edit.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/5736531c-9d30-42fd-b661-31debdb79918)
+## Setting up a method
 
-Edit payment method details: Click the payment method to get to the edit page.
+- **Name** — the payment method name.
 
----
+The method is then selectable when [recording a payment on an order](../../order-management/creating-and-managing-an-order.md#moving-the-order-through-the-workflow).
 
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
+*[Screenshot: Payment Methods — save as ss-payment-methods.png]*

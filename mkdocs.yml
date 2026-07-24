@@ -94,7 +94,6 @@ nav:
         - "Company Information": web-app/turfware-setup/farm-setup/company-information.md
         - "Sawfish Configuration": web-app/turfware-setup/farm-setup/sawfish-configuration.md
         - "Payment Methods": web-app/turfware-setup/farm-setup/payment-methods.md
-        - "Chart of Accounts": web-app/turfware-setup/farm-setup/chart-of-accounts.md
       - "Communications":
         - "Communications": web-app/turfware-setup/communications/communications.md
     - "How to use lists":
