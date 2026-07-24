@@ -17,4 +17,4 @@ Left-hand navigation → **Farm Settings → Farm Groups**. Click **Create** to 
 - **Farms** — the [farms](farms.md) that belong to this group.
 - **Carriers** — the [carriers](carrier-settings.md) (delivery companies) assigned to this group.
 
-*[Screenshot: Farm Groups — save as fs-farm-groups.png]*
+![Farm Group — farms, carriers and cutoff time](../../../assets/fs-farm-groups.png)

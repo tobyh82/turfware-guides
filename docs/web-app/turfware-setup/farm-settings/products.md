@@ -10,7 +10,7 @@ Products are the physical stock items you sell alongside or instead of turf — 
 
 Go to **Farm Settings → Products**. Click **Create Product** to add a new one, or click any row to edit an existing one.
 
-*[Screenshot: Product create/edit form — save as fs-products.png]*
+![Product create/edit form](../../../assets/fs-products.png)
 
 ## 1. Naming
 

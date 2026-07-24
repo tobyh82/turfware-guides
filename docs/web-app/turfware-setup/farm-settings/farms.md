@@ -4,18 +4,30 @@ title: "Farms"
 
 # Farms
 
-**Farms** are the properties where your turf is grown and harvested. Each turf line on an order is assigned a farm to harvest from, and farms drive the harvest and capacity views.
+**Farms** are the properties where your turf is grown and harvested. Each farm holds its location and its **paddocks** — the blocks where each turf variety is recorded.
 
 ## Where to find it
 
 Left-hand navigation → **Farm Settings → Farms**. Click **Create** to add a farm, or click a row to edit.
 
-## Setting up a farm
+## Farm details
 
-- **Name** — the farm name *(required)*.
-- **Short name** — a shorthand used where space is tight.
-- **Notes** — any notes about the farm.
+- **Name** *(required)*, **Short Name**, **Status** (set **Published** to use it), and **Notes**.
+- **[Farm Group](farm-groups.md)** — the group this farm belongs to.
+- **Street Address** and **Exact Address** — with a Google map; drag the pin to set the precise location.
 
-Group farms together with [Farm Groups](farm-groups.md). Once set up, a farm can be selected on a turf line when building an order.
+At a glance the farm shows **Total Paddocks**, **Total Ha** (and m²), **Active Ha**, and the number of **Varieties** across its paddocks.
 
-*[Screenshot: Farms — save as fs-farms.png]*
+![Farm — details, address and paddocks](../../../assets/fs-farms.png)
+
+## Paddocks
+
+A farm's turf is recorded by **paddock**. Click **Add Paddock** and set:
+
+- **Paddock Name**.
+- **Turf Variety** — the [turf](turf-varieties.md) grown in this paddock.
+- **Ha Available** and **SQM**.
+- **Planting Date** and **Available Date** — when it was planted and when it's ready to harvest.
+- **Status** — **Active**, **Fallow** or **Harvested**.
+
+Edit or delete a paddock from its row. Paddocks feed the farm's totals and give you a variety-by-variety view of what's growing and when it's available.

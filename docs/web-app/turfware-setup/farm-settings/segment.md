@@ -29,7 +29,7 @@ Left-hand navigation → **Farm Settings → Segments**. Click **Create Segment*
 
 - **Turf Special Pricing** and **Turf Care Special Pricing** — override the blanket discount for specific varieties or products. Pick the product, set a **discount as a % or $** (toggle), and click **Add** (e.g. Sir Grange 15%, Winter Green Couch $1).
 
-*[Screenshot: Segment edit — pricing tier setup — save as fs-segment.png]*
+![Segment edit — pricing tier setup](../../../assets/fs-segment.png)
 
 ## How it flows
 
