@@ -4,52 +4,57 @@ title: "Company Information"
 
 # Company Information
 
-**Company Information** is your central settings page — your business details and the settings that control how pricing, the order workflow, invoicing, notifications and branding behave across Turfware.
+**Company Information** (headed **Company settings** in the app) is your central control panel — your business details plus the settings that govern pricing, the order workflow, invoicing, notifications, accounting mapping and branding. Change what you need and click **Save changes** (top right).
 
 ## Where to find it
 
-Left-hand navigation → **System Settings → Company Information**. Change what you need and click **Save** (top right).
+Left-hand navigation → **System Settings → Company Information**.
 
-## Business details
+## Company Details
 
-- **Name, ABN, Email, Phone**.
-- **Website, YouTube, Facebook, Instagram** and **Google Review** links — used in customer communications.
+- **Company Name** and **Display Name** — your legal name and the name shown to customers.
+- **ABN**, **Main company email**, and **Office / Main Phone Number**.
+- **Business Address** and **Postal Address** — select from the dropdown so they geocode; tick **Same as business address** to reuse the one address.
+- **Deposit Payment Sawfish Account Code** — the account that **deposits** post to when you split an invoice into a deposit + final (see [Quotes](../../order-management/quotes.md)).
+- **Sending Invoice Automation** — **Activate** to auto-send invoices; choose **Before/After** the delivery date, the number of **days**, and the **time**. Full detail on [Sending Invoice - Automation](../sending-invoice-automation.md).
+- **List View Default Date** — the date range list views open on (start and end = current day ± a set number of days).
 
-## Pricing
+*[Screenshot: Company Information — Company & Farm details — save as ss-company-details.png]*
 
-- **Rate includes GST** — controls whether your rates are entered and shown **inclusive of GST**. *(Turfware is set up GST-inclusive.)*
-- **Lock pricing** — prevents prices being edited on orders.
+## Farm Details
 
-## Order workflow
+- **Home Farm Address**.
+- **Cutting style** — **Rolls** or **Slabs**, plus the **Slabs / SQM** figure — the default cutting style applied to turf.
+- **Automatic Pallet Coding** — **Activate** to auto-assign pallet codes, and choose the **Pallet Code System** (e.g. Alphabetical *A, B, C*).
 
-- **Require Payment Before Confirmation** — a **hard stop** that prevents an order moving from **Pending → Confirmed** unless the payment criteria are met (paid, a manual payment recorded, or within the customer's credit limit). See [Creating & Managing an Order](../../order-management/creating-and-managing-an-order.md#moving-the-order-through-the-workflow).
+## Order Workflow
 
-## Cutting style
+- **Require Payment Before Confirmation** — a **hard stop** preventing an order moving **Pending → Confirmed** unless payment criteria are met. An order may be confirmed when **any** of these is true: it's marked **Paid**; a payment is recorded via **Receive Payment (Manual)**; or the customer has active **Account Terms** and is within their **credit limit**.
+- **Administrator Override** — only an **Administrator** can force-confirm an unpaid order; this triggers an *"Order Not Paid"* popup and is recorded in the order [Timeline](../../order-management/creating-and-managing-an-order.md#the-timeline-tab).
 
-- The **default cutting style** (and its m²) applied to turf.
+*[Screenshot: Company Information — Order Workflow, Pricing & Theme — save as ss-company-workflow.png]*
+
+## Pricing Settings
+
+- **Price Input Settings** — whether the rates you enter are **Inclusive of GST** (Turfware's setup — rates already include GST) or **Exclusive of GST** (GST added on top by the system).
+- **Lock Pricing Fields** — when enabled, **only Administrators can edit pricing** on orders.
+
+## Logo & Theme
+
+- Upload your **Site Logo**, **PDF Logo** (for invoices/documents) and **Favicon** (square).
+- Set your **Colours** — Primary, Secondary, Menu Background, Menu Hover, Menu Active and Button.
+
+## Notifications
+
+- **Delivery Time-Range Communications** — the delivery **window** told to customers: **N hours before** to **N hours after** the scheduled delivery time. An **Earliest delivery time communicated** can override the start — e.g. a 7:00am delivery with a 2-hour buffer would read *5–9am*, but an earliest time of 6:00am makes it *6–9am*.
+- **Default Email and Phone for System Notifications** — the **Admin**, **Accounts**, **Reply-to** and **Test** email addresses and phone numbers that system notifications use.
+
+*[Screenshot: Company Information — Notifications — save as ss-company-notifications.png]*
 
 ## Order Settings
 
-Show or hide which products and services appear on the order page, and set the **Installation & Delivery accounting mapping** (the Sawfish item / account codes freight and installation post to). See **[Order Settings](../order-settings.md)**.
+Control which products and services appear when creating orders, and how **installation and freight** map to your accounts. See the full **[Order Settings](../order-settings.md)** page. In short: toggle **Turf, Products, Installation** and **Services** on or off for orders, and set the **Installation** and **Delivery / Freight** Sawfish account mappings here (this mapping was lifted out of the old Chart of Accounts window so it lives in one place).
 
-## Invoice automation
+## Miscellaneous
 
-Automatically send invoices for confirmed orders around their delivery date. See **[Sending Invoice - Automation](../sending-invoice-automation.md)**.
-
-## Delivery notification timing
-
-- **Hours prior to** and **hours post delivery** — the window used for delivery ETA notifications to the site contact.
-
-## Notification contacts
-
-- **Admin, Accounts** and **Reply-to** emails and phones — where system notifications and invoice replies go — plus a **test** email/phone for checking templates.
-
-## Default date range
-
-- **Default date min / max** — the default number of days used when date pickers open.
-
-## Branding
-
-- Upload your **logo, PDF logo** and **favicon**, and style the **notification emails** (header/body/footer colours and footer content).
-
-*[Screenshot: Company Information — save as ss-company-information.png]*
+- **Google Review URL** — the link used to invite customers to leave a Google review.
