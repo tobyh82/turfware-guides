@@ -32,4 +32,4 @@ A chart-of-account line for installation, so charges map to invoices via Sawfish
 *[Screenshot: Order Settings — toggles + Installation/Freight Sawfish mapping — save as ss-order-settings.png]*
 
 !!! note "Ties into the order page"
-    What you enable here is exactly what shows in the **Products & Services** section when [creating an order](order-management/creating-and-managing-an-order.md).
+    What you enable here is exactly what shows in the **Products & Services** section when [creating an order](../order-management/creating-and-managing-an-order.md).

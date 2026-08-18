@@ -134,6 +134,12 @@ nav:
         - "Logistics Report": web-app/report/how-to-use-filters-on-each-report/logistics-report.md
         - "Preparation Report": web-app/report/how-to-use-filters-on-each-report/preparation-report.md
         - "Sales Report": web-app/report/how-to-use-filters-on-each-report/sales-report.md
+  - "Payments & Accounting":
+    - payments-accounting/index.md
+    - "How the sync works": payments-accounting/how-the-sync-works.md
+    - "Recording payments": payments-accounting/recording-payments.md
+    - "Changing a paid order": payments-accounting/changing-a-paid-order.md
+    - "Refunds & credits": payments-accounting/refunds-and-credits.md
   - "Delivery App":
     - delivery-app/index.md
     - "Setting up Delivery App":
