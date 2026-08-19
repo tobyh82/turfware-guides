@@ -8,9 +8,9 @@ title: "How to use the routing Feature"
 
 - Select the carrier at the top (see A below).
 
-- Click the green “**Add Truck**” button to add truck deliveries for that date. A box will pop up, allowing you to select a specific truck and driver (see Figure B below).
+- Click the green “Add Truck” button to add truck deliveries for that date. A box will pop up, allowing you to select a specific truck and driver (see Figure B below).
 
-- Assign an order to the truck by dragging and dropping the order from the LHS “**Unassigned**” column to the truck on the RHS (see Figure A below).
+- Assign an order to the truck by dragging and dropping the order from the LHS “Unassigned” column to the truck on the RHS (see Figure A below).
 
 - After assigning the order to the truck, the system will calculate the route and render directions as shown in Figure C below.
 
@@ -21,7 +21,7 @@ title: "How to use the routing Feature"
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350840/7.2_scheduling_-_Attachment_2.jpg)  
 Figure A
 
-To export and download deliveries as a CSV file, click the green “**CSV**” button next to the “**Add Truck**” button.
+To export and download deliveries as a CSV file, click the green “CSV” button next to the “Add Truck” button.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350841/7.2_scheduling_-_Attachment_3.jpg)  
 Figure B

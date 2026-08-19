@@ -4,16 +4,16 @@ title: "Updating order"
 
 # Updating order
 
-Click on a specific order, then click the “**Edit**” button. A box will appear allowing you to update the order details.
+Click on a specific order, then click the “Edit” button. A box will appear allowing you to update the order details.
 
-**Farm** **Location:**
+Farm Location:
 
 - Click on “Farm” and select a specific farm
 
-**Pallets:**
+Pallets:
 
 - Update palette type: Steel, Wood
 
-**Square****metres** **cut**
+Squaremetres cut
 
 - Update SQM by entering the value.

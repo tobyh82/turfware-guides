@@ -4,7 +4,7 @@ title: "Accessing the Delete Function"
 
 # Accessing the Delete Function
 
-**Navigate****to****the****Delete****Function:**
+NavigatetotheDeleteFunction:
 
 - On the Left-Hand Side (LHS) navigation menu, click on "Deleted".
 

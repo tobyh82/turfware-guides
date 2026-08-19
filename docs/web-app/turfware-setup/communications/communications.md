@@ -12,5 +12,5 @@ title: "Communications"
 
 ![](https://lh7-rt.googleusercontent.com/docsz/AD_4nXfEpcE4pDbmqj9fg_pxAkS2xEjY7MzMyCnkbwrwS5UETJseUIukCHeLYznO8Dx17x4etMa_EWvO2qhBbyIX19OAYAgmPGkpQlp2BGlPJ0eCwfZk-6EqAuMk6pxXjNSB25qO8rtfM_M7Qv0ZGjPx0ezfuYxa?key=3Q7MbhCXNVNVuAVyNMcRtg)
 
-**How to set up Email Templates:**  
+How to set up Email Templates:  
 Currently, we don’t have the feature to create/delete the email template. Please contact Dev for support.

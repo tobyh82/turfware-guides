@@ -4,18 +4,18 @@ title: "Cutsheets"
 
 # Cutsheets
 
-**Access****the****Cutsheet****Report:** From the LHS menu under "Operations", click on "Cutsheet".
+AccesstheCutsheetReport: From the LHS menu under "Operations", click on "Cutsheet".
 
-#### **Apply** **Filters:**
+#### Apply Filters:
 
 - Date Range: Select the desired date range for the report.
 
 - Order Status: Choose from "Pending" or "Confirmed".
 
-#### **Generate** **Report:**
+#### Generate Report:
 
 - Print: Click the "Print" button to print the report as a PDF.
 
 - Export: Click "Export" to download the report as an Excel file.
 
-**Reset****Filters:** Click the "Clear Filter" button to reset all applied filters and return to the default view.
+ResetFilters: Click the "Clear Filter" button to reset all applied filters and return to the default view.

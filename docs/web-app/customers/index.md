@@ -8,15 +8,15 @@ Your customer records are the heart of Turfware — every order, price, invoice 
 
 ## Where to find it
 
-Left-hand navigation → **Customers**.
+Left-hand navigation → Customers.
 
 ## The customer list view
 
-The Customers page lists **every customer** in Turfware. From here you can:
+The Customers page lists every customer in Turfware. From here you can:
 
-- **Search** for a customer by name.
-- **Click any row** to open that customer's [summary](customer-summary.md).
-- **Add a new customer** — the green **New Contact** button (top right). See [Adding a customer](adding-a-customer.md).
+- Search for a customer by name.
+- Click any row to open that customer's [summary](customer-summary.md).
+- Add a new customer — the green New Contact button (top right). See [Adding a customer](adding-a-customer.md).
 
 ![Customers list view](../../assets/customer-list.png)
 

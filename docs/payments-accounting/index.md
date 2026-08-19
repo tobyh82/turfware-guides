@@ -4,18 +4,18 @@ title: Payments & Accounting
 
 # Payments & Accounting
 
-Turfware doesn't keep your books — it works alongside two other systems. Understanding how the three connect explains **where** a payment or invoice lives, **why** a change can take a few minutes to appear, and **how** to handle payments, order changes and refunds cleanly.
+Turfware doesn't keep your books — it works alongside two other systems. Understanding how the three connect explains where a payment or invoice lives, why a change can take a few minutes to appear, and how to handle payments, order changes and refunds cleanly.
 
 ## The three systems
 
-- **Turfware** — your **operational** system: orders, harvest, delivery, and the operational order status.
-- **Sawfish** — the **invoicing & payments hub**: it generates the invoice, takes customer payments (card, PayTo, PayID, Tap to Pay, Apple Pay and Google Pay), and sits between Turfware and your accounting system.
-- **Your accounting system** — **MYOB (or Xero)**: your **books**, and the source of truth for the invoice and its payments.
+- Turfware — your operational system: orders, harvest, delivery, and the operational order status.
+- Sawfish — the invoicing & payments hub: it generates the invoice, takes customer payments (card, PayTo, PayID, Tap to Pay, Apple Pay and Google Pay), and sits between Turfware and your accounting system.
+- Your accounting system — MYOB (or Xero): your books, and the source of truth for the invoice and its payments.
 
 ## How they connect
 
-- **Turfware ↔ Sawfish** — **near real-time**. Changes cross by webhook, usually within about a minute.
-- **Sawfish ↔ your accounting system** — a **timed sync**, roughly every **15 minutes**. A change made in MYOB (or Xero) can take up to ~15 minutes to appear in Sawfish and then Turfware. Sawfish also has a **Sync now** button that refreshes your account assets on demand — see [How the sync works](how-the-sync-works.md).
+- Turfware ↔ Sawfish — near real-time. Changes cross by webhook, usually within about a minute.
+- Sawfish ↔ your accounting system — a timed sync, roughly every 15 minutes. A change made in MYOB (or Xero) can take up to ~15 minutes to appear in Sawfish and then Turfware. Sawfish also has a Sync now button that refreshes your account assets on demand — see [How the sync works](how-the-sync-works.md).
 
 ## In this section
 

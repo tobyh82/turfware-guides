@@ -4,13 +4,13 @@ title: "How to use the scheduler"
 
 # How to use the scheduler
 
-Users can switch between the **“Daily”**and**“7****Days”**tab
+Users can switch between the “Daily”and“7Days”tab
 
-**7****Days** **tab:**
+7Days tab:
 
 - The section provides a weekly overview of scheduled items, grouped by carriers and dates.
 
-**Daily** **tab:**
+Daily tab:
 
 - On the Schedules Management page, select the delivery date (see figure below) to filter orders that have the selected delivery date.
 

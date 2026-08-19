@@ -14,9 +14,9 @@ This section, located on the left panel, provides an overall snapshot of the ord
 
 Key Metrics Displayed: (See the figure A below)
 
-- **Total****Orders:** Displays the total harvested orders compared to the overall orders for the period.
+- TotalOrders: Displays the total harvested orders compared to the overall orders for the period.
 
-- **Total****Area****(SQM):**Shows the harvested area (in square meters) compared to the total area.
+- TotalArea(SQM):Shows the harvested area (in square meters) compared to the total area.
 
 ## 
 
@@ -26,9 +26,9 @@ Key Metrics Displayed: (See the figure A below)
 
 - S Pallets: Displays the harvested"Steel" pallets compared to the total "Steel" pallets.
 
-- **Meters****HarvestedProgress:**Visual progress indicating the percentage of harvested meters relative to the total.
+- MetersHarvestedProgress:Visual progress indicating the percentage of harvested meters relative to the total.
 
-- **Meters****RTD****(Ready****to****Deliver)****Progress:** Progress bar showing the percentage of meters ready to deliver compared to the total area.
+- MetersRTD(ReadytoDeliver)Progress: Progress bar showing the percentage of meters ready to deliver compared to the total area.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350867/10._shortcuts_-_Attachment_1.jpg)  
 Figure A

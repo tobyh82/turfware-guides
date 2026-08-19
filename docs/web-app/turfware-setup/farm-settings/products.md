@@ -8,52 +8,52 @@ Products are the physical stock items you sell alongside or instead of turf — 
 
 ## Where to set them up
 
-Go to **Farm Settings → Products**. Click **Create Product** to add a new one, or click any row to edit an existing one.
+Go to Farm Settings → Products. Click Create Product to add a new one, or click any row to edit an existing one.
 
 ![Product create/edit form](../../../assets/fs-products.png)
 
 ## 1. Naming
 
-- **Short Name** — the name shown **on orders**.
-- **Abbreviation** — the shorthand shown in the **mobile apps**.
-- **Full Name** — used on **invoice line items**; what the customer sees on their invoice.
+- Short Name — the name shown on orders.
+- Abbreviation — the shorthand shown in the mobile apps.
+- Full Name — used on invoice line items; what the customer sees on their invoice.
 
 ## 2. Description
 
-Internal notes about the product — for **your team only**; not shown to customers.
+Internal notes about the product — for your team only; not shown to customers.
 
 ## 3. Price settings
 
-- **Retail Price (RRP)** — full retail sell price. The **baseline** other segments discount from.
-- **Cost Price** — what the product costs you (purchase / wholesale cost). Used for margin reporting.
+- Retail Price (RRP) — full retail sell price. The baseline other segments discount from.
+- Cost Price — what the product costs you (purchase / wholesale cost). Used for margin reporting.
 
 ## 4. Track Quantity
 
 !!! tip "Recommended: turn this on to manage inventory through Shopify"
-    With **Track Quantity** enabled, Turfware keeps this product's stock level in sync — so what's available online and what you have on hand stay aligned, and you don't oversell. We recommend enabling it for any product you sell on Shopify.
+    With Track Quantity enabled, Turfware keeps this product's stock level in sync — so what's available online and what you have on hand stay aligned, and you don't oversell. We recommend enabling it for any product you sell on Shopify.
 
 ## 5. Status
 
-- **Draft** — not shown on orders.
-- **Published** — live and available to sell.
-- **Disabled** — hidden from new orders but kept on record.
-- **Delete** — removes the product.
+- Draft — not shown on orders.
+- Published — live and available to sell.
+- Disabled — hidden from new orders but kept on record.
+- Delete — removes the product.
 
 ## 6. Sawfish settings (required for invoicing)
 
 !!! warning "Required for invoicing"
-    **Sawfish Item Code** (the item in your accounting system) and **Sawfish Account Code** (the revenue chart-of-accounts code) must both be set, or Turfware can't invoice this product.
+    Sawfish Item Code (the item in your accounting system) and Sawfish Account Code (the revenue chart-of-accounts code) must both be set, or Turfware can't invoice this product.
 
-Create the matching item and account in **Sawfish** first, then enter their codes here — Turfware syncs the invoice to Sawfish (see [Sawfish Configuration](../farm-setup/sawfish-configuration.md)).
+Create the matching item and account in Sawfish first, then enter their codes here — Turfware syncs the invoice to Sawfish (see [Sawfish Configuration](../farm-setup/sawfish-configuration.md)).
 
 ## 7. Shopify
 
-Link the product to its matching **Shopify item**. With **Track Quantity** on (above), stock stays in sync between Turfware and Shopify. See the **Processing Shopify Orders** guide.
+Link the product to its matching Shopify item. With Track Quantity on (above), stock stays in sync between Turfware and Shopify. See the Processing Shopify Orders guide.
 
 ## 8. Volume pricing
 
-Discounted rates by order volume, **per customer segment** — automatically applied on orders based on the quantity ordered.
+Discounted rates by order volume, per customer segment — automatically applied on orders based on the quantity ordered.
 
 ## Save
 
-Click **Save**. If the status is **Published**, the product is immediately available on new orders.
+Click Save. If the status is Published, the product is immediately available on new orders.

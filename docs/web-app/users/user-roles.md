@@ -4,35 +4,35 @@ title: "User Roles"
 
 # User Roles
 
-**Administrator**  
+Administrator  
 Permission: Access the backend portal, Cutting App and Delivery App.
 
-**Super User**  
+Super User  
 Permission: Access the backend portal, Cutting App and Delivery App.
 
-**User**  
+User  
 Permission: Only access the backend portal.
 
-**Customer**  
+Customer  
 Permission: Can NOT access the backend portal.
 
-**Carrier**  
+Carrier  
 Permission: Only access to the Delivery App.
 
-**Driver**  
+Driver  
 Permission: Only access to the Delivery App.
 
-**Harvest - Forklifter**  
+Harvest - Forklifter  
 Permission: Only access to the Cutting App.
 
-**Customer Portal**  
+Customer Portal  
 Permission: Can NOT access the backend portal.
 
-**Sales-Rep**  
+Sales-Rep  
 Permission: Access the backend portal.
 
-**Preparation**  
+Preparation  
 Permission: Only access to the Delivery App.
 
-**Installation**  
+Installation  
 Permission: Only access to the Delivery App.

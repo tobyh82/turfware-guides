@@ -4,7 +4,7 @@ title: Dashboards
 
 # Dashboards
 
-Turfware's dashboards give you an **at-a-glance read on the business** — accessed from the **top navigation** bar. Each one answers a different question.
+Turfware's dashboards give you an at-a-glance read on the business — accessed from the top navigation bar. Each one answers a different question.
 
 <div class="grid cards" markdown>
 

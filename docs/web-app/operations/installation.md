@@ -4,9 +4,9 @@ title: "Installation"
 
 # Installation
 
-**Access****the****Installation****Report:** From the LHS menu under "Operations", click on "Installation".
+AccesstheInstallationReport: From the LHS menu under "Operations", click on "Installation".
 
-#### **Apply** **Filters:**
+#### Apply Filters:
 
 - Date Range: Select the desired date range for the report.
 
@@ -14,7 +14,7 @@ title: "Installation"
 
 - Laying Team: Optionally, filter by the Laying team handling the order.
 
-#### **Generate** **Report:**
+#### Generate Report:
 
 - Print: Click the "Print" button to print the report as a PDF.
 
@@ -22,4 +22,4 @@ title: "Installation"
 
 - Docket: Use the "Docket" button to generate a docket.
 
-**Reset****Filters:** Click the "Clear Filter" button to reset all applied filters and return to the default view.
+ResetFilters: Click the "Clear Filter" button to reset all applied filters and return to the default view.
