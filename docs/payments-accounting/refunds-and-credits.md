@@ -4,22 +4,24 @@ title: "Refunds & credits"
 
 # Refunds & credits
 
-## Recommended process — a separate credit
+When you refund a customer, do the refund in your accounting system with a **credit note**, and keep Turfware in step. How you handle the order depends on whether it's a **full** or **partial** refund.
 
-When you refund a customer on a **paid** order, the cleanest approach for your **audit trail** is to leave the original invoice intact and raise a **separate credit**:
+!!! warning "Fraud prevention"
+    Always try to refund via the **same payment method the customer paid with**, and at a minimum **call to confirm their payment details** — never take or confirm refund details **over email**.
 
-1. **Reduce the physical order** in Turfware, so operations are correct.
-2. **Leave the original paid invoice unchanged.**
-3. **Create a separate negative sale / customer credit** in your accounting system (MYOB or Xero).
-4. **Process the refund** against that credit.
-5. **Add the credit / refund reference to the Turfware order notes**, so there's a trail on the order.
+## Full refund — before the job is completed
 
-This preserves the original invoice and its payment history.
+1. **Refund the customer** as per your refund policy (see the fraud-prevention note above).
+2. **Raise a credit note and apply it to the paid invoice** in your accounting system (MYOB or Xero) — this **nils out the invoice**.
+3. **Move the order to [Lost](../web-app/order-management/lost.md)** in Turfware — this removes it from the order flow. It's also recommended to **attach the credit note to the order's Documents** and add a **note in General Notes** for future reference.
 
-!!! warning "What you'll see afterwards"
-    Because a separate credit is its own transaction, **Turfware and Sawfish keep showing the original paid invoice**, and **Turfware will not display the credit** — it only mirrors the original invoice. That's why step 5 (noting the credit reference on the order) matters. *(Turfware has no credit-note view — a known gap.)*
+## Partial refund
 
-*(Reducing the original paid invoice instead would flow back through Sawfish to Turfware and keep balances live — but it mutates the original invoice and payment history, so it isn't the recommended approach.)*
+Same process, but keep the order live and matched on the Turfware side:
+
+1. **Refund the customer**, and **raise a credit note applied to the invoice** in your accounting system for the partial amount (as above).
+2. **Amend the Turfware order** to reflect the change (as per the credit note), so both systems match.
+3. **Attach the credit note to the order's Documents** and add a **note in General Notes**.
 
 ## Refunding a card payment
 
