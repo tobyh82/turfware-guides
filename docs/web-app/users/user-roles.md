@@ -36,7 +36,3 @@ Permission: Only access to the Delivery App.
 
 **Installation**  
 Permission: Only access to the Delivery App.
-
----
-
-*Originally published 2024-09-03 · migrated from HelpJuice for this preview.*

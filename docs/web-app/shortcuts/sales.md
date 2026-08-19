@@ -57,7 +57,3 @@ Figure G
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350877/10._shortcuts_-_Attachment_11.jpg)  
 Figure H
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

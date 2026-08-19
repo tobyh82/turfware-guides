@@ -27,7 +27,3 @@ Users can switch between the **“Daily”**and**“7****Days”**tab
 [🎥 Watch the walkthrough video](https://jam.dev/video/fe0f9c31-0c75-4536-943b-c4933ebcb919)
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350839/7.2_scheduling_-_Attachment_1.jpg)
-
----
-
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*

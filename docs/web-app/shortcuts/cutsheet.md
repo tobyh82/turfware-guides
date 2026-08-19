@@ -39,7 +39,3 @@ The right panel contains a detailed breakdown for each grass type, allowing you 
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350868/10._shortcuts_-_Attachment_2.jpg)  
 Figure B
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

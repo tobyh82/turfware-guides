@@ -17,7 +17,3 @@ Click on a specific order, then click the “**Edit**” button. A box will appe
 **Square****metres** **cut**
 
 - Update SQM by entering the value.
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

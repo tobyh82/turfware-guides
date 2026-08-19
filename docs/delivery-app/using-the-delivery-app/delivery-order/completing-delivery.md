@@ -15,7 +15,3 @@ To complete the delivery:
 - Then click the “Mark as Delivered” button.
 
 The completed delivery order will be moved to the completed orders section. To access it, click on the “Complete” option in the bottom navigation bar.
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

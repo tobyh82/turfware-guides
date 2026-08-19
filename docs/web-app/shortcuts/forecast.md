@@ -29,7 +29,3 @@ The Laying Forecast section focuses on orders that have installation items for t
 - Export Functionality: Allows exporting the list of outstanding orders as a CSV file. By clicking the green button with the export icon. (See figure below).
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350869/10._shortcuts_-_Attachment_3.jpg)
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

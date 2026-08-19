@@ -19,7 +19,3 @@ title: "Cutsheets"
 - Export: Click "Export" to download the report as an Excel file.
 
 **Reset****Filters:** Click the "Clear Filter" button to reset all applied filters and return to the default view.
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

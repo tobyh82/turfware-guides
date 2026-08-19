@@ -31,7 +31,3 @@ Figure C
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350843/7.2_scheduling_-_Attachment_5.jpg)  
 Figure D
-
----
-
-*Originally published 2024-09-03 · migrated from HelpJuice for this preview.*

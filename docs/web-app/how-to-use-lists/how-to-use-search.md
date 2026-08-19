@@ -13,7 +13,3 @@ title: "How to use search"
 - **Clear****Search:** To view all records again, clear the search field and initiate the search with an empty input.
 
 ![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350805/4._how_to_use_lists_-_Attachment_2.jpg)
-
----
-
-*Originally published 2024-09-03 · migrated from HelpJuice for this preview.*

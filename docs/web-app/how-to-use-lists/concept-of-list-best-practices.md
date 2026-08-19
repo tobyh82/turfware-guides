@@ -13,7 +13,3 @@ title: "Concept of list, best practices"
 - **Sorting****and****Filtering:**Utilise sorting and filtering options to find relevant information quickly.
 
 - **Pagination:**Use pagination to manage large sets of data without overwhelming the user interface.
-
----
-
-*Originally published 2024-09-03 · migrated from HelpJuice for this preview.*

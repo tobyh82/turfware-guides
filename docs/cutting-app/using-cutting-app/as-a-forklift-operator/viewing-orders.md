@@ -26,7 +26,3 @@ You can toggle between daily orders and 5-day forecasts by switching the button 
 #### 5 Day Forecast:
 
 - The 5-Day Forecast tab provides cutting orders for the upcoming 5 days.
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

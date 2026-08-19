@@ -14,7 +14,3 @@ title: "Communications"
 
 **How to set up Email Templates:**  
 Currently, we don’t have the feature to create/delete the email template. Please contact Dev for support.
-
----
-
-*Originally published 2024-09-03 · migrated from HelpJuice for this preview.*

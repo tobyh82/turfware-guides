@@ -23,7 +23,3 @@ title: "Installation"
 - Docket: Use the "Docket" button to generate a docket.
 
 **Reset****Filters:** Click the "Clear Filter" button to reset all applied filters and return to the default view.
-
----
-
-*Originally published 2024-09-04 · migrated from HelpJuice for this preview.*

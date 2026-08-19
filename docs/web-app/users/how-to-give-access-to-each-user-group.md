@@ -11,7 +11,3 @@ Give access to each user group:
 **What does view backend mean in user settings?**
 
 "View Backend" is a permission that allows the user to access the admin portal.
-
----
-
-*Originally published 2024-09-10 · migrated from HelpJuice for this preview.*
