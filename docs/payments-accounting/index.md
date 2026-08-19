@@ -9,13 +9,13 @@ Turfware doesn't keep your books — it works alongside two other systems. Under
 ## The three systems
 
 - **Turfware** — your **operational** system: orders, harvest, delivery, and the operational order status.
-- **Sawfish** — the **invoicing & payments hub**: it generates the invoice, takes customer payments (card, PayTo, PayID), and sits between Turfware and your accounting system.
-- **Your accounting system** — **MYOB** (or Xero): your **books**, and the source of truth for the invoice and its payments.
+- **Sawfish** — the **invoicing & payments hub**: it generates the invoice, takes customer payments (card, PayTo, PayID, Tap to Pay, Apple Pay and Google Pay), and sits between Turfware and your accounting system.
+- **Your accounting system** — **MYOB (or Xero)**: your **books**, and the source of truth for the invoice and its payments.
 
 ## How they connect
 
 - **Turfware ↔ Sawfish** — **near real-time**. Changes cross by webhook, usually within about a minute.
-- **Sawfish ↔ your accounting system** — a **timed sync**, roughly every **15 minutes**. A change made in MYOB can take up to ~15 minutes to appear in Sawfish and then Turfware. There is **no "sync now" button**.
+- **Sawfish ↔ your accounting system** — a **timed sync**, roughly every **15 minutes**. A change made in MYOB (or Xero) can take up to ~15 minutes to appear in Sawfish and then Turfware. Sawfish also has a **Sync now** button that refreshes your account assets on demand — see [How the sync works](how-the-sync-works.md).
 
 ## In this section
 

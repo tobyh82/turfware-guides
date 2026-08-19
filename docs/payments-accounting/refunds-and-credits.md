@@ -10,9 +10,9 @@ When you refund a customer on a **paid** order, the cleanest approach for your *
 
 1. **Reduce the physical order** in Turfware, so operations are correct.
 2. **Leave the original paid invoice unchanged.**
-3. **Create a separate negative sale / customer credit** in your accounting system (MYOB).
-4. **Process the refund** against that credit in MYOB.
-5. **Add the MYOB credit / refund reference to the Turfware order notes**, so there's a trail on the order.
+3. **Create a separate negative sale / customer credit** in your accounting system (MYOB or Xero).
+4. **Process the refund** against that credit.
+5. **Add the credit / refund reference to the Turfware order notes**, so there's a trail on the order.
 
 This preserves the original invoice and its payment history.
 
@@ -23,5 +23,5 @@ This preserves the original invoice and its payment history.
 
 ## Refunding a card payment
 
-- **Paid by card through Sawfish** (online, on the digital invoice): the payment can be **refunded back to the card from Sawfish** — provided **refunds are enabled on your account** (they're **off by default**) and a billing card is on file.
-- **Paid in person by Tap-to-Pay** (Windcave): these **can't be refunded in Sawfish** — process the refund through your **EFTPOS terminal** or accounting system.
+- **Paid by card through the Sawfish digital invoice (online):** the payment can be **refunded back to the card from Sawfish** — provided **refunds are enabled on your account** (they're **off by default**) and a billing card is on file.
+- **Paid in person by Tap to Pay, Apple Pay or Google Pay:** these **can't be refunded in Sawfish** — process the refund through your **EFTPOS terminal** or accounting system.

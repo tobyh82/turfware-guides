@@ -25,4 +25,4 @@ Enter them and click **Save**, then **Verify Sawfish Connection** to confirm Tur
 
 ## Tap To Pay Devices
 
-Turfware can take card payments with **Tap to Pay** on a registered device. Click **Fetch devices** to pull the devices registered against your Sawfish account, then set one as **Primary** with the star. (Tap to Pay runs on the Sawfish mobile app — iPhone only.)
+Turfware can take **in-person payments** — **Tap to Pay, Apple Pay and Google Pay** — on a registered device. Click **Fetch devices** to pull the devices registered against your Sawfish account, then set one as **Primary** with the star. (In-person Tap to Pay runs on the Sawfish mobile app.)
