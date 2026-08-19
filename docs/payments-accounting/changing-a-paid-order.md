@@ -24,10 +24,11 @@ Likewise, if an invoice is amended in your **accounting system**, that change fl
 
 **If the invoice is already paid** — because a paid invoice can't be amended:
 
-1. **Remove the payment** from the invoice, so it can be edited.
-2. **Increase** the order and the invoice.
+1. **Remove the payment** from the invoice **in your accounting system**, so it can be edited.
+2. **Increase** the order and the invoice **in your accounting system**.
 3. **Re-collect** the new balance and re-apply the payment.
 4. Allow the systems to catch up — up to ~15 minutes if the change was made in your accounting system (see [How the sync works](how-the-sync-works.md)).
+5. **Amend the Turfware order to match the changes.**
 
 !!! tip "Make the change where it syncs fastest"
     Where you can, make invoice changes on the **Turfware / Sawfish** side — they cross within ~1 minute. A change made in your accounting system waits for the next ~15-minute sync before the customer can pay the new balance on their digital invoice.
