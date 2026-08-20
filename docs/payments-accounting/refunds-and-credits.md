@@ -25,5 +25,10 @@ Same process, but keep the order live and matched on the Turfware side:
 
 ## Refunding a card payment
 
-- Paid by card through the Sawfish digital invoice (online): the payment can be refunded back to the card from Sawfish — provided refunds are enabled on your account (they're off by default) and a billing card is on file.
-- Paid in person by Tap to Pay, Apple Pay or Google Pay: these can't be refunded in Sawfish — process the refund through your EFTPOS terminal or accounting system.
+A card payment taken through Sawfish can be refunded back to the customer's card from Sawfish's Payments screen — but only within a 48-hour window. Sawfish transfers card funds out of the card wallet every two days, so after that the direct card refund is no longer available.
+
+To do it: in Sawfish go to Payments, find the transaction, and click Refund. (Refunds must be enabled on your account — they're off by default.)
+
+*[Screenshot: Sawfish → Payments — the Refund action on a card transaction — save as pa-sawfish-refund.png]*
+
+Outside that 48-hour window — or where the customer paid in person by Tap to Pay, Apple Pay or Google Pay — the card can't be refunded in Sawfish. Process the refund through your EFTPOS terminal, or as a credit in your accounting system (see above).
