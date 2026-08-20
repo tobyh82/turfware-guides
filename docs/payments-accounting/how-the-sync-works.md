@@ -12,6 +12,8 @@ Turfware and Sawfish talk to each other by webhook, so changes cross within abou
 
 Sawfish syncs with your accounting system (MYOB or Xero) on a timed pull, roughly every 15 minutes. So a change made in your accounting system — a payment, or an invoice amendment — is picked up on the next sync, anywhere from 0 to about 15 minutes later, and then flows on to Turfware.
 
+This interval is fixed — there's no staff button to force this transaction sync sooner or to change its frequency. If you need a change to reach the customer's invoice quickly, make it on the Turfware / Sawfish side (near real-time) rather than in your accounting system.
+
 !!! tip "The Sync now button"
     Sawfish has a Sync now button — Settings → Invoice Settings — that pulls your latest account assets (chart of accounts, items and tax codes) from your accounting system on demand, up to 10 times a day (it shows the attempts remaining). Use it after you add a new account code or item in MYOB/Xero so it's available in Sawfish straight away. It refreshes the accounting structure — it doesn't re-pull invoices or payments, which stay on the timed sync above.
 
