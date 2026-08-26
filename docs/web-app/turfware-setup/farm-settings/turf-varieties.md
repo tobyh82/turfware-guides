@@ -67,4 +67,4 @@ Click Save. If the status is Published, the variety is immediately available on 
 
 Retire a turf variety you no longer use by Archiving it — it's hidden from the list and no longer available to select on new orders, but kept (not deleted). Flip Show Archived on the list to see archived records, and Unarchive to bring one back.
 
-*[Screenshot: Show Archived toggle and Archive action — save as fs-archive.png]*
+The Archive action and Show Archived toggle work the same across all these records — see [Archiving a customer](../../customers/customer-summary.md#archiving-a-customer) for a picture.

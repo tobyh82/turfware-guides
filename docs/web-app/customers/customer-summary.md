@@ -36,4 +36,10 @@ The Sawfish Client field links straight through (the ↗ icon) to the customer i
 
 ## Archiving a customer
 
-Administrators can Archive a customer you no longer deal with — it's hidden from the Customers list but kept (not deleted). Flip Show Archived to see archived customers, and Unarchive to restore one.
+Administrators can Archive a customer you no longer deal with — the Archive button, top right of the record. It's hidden from the Customers list but kept, not deleted.
+
+![Archive a customer from the record](../../assets/customer-archive.png)
+
+Flip Show Archived on the Customers list to see archived customers (their Status shows Archived), and Unarchive to restore one.
+
+![Show Archived on the Customers list](../../assets/customer-archive-list.png)
