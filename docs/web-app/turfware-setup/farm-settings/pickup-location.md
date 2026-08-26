@@ -12,9 +12,9 @@ Left-hand navigation → Farm Settings → Pick Up Locations. Click Create to ad
 
 ## Setting up a location
 
-- Name — the location name *(required)*.
-- Location — the address of the pickup point.
-- Freight required — mark this for a non-farm pickup point that still needs the order transported from the farm. When set, the order is added to the freight and scheduling queue so the turf is moved from the farm to the pickup site.
+- **Name** — the location name *(required)*.
+- **Location** — the address of the pickup point.
+- **Freight required** — mark this for a non-farm pickup point that still needs the order transported from the farm. When set, the order is added to the freight and scheduling queue so the turf is moved from the farm to the pickup site.
 
 ![Pick Up Location](../../../assets/fs-pickup-locations.png)
 

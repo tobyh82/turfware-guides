@@ -16,7 +16,7 @@ The Customers page lists every customer in Turfware. From here you can:
 
 - Search for a customer by name.
 - Click any row to open that customer's [summary](customer-summary.md).
-- Add a new customer — the green New Contact button (top right). See [Adding a customer](adding-a-customer.md).
+- **Add a new customer** — the green New Contact button (top right). See [Adding a customer](adding-a-customer.md).
 
 ![Customers list view](../../assets/customer-list.png)
 

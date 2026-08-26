@@ -14,9 +14,9 @@ Go to Farm Settings → Products. Click Create Product to add a new one, or clic
 
 ## 1. Naming
 
-- Short Name — the name shown on orders.
-- Abbreviation — the shorthand shown in the mobile apps.
-- Full Name — used on invoice line items; what the customer sees on their invoice.
+- **Short Name** — the name shown on orders.
+- **Abbreviation** — the shorthand shown in the mobile apps.
+- **Full Name** — used on invoice line items; what the customer sees on their invoice.
 
 ## 2. Description
 
@@ -24,8 +24,8 @@ Internal notes about the product — for your team only; not shown to customers.
 
 ## 3. Price settings
 
-- Retail Price (RRP) — full retail sell price. The baseline other segments discount from.
-- Cost Price — what the product costs you (purchase / wholesale cost). Used for margin reporting.
+- **Retail Price (RRP)** — full retail sell price. The baseline other segments discount from.
+- **Cost Price** — what the product costs you (purchase / wholesale cost). Used for margin reporting.
 
 ## 4. Track Quantity
 
@@ -34,10 +34,10 @@ Internal notes about the product — for your team only; not shown to customers.
 
 ## 5. Status
 
-- Draft — not shown on orders.
-- Published — live and available to sell.
-- Disabled — hidden from new orders but kept on record.
-- Delete — removes the product.
+- **Draft** — not shown on orders.
+- **Published** — live and available to sell.
+- **Disabled** — hidden from new orders but kept on record.
+- **Delete** — removes the product.
 
 ## 6. Sawfish settings (required for invoicing)
 

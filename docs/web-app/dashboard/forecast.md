@@ -14,9 +14,9 @@ Top navigation → Forecast.
 
 Each table lists the coming 7 days across the top (day and date); the figures run down the side. Where there are orders, they break down by turf variety.
 
-- Order Forecast — Total M² booked per day.
-- Delivery Forecast — No. of Orders and No. of Pallets per day.
-- Laying Forecast — No. of Orders and Total SQM per day.
+- **Order Forecast** — Total M² booked per day.
+- **Delivery Forecast** — No. of Orders and No. of Pallets per day.
+- **Laying Forecast** — No. of Orders and Total SQM per day.
 
 ![Forecast — 7-day Order, Delivery and Laying tables](../../assets/dashboard-forecast.png)
 

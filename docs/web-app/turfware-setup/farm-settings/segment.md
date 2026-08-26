@@ -14,8 +14,8 @@ Left-hand navigation → Farm Settings → Segments. Click Create Segment to add
 
 Details
 
-- Name and Status — set Status to Published to make the segment usable.
-- Sawfish Tracking Category Item — links the segment to a Sawfish tracking category, so sales by segment report correctly in your accounts.
+- **Name and Status** — set Status to Published to make the segment usable.
+- **Sawfish Tracking Category Item** — links the segment to a Sawfish tracking category, so sales by segment report correctly in your accounts.
 
 Turf & turf care pricing
 

@@ -23,7 +23,7 @@ Once saved, invoices for confirmed orders with a matching delivery date are sent
 
 ## Notes
 
-- Send today's invoices — set the number of days to 0 to send invoices for today's deliveries.
-- Turn it off — toggle Sending Invoice Automation OFF.
-- Pre-requisites — make sure your Sawfish item and account codes are set on your turf, products and services first, so invoices can generate.
-- No duplicates — invoices already sent won't be resent.
+- **Send today's invoices** — set the number of days to 0 to send invoices for today's deliveries.
+- **Turn it off** — toggle Sending Invoice Automation OFF.
+- **Pre-requisites** — make sure your Sawfish item and account codes are set on your turf, products and services first, so invoices can generate.
+- **No duplicates** — invoices already sent won't be resent.

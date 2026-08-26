@@ -12,7 +12,7 @@ Left-hand navigation → System Settings → Payment Methods. Click Create to ad
 
 ## Setting up a method
 
-- Name — the payment method name.
+- **Name** — the payment method name.
 
 The method is then selectable when [recording a payment on an order](../../order-management/creating-and-managing-an-order.md#moving-the-order-through-the-workflow).
 

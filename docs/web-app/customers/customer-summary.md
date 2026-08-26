@@ -18,9 +18,9 @@ To change any of them, click ✏ Edit Customer Info (top right), update the fiel
 
 Under Business Contact, click the green Add Contact button. Enter the contact's First / Last name, Email, Phone and Role, then choose their Communication Preferences — exactly which emails this contact receives:
 
-- Orders — Order Confirmation (delivery / pick up / general), Order delivery ETA, Order Delivered (request feedback), On Hold Orders.
-- Quotes — Customer Quote, Customer accepted quote.
-- Accounts — Invoices.
+- **Orders** — Order Confirmation (delivery / pick up / general), Order delivery ETA, Order Delivered (request feedback), On Hold Orders.
+- **Quotes** — Customer Quote, Customer accepted quote.
+- **Accounts** — Invoices.
 
 Tick only what that person should get — e.g. an accounts contact gets Invoices, a site contact gets Order delivery ETA. Click Save.
 

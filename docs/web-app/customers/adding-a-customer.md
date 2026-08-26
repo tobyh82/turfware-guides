@@ -13,7 +13,7 @@ On the Customers page, click the green New Contact button (top right).
 
 Complete the customer's details. Two fields matter most:
 
-- Organisation Type — Company or Individual. This dictates how the customer is set up in your accounting system (Sawfish) and how you search for them in Turfware (business name vs a person's name).
+- **Organisation Type** — Company or Individual. This dictates how the customer is set up in your accounting system (Sawfish) and how you search for them in Turfware (business name vs a person's name).
 - Segment. This dictates the pricing the customer receives, as per your segment pricing controls (e.g. Wholesale, Retail, Trade).
 
 ![Add Customer — Business Name, ABN, Segment, Organisation Type, primary person and site contact](../../assets/customer-add-new.png)

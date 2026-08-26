@@ -12,7 +12,7 @@ Left-hand navigation → System Settings → Market Channels. Click Create Marke
 
 ## Setting up a channel
 
-- Name — the channel name.
+- **Name** — the channel name.
 
 That's all a channel needs. It then appears in the Market Channel dropdown on orders and customers.
 

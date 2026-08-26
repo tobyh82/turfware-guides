@@ -14,10 +14,10 @@ Left-hand navigation → System Settings → Company Information → Order Setti
 
 Toggle which offerings appear on orders and quotes. Turf, Products and Services are set up at the item level in Farm Settings; Installation is order-level only.
 
-- Turf — turf varieties, paddocks and the harvest workflow — the core offering for turf farms. (Set up in [Farm Settings → Turf](farm-settings/turf-varieties.md).)
-- Products — physical stock items sold alongside or instead of turf (fertiliser, levies, accessories). (Set up in [Products](farm-settings/products.md).)
-- Installation — turf laying / installation as a line item on orders. There's no Farm Settings page — it's order-level only, and its accounting is mapped here (below).
-- Services — service offerings (e.g. maintenance, call-outs). Account mapping is configured on each service in [Farm Settings → Services](farm-settings/services.md).
+- **Turf** — turf varieties, paddocks and the harvest workflow — the core offering for turf farms. (Set up in [Farm Settings → Turf](farm-settings/turf-varieties.md).)
+- **Products** — physical stock items sold alongside or instead of turf (fertiliser, levies, accessories). (Set up in [Products](farm-settings/products.md).)
+- **Installation** — turf laying / installation as a line item on orders. There's no Farm Settings page — it's order-level only, and its accounting is mapped here (below).
+- **Services** — service offerings (e.g. maintenance, call-outs). Account mapping is configured on each service in [Farm Settings → Services](farm-settings/services.md).
 
 You can also restrict which farms are available when creating orders.
 

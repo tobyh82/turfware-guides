@@ -12,9 +12,9 @@ Left-hand navigation → Farm Settings → Farm Groups. Click Create to add a gr
 
 ## Setting up a group
 
-- Name — the group name *(required)*.
-- Cutoff time — the daily order cutoff for the group.
-- Farms — the [farms](farms.md) that belong to this group.
-- Carriers — the [carriers](carrier-settings.md) (delivery companies) assigned to this group.
+- **Name** — the group name *(required)*.
+- **Cutoff time** — the daily order cutoff for the group.
+- **Farms** — the [farms](farms.md) that belong to this group.
+- **Carriers** — the [carriers](carrier-settings.md) (delivery companies) assigned to this group.
 
 ![Farm Group — farms, carriers and cutoff time](../../../assets/fs-farm-groups.png)

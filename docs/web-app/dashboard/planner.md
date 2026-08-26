@@ -14,11 +14,11 @@ Top navigation → Planner.
 
 Each day tile shows, at a glance:
 
-- Trucks — trucks available that day.
-- Total orders — total square metres booked.
-- Orders P / Orders C — orders Pending / Confirmed.
-- Pallet Spaces — used / capacity (e.g. `45 / 82`), with a fill bar.
-- Drops — used / capacity (e.g. `11 / 76`), with a fill bar.
+- **Trucks** — trucks available that day.
+- **Total orders** — total square metres booked.
+- **Orders P / Orders C** — orders Pending / Confirmed.
+- **Pallet Spaces** — used / capacity (e.g. `45 / 82`), with a fill bar.
+- **Drops** — used / capacity (e.g. `11 / 76`), with a fill bar.
 
 Use Previous 4 Weeks / Next 4 Weeks to move the window; today is highlighted with a blue border. The Legend button (top right) explains the bar colours.
 

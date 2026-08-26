@@ -14,9 +14,9 @@ Go to Farm Settings → Services. Click Create Service to add a new one, or clic
 
 ## 1. Naming
 
-- Short Name — the name shown on orders.
-- Abbreviation — the shorthand shown in the mobile apps.
-- Full Name — used on invoice line items; what the customer sees on their invoice.
+- **Short Name** — the name shown on orders.
+- **Abbreviation** — the shorthand shown in the mobile apps.
+- **Full Name** — used on invoice line items; what the customer sees on their invoice.
 
 ## 2. Description
 
@@ -24,15 +24,15 @@ Internal notes about the service — for your team only; not shown to customers.
 
 ## 3. Price settings
 
-- Retail Price — full retail rate. The baseline other segments discount from.
-- Cost Price — your cost to deliver the service (e.g. labour cost). Used for margin reporting.
+- **Retail Price** — full retail rate. The baseline other segments discount from.
+- **Cost Price** — your cost to deliver the service (e.g. labour cost). Used for margin reporting.
 
 ## 4. Status
 
-- Draft — not shown on orders.
-- Published — live and available to sell.
-- Disabled — hidden from new orders but kept on record.
-- Delete — removes the service.
+- **Draft** — not shown on orders.
+- **Published** — live and available to sell.
+- **Disabled** — hidden from new orders but kept on record.
+- **Delete** — removes the service.
 
 ## 5. Sawfish settings (required for invoicing)
 

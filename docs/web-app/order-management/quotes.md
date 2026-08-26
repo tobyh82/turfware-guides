@@ -34,7 +34,7 @@ When the customer says yes, open the quote and click Convert To Order. Confirm t
 
 For a job where you take a deposit up front and the balance later:
 
-1. Set the deposit account — go to System Settings → Company Information and set the Deposit Payment Account Code to the right Chart-of-Accounts code in your accounting system (Sawfish).
-2. Create and send the quote — on Send Quote, enter the deposit percentage the customer needs to pay, then Send.
+1. **Set the deposit account** — go to System Settings → Company Information and set the Deposit Payment Account Code to the right Chart-of-Accounts code in your accounting system (Sawfish).
+2. **Create and send the quote** — on Send Quote, enter the deposit percentage the customer needs to pay, then Send.
 3. Customer accepts and pays the deposit — they select the turf variety and click Accept Quote. This generates the deposit invoice, takes them to the payment page, and (on acceptance) creates the order.
-4. Send the final invoice — open the confirmed order, click the arrow next to Save, and choose Send Final Invoice. The customer receives the final invoice with the deposit already deducted.
+4. **Send the final invoice** — open the confirmed order, click the arrow next to Save, and choose Send Final Invoice. The customer receives the final invoice with the deposit already deducted.

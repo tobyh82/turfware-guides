@@ -18,9 +18,9 @@ Set the date range (top right) to the harvest days you want to see.
 
 The first card sums everything for the range:
 
-- Orders — completed / total (e.g. `3 / 5`).
-- SQM — square metres cut / booked (e.g. `774 / 815`).
-- Pallets — made up / required (e.g. `19 / 19`).
+- **Orders** — completed / total (e.g. `3 / 5`).
+- **SQM** — square metres cut / booked (e.g. `774 / 815`).
+- **Pallets** — made up / required (e.g. `19 / 19`).
 - Meters Harvested and Meters RTD (Ready To Deliver) — progress bars showing metres harvested and metres ready to deliver against the total.
 
 ## Per turf variety

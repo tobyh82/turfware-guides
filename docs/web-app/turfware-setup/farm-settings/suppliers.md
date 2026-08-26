@@ -22,8 +22,8 @@ Then tick the Supply categories the supplier provides to your business: Turf, Pr
 
 For each category you ticked, its tab shows a Supply Rates table. Complete a line for each item the supplier provides:
 
-- Item — pick it from the dropdown. These are your existing Turf varieties, Products and Services, so set those up first. See [Turf Varieties](turf-varieties.md), [Products](products.md) and [Services](services.md).
-- Price — the supplier's rate: Unit Price (ex-GST and inc-GST), or Price / SQM on the Turf tab.
+- **Item** — pick it from the dropdown. These are your existing Turf varieties, Products and Services, so set those up first. See [Turf Varieties](turf-varieties.md), [Products](products.md) and [Services](services.md).
+- **Price** — the supplier's rate: Unit Price (ex-GST and inc-GST), or Price / SQM on the Turf tab.
 - Sawfish Item Code and Sawfish Account Code — the accounting mapping for that line, so a PO generated from Turfware posts to the right item and account. *(PO generation is a feature coming soon.)*
 
 Use Add item for more lines.
