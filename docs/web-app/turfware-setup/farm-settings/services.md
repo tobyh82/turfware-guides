@@ -51,3 +51,7 @@ If the service is sold online, link it to its matching Shopify item. See the Pro
 ## Save
 
 Click Save. If the status is Published, the service is immediately available on new orders.
+
+## Archiving
+
+Retire a service you no longer use by Archiving it — it's hidden from the list and no longer available to select on new orders, but kept (not deleted). Flip Show Archived on the list to see archived records, and Unarchive to bring one back.

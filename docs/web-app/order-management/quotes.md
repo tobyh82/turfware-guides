@@ -18,7 +18,13 @@ Click the green Create Quote button (top left). Build it exactly like an order �
 
 ## Send a quote
 
-Open the quote and click Send Quote. A preview pops up where you can review or edit the subject, content and recipient, then click Send. A confirmation box asks you to confirm the recipient's email address before it goes out.
+Open the quote and click Send Quote. You can review or edit the email subject, content and recipient.
+
+Preview the quote email before it goes — the preview is like-for-like with what the customer receives, so you can check it end to end. The quote itemises every line — turf, products, installation, delivery and services — and shows GST correctly for your pricing setup (whether your prices are GST-inclusive or exclusive).
+
+Click Send, then confirm the recipient's email address before the quote goes out.
+
+*[Screenshot: Quote email preview before sending — save as om-quote-preview.png]*
 
 ## Convert a quote to an order
 

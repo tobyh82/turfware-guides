@@ -62,3 +62,9 @@ Volume pricing lets you offer discounted rates by order size, per customer segme
 ## Save
 
 Click Save. If the status is Published, the variety is immediately available on new orders, apps, cutsheets and invoicing.
+
+## Archiving
+
+Retire a turf variety you no longer use by Archiving it — it's hidden from the list and no longer available to select on new orders, but kept (not deleted). Flip Show Archived on the list to see archived records, and Unarchive to bring one back.
+
+*[Screenshot: Show Archived toggle and Archive action — save as fs-archive.png]*

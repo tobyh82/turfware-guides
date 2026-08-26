@@ -33,3 +33,7 @@ Under Notes, click the green Add Note button. Notes are for customer call notes 
 ## Open the customer in Sawfish
 
 The Sawfish Client field links straight through (the ↗ icon) to the customer in the Sawfish payments system, where you'll find deeper payment and account information.
+
+## Archiving a customer
+
+Administrators can Archive a customer you no longer deal with — it's hidden from the Customers list but kept (not deleted). Flip Show Archived to see archived customers, and Unarchive to restore one.

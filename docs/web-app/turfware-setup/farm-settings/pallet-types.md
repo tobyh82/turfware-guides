@@ -18,3 +18,7 @@ Left-hand navigation → Farm Settings → Pallet Types. Click Create to add one
 - Background Color / Text Color — the colours the pallet type displays in, so it's easy to spot at a glance.
 
 ![Pallet Type — name, abbreviation, weight and colours](../../../assets/fs-pallet-types.png)
+
+## Archiving
+
+Retire a pallet type you no longer use by Archiving it — it's hidden from the list and no longer available to select on new orders, but kept (not deleted). Flip Show Archived on the list to see archived records, and Unarchive to bring one back.

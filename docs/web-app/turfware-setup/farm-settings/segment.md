@@ -38,3 +38,7 @@ When a customer on this segment is added to an order, these rates pre-fill autom
 ## Save
 
 Click Save.
+
+## Archiving
+
+Retire a segment you no longer use by Archiving it — it's hidden from the list and no longer available to select on new orders, but kept (not deleted). Flip Show Archived on the list to see archived records, and Unarchive to bring one back.
