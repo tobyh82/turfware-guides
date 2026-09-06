@@ -4,6 +4,4 @@ title: "Driver App Overview"
 
 # Driver App Overview
 
-Find a video tutorial below on how to use the driver app.
-
-[🎥 Watch the walkthrough video](https://jam.dev/video/5c9c7fab-ce19-4624-bba0-22f0d54942a2)
+The Driver App is the field app your drivers use to see and complete their assigned deliveries — working through each drop and capturing proof of delivery.

@@ -4,6 +4,6 @@ title: "Cutting App Overview"
 
 # Cutting App Overview
 
-Find a video tutorial below on how to use the cutting app.
+The Cutting App is the field app your harvest and forklift team use to work through the day's cutting — seeing what needs to be cut and marking it off as they go.
 
-[🎥 Watch the walkthrough video](https://jam.dev/video/2fb00dd3-1e5c-4b65-a41a-6d37d31a5332)
+![The Cutting App home screen](../../assets/cutting-app-home.png)

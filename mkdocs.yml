@@ -104,8 +104,8 @@ nav:
       - "How to use search": web-app/how-to-use-lists/how-to-use-search.md
     - "Users":
       - "Create a user": web-app/users/create-a-user.md
-      - "How to give access to each user group": web-app/users/how-to-give-access-to-each-user-group.md
       - "User Roles": web-app/users/user-roles.md
+      - "How access works": web-app/users/how-to-give-access-to-each-user-group.md
     - "Shortcuts":
       - "Create order": web-app/shortcuts/create-order.md
       - "Cutsheet": web-app/shortcuts/cutsheet.md
