@@ -53,28 +53,6 @@ nav:
       - "Cut Sheet": web-app/dashboard/cut-sheet.md
       - "Forecast": web-app/dashboard/forecast.md
       - "Sales": web-app/dashboard/sales.md
-    - "Customers":
-      - web-app/customers/index.md
-      - "Adding a customer": web-app/customers/adding-a-customer.md
-      - "Customer summary": web-app/customers/customer-summary.md
-      - "Special Pricing": web-app/customers/special-pricing.md
-      - "Billing": web-app/customers/billing.md
-      - "Documents": web-app/customers/documents.md
-    - "Order Management":
-      - web-app/order-management/index.md
-      - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
-      - "Quotes": web-app/order-management/quotes.md
-      - "Quotes Accepted": web-app/order-management/quotes-accepted.md
-      - "Shopify Pending": web-app/order-management/shopify-pending.md
-      - "Orders Pending": web-app/order-management/orders-pending.md
-      - "Orders Confirmed": web-app/order-management/orders-confirmed.md
-      - "On Hold": web-app/order-management/on-hold.md
-      - "Lost": web-app/order-management/lost.md
-    - "Delete":
-      - "Overview": web-app/delete/overview.md
-      - "Deleting an Item": web-app/delete/deleting-an-item.md
-      - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
-      - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
     - "Turfware Setup":
       - "Order Settings": web-app/turfware-setup/order-settings.md
       - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md
@@ -97,6 +75,28 @@ nav:
         - "Payment Methods": web-app/turfware-setup/farm-setup/payment-methods.md
       - "Communications":
         - "Communications": web-app/turfware-setup/communications/communications.md
+    - "Customers":
+      - web-app/customers/index.md
+      - "Adding a customer": web-app/customers/adding-a-customer.md
+      - "Customer summary": web-app/customers/customer-summary.md
+      - "Special Pricing": web-app/customers/special-pricing.md
+      - "Billing": web-app/customers/billing.md
+      - "Documents": web-app/customers/documents.md
+    - "Order Management":
+      - web-app/order-management/index.md
+      - "Creating & Managing an Order": web-app/order-management/creating-and-managing-an-order.md
+      - "Quotes": web-app/order-management/quotes.md
+      - "Quotes Accepted": web-app/order-management/quotes-accepted.md
+      - "Shopify Pending": web-app/order-management/shopify-pending.md
+      - "Orders Pending": web-app/order-management/orders-pending.md
+      - "Orders Confirmed": web-app/order-management/orders-confirmed.md
+      - "On Hold": web-app/order-management/on-hold.md
+      - "Lost": web-app/order-management/lost.md
+    - "Delete":
+      - "Overview": web-app/delete/overview.md
+      - "Deleting an Item": web-app/delete/deleting-an-item.md
+      - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
+      - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
     - "How to use lists":
       - "Concept of list, best practices": web-app/how-to-use-lists/concept-of-list-best-practices.md
       - "How to use date functions": web-app/how-to-use-lists/how-to-use-date-functions.md
