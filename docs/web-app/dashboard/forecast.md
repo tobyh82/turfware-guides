@@ -22,3 +22,7 @@ Each table lists the coming 7 days across the top (day and date); the figures ru
 
 !!! tip "Plan the week ahead"
     Read the three together: Order Forecast tells you how much turf to cut, Delivery Forecast how many trucks and pallets you'll need, and Laying Forecast how much installation crew work is booked.
+
+## Outstanding payments
+
+The same screen (headed Payments / Forecast) also carries an Outstanding Payments table for chasing money owed. Each row shows the order number, customer name, delivery date, due date, invoice amount and payment status. Use the green export button to download the list as a CSV.
