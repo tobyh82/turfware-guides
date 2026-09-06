@@ -16,9 +16,18 @@ The Customers page lists every customer in Turfware. From here you can:
 
 - Search for a customer by name.
 - Click any row to open that customer's [summary](customer-summary.md).
+- See a customer's status at a glance — the Status column shows Active or Archived.
 - **Add a new customer** — the green New Contact button (top right). See [Adding a customer](adding-a-customer.md).
 
 ![Customers list view](../../assets/customer-list.png)
+
+## Active and archived customers
+
+By default the list shows your active customers. When you archive a customer you no longer deal with, they drop off this list but are kept, not deleted — and the Status column marks each row Active or Archived. Flip Show Archived, at the top of the list, to bring archived customers back into view, then Unarchive any you want to restore.
+
+![Show Archived on the Customers list](../../assets/customer-archive-list.png)
+
+To archive or restore an individual customer, see [Archiving a customer](customer-summary.md#archiving-a-customer).
 
 <div class="grid cards" markdown>
 

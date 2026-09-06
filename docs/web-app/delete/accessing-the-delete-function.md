@@ -4,8 +4,7 @@ title: "Accessing the Delete Function"
 
 # Accessing the Delete Function
 
-NavigatetotheDeleteFunction:
+To open the Delete area:
 
-- On the Left-Hand Side (LHS) navigation menu, click on "Deleted".
-
-- View DeletedItems: You will see three types of deleted items: Deleted Quotes, Deleted Orders, and DeletedSchedules.
+- In the left-hand navigation menu, click Deleted.
+- You'll see your deleted items grouped into three tabs: Deleted Quotes, Deleted Orders and Deleted Schedules.

@@ -167,3 +167,8 @@ Administrator overrides — like force-confirming an unpaid order — are record
 ## The Documents tab
 
 Store files against the order — purchase orders, site plans, anything relevant. Open the Documents tab, click Upload (top right), choose the document type and file, and upload. All the order's documents are listed on this tab.
+
+When you upload, you'll see an **Attached in Invoice** checkbox.
+
+!!! tip "Send a document with the invoice"
+    Tick **Attached in Invoice** and that file is sent to the customer together with their invoice — no need to email it separately. Ideal for site plans, compliance or warranty certificates, delivery dockets, or a signed copy of the quote. It's sent once, with the invoice; leave the box unticked to keep a file on the order for your own reference only.

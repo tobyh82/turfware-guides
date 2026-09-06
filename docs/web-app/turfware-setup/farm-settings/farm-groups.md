@@ -18,3 +18,9 @@ Left-hand navigation → Farm Settings → Farm Groups. Click Create to add a gr
 - **Carriers** — the [carriers](carrier-settings.md) (delivery companies) assigned to this group.
 
 ![Farm Group — farms, carriers and cutoff time](../../../assets/fs-farm-groups.png)
+
+## Archiving
+
+Retire a farm group you no longer use by Archiving it — it's hidden from the list and from Planner grouping, but kept (not deleted). Flip Show Archived on the list to see archived groups, and Unarchive to bring one back.
+
+The Archive action and Show Archived toggle work the same across these records — see [Archiving a customer](../../customers/customer-summary.md#archiving-a-customer) for a picture.

@@ -40,6 +40,4 @@ Administrators can Archive a customer you no longer deal with — the Archive bu
 
 ![Archive a customer from the record](../../assets/customer-archive.png)
 
-Flip Show Archived on the Customers list to see archived customers (their Status shows Archived), and Unarchive to restore one.
-
-![Show Archived on the Customers list](../../assets/customer-archive-list.png)
+Archived customers drop off the Customers list — flip Show Archived there to see them (their Status shows Archived) and Unarchive to restore one. See [Active and archived customers](index.md#active-and-archived-customers).

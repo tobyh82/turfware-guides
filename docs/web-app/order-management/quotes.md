@@ -16,6 +16,9 @@ Click the green Create Quote button (top left). Build it exactly like an order �
 
 ![Quotes list with the Create Quote button](../../assets/om-quotes-list.png)
 
+!!! tip "Decimal quantities on products & services"
+    Products and services now accept decimal quantities — up to two places, e.g. 2.5 — where the item is sold by measure, so you can quote part-loads or fractional units. Whole-unit items stay whole numbers, and every total, including GST and any deposit, recalculates to the cent. (This applies on orders too, since quotes are built the same way.)
+
 ## Send a quote
 
 Open the quote and click Send Quote. You can review or edit the email subject, content and recipient, add attachments, and set a deposit percentage if one is required.

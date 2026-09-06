@@ -71,8 +71,9 @@ nav:
       - "On Hold": web-app/order-management/on-hold.md
       - "Lost": web-app/order-management/lost.md
     - "Delete":
-      - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
       - "Overview": web-app/delete/overview.md
+      - "Deleting an Item": web-app/delete/deleting-an-item.md
+      - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
       - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
     - "Turfware Setup":
       - "Order Settings": web-app/turfware-setup/order-settings.md
@@ -140,6 +141,7 @@ nav:
     - "Recording payments": payments-accounting/recording-payments.md
     - "Changing a paid order": payments-accounting/changing-a-paid-order.md
     - "Refunds & credits": payments-accounting/refunds-and-credits.md
+    - "Cancelling & voiding an invoice": payments-accounting/cancelling-and-voiding.md
   - "Delivery App":
     - delivery-app/index.md
     - "Setting up Delivery App":
