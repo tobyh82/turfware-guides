@@ -18,16 +18,16 @@ title: "How to use the routing Feature"
 
 - To save trucks and generate the docker, refer to Figure D below.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350840/7.2_scheduling_-_Attachment_2.jpg)  
+![](../../../assets/hj-4350840-7.2_scheduling_-_Attachment_2.jpg)  
 Figure A
 
 To export and download deliveries as a CSV file, click the green “CSV” button next to the “Add Truck” button.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350841/7.2_scheduling_-_Attachment_3.jpg)  
+![](../../../assets/hj-4350841-7.2_scheduling_-_Attachment_3.jpg)  
 Figure B
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350842/7.2_scheduling_-_Attachment_4.jpg)  
+![](../../../assets/hj-4350842-7.2_scheduling_-_Attachment_4.jpg)  
 Figure C
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350843/7.2_scheduling_-_Attachment_5.jpg)  
+![](../../../assets/hj-4350843-7.2_scheduling_-_Attachment_5.jpg)  
 Figure D

@@ -12,4 +12,4 @@ title: "How to use date functions"
 
 - ClearDateRange:To remove the date filter and see all records, clear the date range selection.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350806/4._how_to_use_lists_-_Attachment_3.jpg)
+![](../../assets/hj-4350806-4._how_to_use_lists_-_Attachment_3.jpg)

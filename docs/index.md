@@ -18,7 +18,7 @@ Welcome to the Turfware guides — everything you need to run turf orders, deliv
 
     For drivers — delivery runs, order details and proof of delivery.
 
--   __[Cutting App](cutting-app/index.md)__
+-   __[Harvesting App](harvesting-app/index.md)__
 
     For the harvest team — cut lists and confirming harvests.
 

@@ -1,6 +1,6 @@
 site_name: Turfware Help
 site_url: https://tobyh82.github.io/turfware-guides/
-site_description: Turfware user guides — orders, delivery, cutting, setup & integrations
+site_description: Turfware user guides — orders, delivery, harvesting, setup & integrations
 docs_dir: docs
 theme:
   name: material
@@ -173,24 +173,24 @@ nav:
         - "Viewing Route from the front screen": delivery-app/using-the-delivery-app/viewing-route-from-the-front-screen/viewing-route-from-the-front-screen.md
     - "Sending Invite to Delivery App":
       - "Sending Invite to Delivery App": delivery-app/sending-invite-to-delivery-app/sending-invite-to-delivery-app.md
-  - "Cutting App":
-    - cutting-app/index.md
-    - "Setting up the Cutting App":
-      - "Android": cutting-app/setting-up-the-cutting-app/android.md
-      - "IOS": cutting-app/setting-up-the-cutting-app/ios.md
-    - "Using Cutting App":
-      - "Cutting App Overview": cutting-app/using-cutting-app/cutting-app-overview.md
+  - "Harvesting App":
+    - harvesting-app/index.md
+    - "Setting up the Harvesting App":
+      - "Android": harvesting-app/setting-up-the-harvesting-app/android.md
+      - "IOS": harvesting-app/setting-up-the-harvesting-app/ios.md
+    - "Using Harvesting App":
+      - "Harvesting App Overview": harvesting-app/using-harvesting-app/harvesting-app-overview.md
       - "As a forklift operator":
-        - "Confirming order": cutting-app/using-cutting-app/as-a-forklift-operator/confirming-order.md
-        - "Selecting order": cutting-app/using-cutting-app/as-a-forklift-operator/selecting-order.md
-        - "Updating order": cutting-app/using-cutting-app/as-a-forklift-operator/updating-order.md
-        - "Viewing Orders": cutting-app/using-cutting-app/as-a-forklift-operator/viewing-orders.md
+        - "Confirming order": harvesting-app/using-harvesting-app/as-a-forklift-operator/confirming-order.md
+        - "Selecting order": harvesting-app/using-harvesting-app/as-a-forklift-operator/selecting-order.md
+        - "Updating order": harvesting-app/using-harvesting-app/as-a-forklift-operator/updating-order.md
+        - "Viewing Orders": harvesting-app/using-harvesting-app/as-a-forklift-operator/viewing-orders.md
       - "As a Harvestor":
-        - "Selecting order": cutting-app/using-cutting-app/as-a-harvestor/selecting-order.md
-        - "Updating order": cutting-app/using-cutting-app/as-a-harvestor/updating-order.md
-        - "Viewing Orders": cutting-app/using-cutting-app/as-a-harvestor/viewing-orders.md
-    - "Sending Invite to Cutting App":
-      - "Sending Invite to Cutting App": cutting-app/sending-invite-to-cutting-app/sending-invite-to-cutting-app.md
+        - "Selecting order": harvesting-app/using-harvesting-app/as-a-harvestor/selecting-order.md
+        - "Updating order": harvesting-app/using-harvesting-app/as-a-harvestor/updating-order.md
+        - "Viewing Orders": harvesting-app/using-harvesting-app/as-a-harvestor/viewing-orders.md
+    - "Sending Invite to Harvesting App":
+      - "Sending Invite to Harvesting App": harvesting-app/sending-invite-to-harvesting-app/sending-invite-to-harvesting-app.md
   - "General":
     - general/index.md
     - "Turfware Glossary": general/turfware-glossary.md

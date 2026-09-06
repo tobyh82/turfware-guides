@@ -12,4 +12,4 @@ title: "How to use filters"
 
 - RemoveFilters: To view the complete list again, clear any applied filters.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350807/4._how_to_use_lists_-_Attachment_4.jpg)
+![](../../assets/hj-4350807-4._how_to_use_lists_-_Attachment_4.jpg)

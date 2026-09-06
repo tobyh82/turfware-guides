@@ -30,12 +30,12 @@ Key Metrics Displayed: (See the figure A below)
 
 - MetersRTD(ReadytoDeliver)Progress: Progress bar showing the percentage of meters ready to deliver compared to the total area.
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350867/10._shortcuts_-_Attachment_1.jpg)  
+![](../../assets/hj-4350867-10._shortcuts_-_Attachment_1.jpg)  
 Figure A
 
 ### Grass Type Summary
 
 The right panel contains a detailed breakdown for each grass type, allowing you to monitor the progress of individual categories. (See Figure B below)
 
-![](https://static.helpjuice.com/helpjuice_production/uploads/upload/image/22702/4350868/10._shortcuts_-_Attachment_2.jpg)  
+![](../../assets/hj-4350868-10._shortcuts_-_Attachment_2.jpg)  
 Figure B
