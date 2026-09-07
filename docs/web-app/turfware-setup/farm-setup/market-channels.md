@@ -16,4 +16,4 @@ Left-hand navigation → System Settings → Market Channels. Click Create Marke
 
 That's all a channel needs. It then appears in the Market Channel dropdown on orders and customers.
 
-*[Screenshot: Market Channels — save as ss-market-channels.png]*
+![Market Channels — the list of channels](../../../assets/ss-market-channels.png)
