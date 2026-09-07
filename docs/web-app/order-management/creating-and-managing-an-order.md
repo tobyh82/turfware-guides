@@ -14,7 +14,7 @@ This guide follows the full flow: building the order on the Order Summary tab, s
 
 ### Customer Account Status
 
-Shows the customer's current account status against their credit limit and their invoice status. It becomes active once a customer has been entered in Order Detail (below).
+Shows the customer's account position at a glance in four figures — Credit Limit, Balance (currently owing), Available (credit remaining) and Overdue — with a Utilisation bar showing how much of the credit limit is used, and a View Invoices in Customer link. It becomes active once a customer has been entered in Order Detail (below).
 
 ### Order Detail
 
