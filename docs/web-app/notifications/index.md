@@ -14,7 +14,7 @@ Left-hand navigation → Notifications.
 
 Every message the system can send, grouped by area — Orders, Quotes, Operations, Logistics and Users. Each row shows a short description, whether it's Email, SMS or both, and its status (Active / Inactive). Click a template to open its [editor](editing-a-notification.md). Edit email design (top right) sets the shared header, footer and colours applied across every email.
 
-*[Screenshot: Notification Templates list — save as ss-notifications-list.png]*
+![The Notification Templates list, grouped by area](../../assets/ss-notifications-list.png)
 
 ## What each notification is, and who it goes to
 

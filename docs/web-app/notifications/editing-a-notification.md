@@ -6,7 +6,7 @@ title: "Editing a notification"
 
 Click any template on the [Notifications](index.md) list to open its editor. The left side is the configuration; the right side is a live preview of exactly what the customer receives.
 
-*[Screenshot: Edit notification — configuration and live preview — save as ss-notification-edit.png]*
+![Editing a notification — configuration on the left, live preview on the right](../../assets/ss-notification-edit.png)
 
 ## Configuration
 
