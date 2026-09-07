@@ -18,9 +18,9 @@ The Turfware web admin — where you plan operations, create and manage orders, 
 
     The full order flow — from building an order to invoicing it.
 
--   __[Order Settings](turfware-setup/order-settings.md)__
+-   __[Company Information](turfware-setup/farm-setup/company-information.md)__
 
-    Control what appears on the order page, and map installation & delivery to your accounts.
+    Your central settings — company details, order workflow, pricing, invoicing, accounting mapping, theme and Order Settings.
 
 -   __[Suppliers](turfware-setup/farm-settings/suppliers.md)__
 

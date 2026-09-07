@@ -54,8 +54,6 @@ nav:
       - "Forecast": web-app/dashboard/forecast.md
       - "Sales": web-app/dashboard/sales.md
     - "Turfware Setup":
-      - "Order Settings": web-app/turfware-setup/order-settings.md
-      - "Sending Invoice - Automation": web-app/turfware-setup/sending-invoice-automation.md
       - "Farm Settings":
         - "Turf": web-app/turfware-setup/farm-settings/turf-varieties.md
         - "Products": web-app/turfware-setup/farm-settings/products.md
