@@ -12,6 +12,8 @@ A turf variety is a grass you sell. Each one holds its names, pricing, pallet an
 
 Go to Farm Settings → Turf. Click Create Grass to add a new variety, or click any row to edit an existing one.
 
+![The Turf (Grasses) list — name, full name, retail rate and status](../../../assets/fs-turf-varieties.png)
+
 ## 1. Naming
 
 A variety has three names, each used in a different place — so it reads clearly for staff, for drivers, and for customers:
