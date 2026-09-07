@@ -92,6 +92,13 @@ nav:
       - "Orders Confirmed": web-app/order-management/orders-confirmed.md
       - "On Hold": web-app/order-management/on-hold.md
       - "Lost": web-app/order-management/lost.md
+    - "Payments & Accounting":
+      - payments-accounting/index.md
+      - "How the sync works": payments-accounting/how-the-sync-works.md
+      - "Recording payments": payments-accounting/recording-payments.md
+      - "Changing a paid order": payments-accounting/changing-a-paid-order.md
+      - "Refunds & credits": payments-accounting/refunds-and-credits.md
+      - "Cancelling & voiding an invoice": payments-accounting/cancelling-and-voiding.md
     - "Delete":
       - "Overview": web-app/delete/overview.md
       - "Deleting an Item": web-app/delete/deleting-an-item.md
@@ -121,13 +128,6 @@ nav:
         - "How to use the routing Feature": web-app/logistics/scheduling/how-to-use-the-routing-feature.md
         - "How to use the scheduler": web-app/logistics/scheduling/how-to-use-the-scheduler.md
     - "Reports": web-app/report/index.md
-  - "Payments & Accounting":
-    - payments-accounting/index.md
-    - "How the sync works": payments-accounting/how-the-sync-works.md
-    - "Recording payments": payments-accounting/recording-payments.md
-    - "Changing a paid order": payments-accounting/changing-a-paid-order.md
-    - "Refunds & credits": payments-accounting/refunds-and-credits.md
-    - "Cancelling & voiding an invoice": payments-accounting/cancelling-and-voiding.md
   - "Delivery App":
     - delivery-app/index.md
     - "Setting up Delivery App":
