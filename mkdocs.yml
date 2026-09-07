@@ -120,16 +120,7 @@ nav:
       - "Scheduling":
         - "How to use the routing Feature": web-app/logistics/scheduling/how-to-use-the-routing-feature.md
         - "How to use the scheduler": web-app/logistics/scheduling/how-to-use-the-scheduler.md
-    - "Report":
-      - "How to export reports into PDF and Excel":
-        - "How to export reports into PDF and Excel": web-app/report/how-to-export-reports-into-pdf-and-excel/how-to-export-reports-into-pdf-and-excel.md
-      - "How to toggle between reports":
-        - "How to toggle between reports": web-app/report/how-to-toggle-between-reports/how-to-toggle-between-reports.md
-      - "How to use filters on each report":
-        - "Installation Report": web-app/report/how-to-use-filters-on-each-report/installation-report.md
-        - "Logistics Report": web-app/report/how-to-use-filters-on-each-report/logistics-report.md
-        - "Preparation Report": web-app/report/how-to-use-filters-on-each-report/preparation-report.md
-        - "Sales Report": web-app/report/how-to-use-filters-on-each-report/sales-report.md
+    - "Reports": web-app/report/index.md
   - "Payments & Accounting":
     - payments-accounting/index.md
     - "How the sync works": payments-accounting/how-the-sync-works.md

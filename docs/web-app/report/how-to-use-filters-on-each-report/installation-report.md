@@ -1,9 +1,0 @@
----
-title: "Installation Report"
----
-
-# Installation Report
-
-Can combine the date range filter and Installation provider to filter the related orders. (See figure below)
-
-![](../../../assets/hj-4350862-8.2_how_to_use_filters_on_each_report_-_Attachment_2.jpg)
