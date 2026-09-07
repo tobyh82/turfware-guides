@@ -4,22 +4,28 @@ title: "Installation"
 
 # Installation
 
-AccesstheInstallationReport: From the LHS menu under "Operations", click on "Installation".
+The Installation report lists the orders that have laying (installation) work, ready to print, export or send as a docket.
 
-#### Apply Filters:
+## Where to find it
 
-- Date Range: Select the desired date range for the report.
+Left-hand navigation → Operations → Installation.
 
-- Order Status: Choose from "Pending" or "Confirmed".
+## Filters
 
-- Laying Team: Optionally, filter by the Laying team handling the order.
+- **Date range** — the period to report on.
+- **Order status** — the Pending / Confirmed tabs.
+- **Laying team** — optionally filter by the laying team handling the job.
+- **Search** — find a row by order number, customer, and so on.
 
-#### Generate Report:
+## The list
 
-- Print: Click the "Print" button to print the report as a PDF.
+Each row shows the order number, delivery date, customer, payment status, address, SQM, laying team and ETD (estimated time of delivery).
 
-- Export: Click "Export" to download the report as an Excel file.
+## Actions
 
-- Docket: Use the "Docket" button to generate a docket.
+- **Print** — open the report as a PDF to print.
+- **Export** — download the report as an Excel file.
+- **Docket** — generate a docket for the job.
+- **Clear Filters** — reset all filters to the default view.
 
-ResetFilters: Click the "Clear Filter" button to reset all applied filters and return to the default view.
+![The Installation report — filters, buttons and list](../../assets/operations-installation.png)
