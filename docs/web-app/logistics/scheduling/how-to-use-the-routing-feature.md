@@ -16,7 +16,7 @@ title: "How to use the routing Feature"
 
 - To delete a truck, see Figure D below.
 
-- To save trucks and generate the docker, refer to Figure D below.
+- To save trucks and generate the docket, refer to Figure D below.
 
 ![](../../../assets/hj-4350840-7.2_scheduling_-_Attachment_2.jpg)  
 Figure A

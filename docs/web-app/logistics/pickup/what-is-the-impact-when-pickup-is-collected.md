@@ -4,4 +4,4 @@ title: "What is the impact when pickup is collected"
 
 # What is the impact when pickup is collected
 
-After being marked as picked up, the order would be locked and the order status change to “Picked Up”
+Once an order is marked as picked up, it is locked and its status changes to Picked Up.

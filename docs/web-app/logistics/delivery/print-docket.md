@@ -4,4 +4,4 @@ title: "Print Docket"
 
 # Print Docket
 
-Click the green “PrintDockets” button at the top. The docket would be generated as a downloadable PDF file on the new tab.
+On the Delivery screen (Logistics → Delivery), click the green Print Dockets button at the top. The delivery dockets are generated as a PDF, which opens in a new tab ready to print.
