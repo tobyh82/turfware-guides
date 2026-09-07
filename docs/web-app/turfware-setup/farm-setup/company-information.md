@@ -74,7 +74,7 @@ Controls whether an order can be confirmed before it's paid — an important con
 - **Delivery Time-Range Communications** — the delivery window told to customers: N hours before to N hours after the scheduled delivery time. An Earliest delivery time communicated can override the start — e.g. a 7:00am delivery with a 2-hour buffer would read *5–9am*, but an earliest time of 6:00am makes it *6–9am*.
 - Default Email and Phone for System Notifications — the Admin, Accounts, Reply-to and Test email addresses and phone numbers that system notifications use.
 
-*[Screenshot: Company Information — Notifications — save as ss-company-notifications.png]*
+![Notifications — delivery time-range and default system notification contacts](../../../assets/ss-company-notifications.png)
 
 ## Order Settings
 
