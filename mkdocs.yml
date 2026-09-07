@@ -126,6 +126,10 @@ nav:
         - "How to use the routing Feature": web-app/logistics/scheduling/how-to-use-the-routing-feature.md
         - "How to use the scheduler": web-app/logistics/scheduling/how-to-use-the-scheduler.md
     - "Reports": web-app/report/index.md
+    - "Notifications":
+      - web-app/notifications/index.md
+      - "Editing a notification": web-app/notifications/editing-a-notification.md
+      - "Variables": web-app/notifications/variables.md
   - "Delivery App":
     - delivery-app/index.md
     - "Setting up Delivery App":
