@@ -4,30 +4,24 @@ title: "How to use the routing Feature"
 
 # How to use the routing Feature
 
-- Switch to the blue “Routing” button in the top left corner and navigate to the Routing Management page.
+Routing is where you build each carrier's truck runs for a day and let Turfware map the route.
 
-- Select the carrier at the top (see A below).
+## Open Routing
 
-- Click the green “Add Truck” button to add truck deliveries for that date. A box will pop up, allowing you to select a specific truck and driver (see Figure B below).
+Switch to the blue Routing button (top left) to open the Routing Management page. Pick the date, then tick the carrier(s) you're routing (Turfware Trucking, Bobs Trucking, and so on).
 
-- Assign an order to the truck by dragging and dropping the order from the LHS “Unassigned” column to the truck on the RHS (see Figure A below).
+## Assign orders to trucks
 
-- After assigning the order to the truck, the system will calculate the route and render directions as shown in Figure C below.
+- The Unassigned column (left) lists every order for that date and carrier that isn't yet on a truck.
+- Click Add Truck to add a truck run — choose the truck and driver.
+- Drag an order from Unassigned onto a truck to assign it, and set each drop's ETD as needed.
 
-- To delete a truck, see Figure D below.
+![Routing — unassigned orders ready to allocate to trucks](../../../assets/routing1.png)
 
-- To save trucks and generate the docket, refer to Figure D below.
+## Route and save
 
-![](../../../assets/hj-4350840-7.2_scheduling_-_Attachment_2.jpg)  
-Figure A
+- Once orders are on a truck, Turfware calculates the run and shows the route on the map (each stop lettered A, B, C…). Each truck shows its Run number and the Capacity used.
+- Click Save to save the trucks and generate the docket.
+- Click CSV (next to Add Truck) to export the deliveries as a CSV file.
 
-To export and download deliveries as a CSV file, click the green “CSV” button next to the “Add Truck” button.
-
-![](../../../assets/hj-4350841-7.2_scheduling_-_Attachment_3.jpg)  
-Figure B
-
-![](../../../assets/hj-4350842-7.2_scheduling_-_Attachment_4.jpg)  
-Figure C
-
-![](../../../assets/hj-4350843-7.2_scheduling_-_Attachment_5.jpg)  
-Figure D
+![Routing — orders allocated to a truck, with the calculated route](../../../assets/routing2.png)

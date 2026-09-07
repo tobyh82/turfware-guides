@@ -14,3 +14,5 @@ Tick the checkbox in the Picked up column of the order that has been collected.
 
 - **Print** — generate the pickup report as a PDF, which opens in a new tab.
 - **Docket** — generate a pickup docket.
+
+![The Pickup screen — Picked up checkboxes, Print and Docket](../../../assets/pickup-list.png)
