@@ -29,7 +29,7 @@ A chart-of-account line for installation, so charges map to invoices via Sawfish
 
 *(Admin only.)* Sets how delivery & freight charges map to invoices via Sawfish — lifted out of the old Chart of Accounts window so it lives in one place. Set the Sawfish Account Code and Sawfish Item (e.g. *202 – Freight Sales* and *100 – Turf Delivery*).
 
-*[Screenshot: Order Settings — toggles + Installation/Freight Sawfish mapping — save as ss-order-settings.png]*
+![Order Settings — product/service toggles and Installation / Freight Sawfish mapping](../../assets/ss-order-settings.png)
 
 !!! note "Ties into the order page"
     What you enable here is exactly what shows in the Products & Services section when [creating an order](../order-management/creating-and-managing-an-order.md).
