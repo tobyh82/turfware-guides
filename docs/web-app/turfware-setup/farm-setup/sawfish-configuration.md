@@ -29,3 +29,5 @@ Enter them and click Save, then Verify Sawfish Connection to confirm Turfware ca
 ## Tap To Pay Devices
 
 Turfware can take in-person payments — Tap to Pay, Apple Pay and Google Pay — on a registered device. Click Fetch devices to pull the devices registered against your Sawfish account, then set one as Primary with the star. (In-person Tap to Pay runs on the Sawfish mobile app.)
+
+To register a device and take payments in person, follow [Tap to Pay on iPhone](https://help.sawfish.com.au/mobile/tap-to-pay/) in the Sawfish help centre — set it up there first, then Fetch devices here.
