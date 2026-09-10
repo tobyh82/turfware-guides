@@ -10,6 +10,10 @@ Orders Confirmed are orders that have passed the confirmation step. Confirming a
 
 Left-hand navigation → Order Management → Orders Confirmed.
 
+The list shows each confirmed order at a glance — order number, delivery date, customer, suburb, order status, turf, m², pallets, total, invoice status and payment due date. Filter by invoice status or a date range, or search to find a specific order.
+
+![The Confirmed Orders list, with invoice-status and date filters](../../assets/om-orders-confirmed-list.png)
+
 ## What confirming triggers
 
 Once an order is confirmed, the operational workflow starts and the order becomes visible across all the connected apps:

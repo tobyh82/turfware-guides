@@ -14,7 +14,11 @@ Voiding an invoice from Turfware also cancels it in your accounting system (Sawf
 2. On the invoice, open its actions menu (the arrow next to Send) and choose **Void Invoice**.
 3. Confirm when prompted — "Are you sure you want to void the invoice?".
 
+![The Invoicing tab — Void Invoice in the actions menu, and the order status set to Lost](../assets/pa-void-invoice.png)
+
 The invoice is voided in Sawfish, marked **VOIDED**, and removed from the customer's balance. Nothing more is needed on the accounting side.
+
+The same screen is where you close the order — set the status to **Lost** (top right) and Save changes, as below.
 
 ## Close the order
 

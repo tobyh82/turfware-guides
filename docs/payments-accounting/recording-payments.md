@@ -21,9 +21,15 @@ Each method is enabled per account (through our merchant partners), so which one
 
 ## Manual (off-rails) payments
 
-Use Received Payment (manual) when a customer pays outside Sawfish — for example cash or an EFTPOS / merchant terminal. It marks the Turfware order as paid so the order can keep moving through the workflow.
+Use Received Payment (manual) when a customer pays outside Sawfish — for example cash or an EFTPOS / merchant terminal. It marks the Turfware order as paid so the order can keep moving through the workflow. You'll find it under Payment Status on the order.
 
-When you record a manual payment, complete the popup with the payment details (method, date, reference and any notes). Turfware then:
+![The Payment Status section on an order, with the Received Payment button](../assets/pa-received-payment.png)
+
+When you record a manual payment, complete the popup with the payment details — method, date, reference and any notes — then click Submit.
+
+![The Payment Status Manual Change popup — payment method, date, reference and notes](../assets/pa-manual-payment-modal.png)
+
+Turfware then:
 
 - marks the Sawfish invoice as paid — which stops Sawfish's automatic payment-reminder emails to the customer,
 - emails the record to your accounts email (set in [Company Information](../web-app/turfware-setup/farm-setup/company-information.md)), and
