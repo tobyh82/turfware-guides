@@ -19,6 +19,8 @@ Customers can pay their digital invoice through Sawfish by:
 
 Each method is enabled per account (through our merchant partners), so which ones your customers see depends on your Sawfish account setup. A payment taken this way flows automatically: Sawfish marks the invoice paid, Turfware shows the order paid within ~1 minute, and Sawfish posts the payment to your accounting system on the next sync.
 
+For how these options appear to your customer on the digital invoice, see [How customers can pay](https://help.sawfish.com.au/getting-paid/) in the Sawfish help centre.
+
 ## Manual (off-rails) payments
 
 Use Received Payment (manual) when a customer pays outside Sawfish — for example cash or an EFTPOS / merchant terminal. It marks the Turfware order as paid so the order can keep moving through the workflow. You'll find it under Payment Status on the order.

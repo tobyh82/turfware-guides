@@ -17,7 +17,7 @@ This interval is fixed — there's no staff button to force this transaction syn
 !!! tip "The Sync now button"
     Sawfish has a Sync now button — Settings → Invoice Settings — that pulls your latest account assets (chart of accounts, items and tax codes) from your accounting system on demand, up to 10 times a day (it shows the attempts remaining). Use it after you add a new account code or item in MYOB/Xero so it's available in Sawfish straight away. It refreshes the accounting structure — it doesn't re-pull invoices or payments, which stay on the timed sync above.
 
-    *[Screenshot: Sawfish → Invoice Settings → Sync now — save as pa-sawfish-sync-now.png]*
+    For the full detail, see [How invoice sync works](https://help.sawfish.com.au/invoicing/) in the Sawfish help centre.
 
 ## What updates what
 
