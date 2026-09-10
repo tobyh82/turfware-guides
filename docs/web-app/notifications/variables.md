@@ -6,7 +6,9 @@ title: "Variables"
 
 A variable is a placeholder you drop into an email or SMS — like `[FIRST_NAME]` or `[ORDER_NUMBER]` — that Turfware swaps for the real value when the message sends. In the body (or subject), click the **Variables** dropdown and choose one to insert it.
 
-Each template offers the variables that make sense for it, so the list you see changes from one notification to the next. Insert a variable exactly as shown, including the square brackets.
+Each template offers the variables that make sense for it, so the list you see changes from one notification to the next. The Variables dropdown always shows the fields available for the template you're editing — it's the best source of truth, and clicking one inserts it for you.
+
+![The Variables dropdown in a notification — customer name split into First / Last / Business, alongside payment and order-detail fields](../../assets/om-notification-variables.png)
 
 ## Customer name
 
@@ -17,6 +19,8 @@ Greet customers naturally and show the business name where you need it:
 - `[BUSINESS_NAME]` — the business name on its own.
 - `[CONTACT_NAME]` — first and last name together (a person, never the business).
 - `[CUSTOMER_NAME]` — the customer's display name (kept for existing templates).
+- `[CUSTOMER_EMAIL]` — the customer's email address.
+- `[CUSTOMER_PHONE]` — the customer's phone number.
 
 ## Order & delivery
 
@@ -36,6 +40,7 @@ Greet customers naturally and show the business name where you need it:
 ## Money & payment
 
 - `[ORDER_TOTAL]` — the order total (inc GST).
+- `[GRAND_TOTAL]` — the grand total for the whole order (inc GST).
 - `[BALANCE_OWING]` — how much is still owed.
 - `[AMOUNT_PAID]` / `[AMOUNT_DUE]` — amounts paid and due.
 - `[INVOICE_NUMBER]` — the invoice number.

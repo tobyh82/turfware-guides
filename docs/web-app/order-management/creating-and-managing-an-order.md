@@ -69,6 +69,8 @@ What's available here is set by Company Settings → Order Settings — only the
 === "Product"
     Select the product, the stock location (if the product is linked to Shopify for inventory management) and the units. The rest pre-fills from the product's setup.
 
+    Products and services sold by measure now accept **decimal units — up to two places** (e.g. 2.5), so you can order part-loads or fractional quantities; whole-unit items stay whole numbers, and every total recalculates to the cent.
+
     ![Products — product, stock location, units and price](../../assets/order-products.png)
 
 === "Installation"

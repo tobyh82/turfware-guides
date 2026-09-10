@@ -47,6 +47,7 @@ nav:
   - Home: index.md
   - "Web App":
     - web-app/index.md
+    - "Global Search": web-app/global-search.md
     - "Dashboard":
       - web-app/dashboard/index.md
       - "Planner": web-app/dashboard/planner.md
