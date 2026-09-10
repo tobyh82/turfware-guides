@@ -6,6 +6,9 @@ title: "Sawfish Configuration"
 
 Turfware connects to Sawfish — your accounting and payments system — so invoices, payments and clients stay in sync. This page is where that connection is set up. *(It replaces the old Xero integration.)*
 
+!!! note "Set up your Sawfish account first"
+    This page only links Turfware to Sawfish — it assumes your Sawfish account is already set up. For invoices, payments and syncing to work correctly, first complete your Sawfish setup: your organisation details, your accounting connection (Xero or MYOB), your payout account, and your invoice reminders. Work through the **[Sawfish setup checklist](https://help.sawfish.com.au/getting-started/setup-checklist/)**, or start from [Getting started](https://help.sawfish.com.au/) in the Sawfish help centre. Once Sawfish is set up, come back here to connect it to Turfware.
+
 ## Where to find it
 
 Left-hand navigation → System Settings → Sawfish Configuration.
