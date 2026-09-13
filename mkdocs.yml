@@ -50,7 +50,12 @@ nav:
     - "Getting around":
       - "Global Search": web-app/global-search.md
       - "How to use lists": web-app/how-to-use-lists/index.md
-      - "Delete": web-app/delete/index.md
+      - "Dashboard":
+        - web-app/dashboard/index.md
+        - "Planner": web-app/dashboard/planner.md
+        - "Cut Sheet": web-app/dashboard/cut-sheet.md
+        - "Forecast": web-app/dashboard/forecast.md
+        - "Sales": web-app/dashboard/sales.md
     - "Turfware Setup":
       - "Farm Settings":
         - "Turf": web-app/turfware-setup/farm-settings/turf-varieties.md
@@ -73,12 +78,6 @@ nav:
       - "Create a user": web-app/users/create-a-user.md
       - "User Roles": web-app/users/user-roles.md
       - "How access works": web-app/users/how-to-give-access-to-each-user-group.md
-    - "Dashboard":
-      - web-app/dashboard/index.md
-      - "Planner": web-app/dashboard/planner.md
-      - "Cut Sheet": web-app/dashboard/cut-sheet.md
-      - "Forecast": web-app/dashboard/forecast.md
-      - "Sales": web-app/dashboard/sales.md
     - "Customers":
       - web-app/customers/index.md
       - "Adding a customer": web-app/customers/adding-a-customer.md
@@ -117,6 +116,7 @@ nav:
       - "Editing a notification": web-app/notifications/editing-a-notification.md
       - "Variables": web-app/notifications/variables.md
     - "Reports": web-app/report/index.md
+    - "Delete": web-app/delete/index.md
   - "Delivery App":
     - delivery-app/index.md
     - "Using the Delivery App": delivery-app/using-the-delivery-app.md
