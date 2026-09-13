@@ -49,7 +49,9 @@ You complete an order by moving it along its status: **Pending → In-Progress �
 Work the order up to **Harvested**:
 
 - **Pending** → **In-Progress** as you start cutting.
-- **Harvested** once the turf is cut. When you mark an item Harvested, the app automatically stamps it with a **harvest tag** for the day, so each cut can be traced back.
+- **Harvested** once the turf is cut. When you mark an item Harvested, the app automatically stamps it with a **harvest tag** for the day (shown on the truck icon), so each cut can be traced back.
+
+![An order marked Harvested — the truck icon shows the harvest tag](../assets/ha-harvested.png)
 
 The dashboard's **Meters Harvested** bar moves up as orders are marked Harvested.
 
@@ -58,7 +60,9 @@ The dashboard's **Meters Harvested** bar moves up as orders are marked Harvested
 Once the turf is cut, the forklift operator takes it through to dispatch:
 
 - **On Loading Bay** when the pallets are moved to the bay.
-- **Ready To Dispatch (RTD)** once they're staged and ready to go out. The order row highlights to show it's RTD.
+- **Ready To Dispatch (RTD)** once they're staged and ready to go out. The order row turns green to show it's RTD.
+
+![An order set to Ready To Dispatch — the row highlights green](../assets/ha-rtd.png)
 
 The dashboard's **Meters RTD** bar moves up as orders are marked Ready To Dispatch.
 
