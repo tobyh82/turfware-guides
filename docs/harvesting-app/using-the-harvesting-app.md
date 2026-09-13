@@ -34,11 +34,15 @@ The **Daily Orders** dashboard shows the day's cutting at a glance, broken down 
 
 Tap the green **View Cut Sheet** button at the top right to open the day's cut sheet — every order to be cut, with its truck, customer, farm, variety and SQM. (This also clears any variety filter you set on the dashboard.)
 
+![The cut sheet — every order to be cut, by truck, customer, farm and variety](../assets/ha-cut-sheet.png)
+
 Tap an order to expand it. The expanded row shows a **status bar** across the bottom and an **Edit** button.
 
 ## Completing an order
 
 You complete an order by moving it along its status: **Pending → In-Progress → Harvested → On Loading Bay → Ready To Dispatch**. Expand the order and tap the status you want to set. Each role can only set the statuses for its part of the job — tapping one that isn't yours shows a *not authorized* message.
+
+![The status bar on an expanded order — tap a status to move the order along](../assets/ha-status.png)
 
 ### As a harvester
 
@@ -60,7 +64,9 @@ The dashboard's **Meters RTD** bar moves up as orders are marked Ready To Dispat
 
 ## Editing an order
 
-Expand an order and tap **Edit** to correct its details. A form appears where you can update:
+Expand an order and tap **Edit** to correct its details. The **Update Order** form appears where you can update:
+
+![The Update Order form — Farm, Pallet Type, SQM, Pallets and more](../assets/ha-edit-order.png){ width="420" }
 
 - **Farm** — tap **Farm** and select the farm the turf is cut from.
 - **Pallet Type** — Wood or Steel.
