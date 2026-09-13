@@ -41,7 +41,7 @@ How the order is fulfilled. Choosing a type reveals the matching section.
 
     Selecting Pickup reveals the Pickup section — complete Contact Name, Contact Number, Pick Up Location, Pickup Time and Pickup Date. This generates the pickup on the Pickup list (Logistics → Pickup).
 
-    ![Pickup Details — contact, pick-up location, time and date](../../assets/order-pickup.png)
+    ![Pickup Details — contact, pickup location, time and date](../../assets/order-pickup.png)
 
 === "Delivery"
     A Delivery date is required — the date the order is to be delivered. The Delivery section appears:
@@ -62,7 +62,7 @@ What's available here is set by Company Settings → Order Settings — only the
 
     Opens the Turf section, where you select the turf varieties for the order. Turfware handles multiple varieties per order — the workflow splits for the harvesters but the order always keeps one unique order number. For each variety, select the farm it's harvested from and the SQM; the rest pre-fills from your Turf settings and the customer's segment. Select the harvesting pallet type.
 
-    Cutsheet notes — notes for the harvest team, e.g. *"display home order."*
+    Cut sheet notes — notes for the harvest team, e.g. *"display home order."*
 
     ![Turf lines and Harvesting — variety, farm, size, pallets, pallet type and cutsheet notes](../../assets/order-turf-harvesting.png)
 

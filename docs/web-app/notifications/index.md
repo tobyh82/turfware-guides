@@ -16,6 +16,10 @@ Every message the system can send, grouped by area — Orders, Quotes, Operation
 
 ![The Notification Templates list, grouped by area](../../assets/ss-notifications-list.png)
 
+!!! note "Templates can be edited, not created"
+    You can edit any existing template — its name, subject, body and status — but the set of templates is fixed. New templates can't be created and existing ones can't be deleted; set a template to Inactive to stop it sending instead.
+
+
 ## What each notification is, and who it goes to
 
 ### Orders
@@ -24,7 +28,7 @@ Every message the system can send, grouped by area — Orders, Quotes, Operation
 |---|---|---|---|
 | **Order Confirmation** | Email + SMS | Customer (email); order site contact (SMS) | A delivery is scheduled in truck routing — tells the customer their estimated delivery window |
 | **Order Confirmation – delivery** | Email | Customer | An admin clicks Send confirmation on a delivery order |
-| **Order Confirmation – pick up** | Email | Customer | An admin clicks Send confirmation on a pick-up order |
+| **Order Confirmation – pick up** | Email | Customer | An admin clicks Send confirmation on a pickup order |
 | **Order delivery ETA** | Email + SMS | Customer | The order is next to be delivered (driver on the way) |
 | **Order Delivered Email – request feedback** | Email | Customer | The order is marked delivered — invites a review / feedback |
 | **On Hold Orders** | Email | Customer | An order is placed on hold |

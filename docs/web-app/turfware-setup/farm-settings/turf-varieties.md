@@ -4,7 +4,7 @@ title: "Turf Varieties"
 
 # Turf Varieties
 
-A turf variety is a grass you sell. Each one holds its names, pricing, pallet and weight figures, accounting links and volume pricing — so that once it's set up, it flows correctly through orders, cutsheets, delivery and invoicing.
+A turf variety is a grass you sell. Each one holds its names, pricing, pallet and weight figures, accounting links and volume pricing — so that once it's set up, it flows correctly through orders, cut sheets, delivery and invoicing.
 
 ![Create / Edit Grass form](../../../assets/turf-create-form.svg)
 
@@ -63,7 +63,7 @@ Volume pricing lets you offer discounted rates by order size, per customer segme
 
 ## Save
 
-Click Save. If the status is Published, the variety is immediately available on new orders, apps, cutsheets and invoicing.
+Click Save. If the status is Published, the variety is immediately available on new orders, apps, cut sheets and invoicing.
 
 ## Archiving
 

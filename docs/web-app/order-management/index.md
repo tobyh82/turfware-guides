@@ -19,7 +19,7 @@ An order moves through these statuses (each is its own list in the menu):
 3. [Shopify Pending](shopify-pending.md) — orders that came in from your Shopify store, waiting to be actioned.
 4. [Orders Pending](orders-pending.md) — created but not yet confirmed; sits outside the operational workflow.
 5. [Orders Confirmed](orders-confirmed.md) — confirmed and pushed into harvest, delivery and laying.
-6. [On Hold](on-hold.md) — paused and pulled out of cutsheets and delivery runs.
+6. [On Hold](on-hold.md) — paused and pulled out of cut sheets and delivery runs.
 7. [Lost](lost.md) — cancelled or abandoned; closed and kept for reporting.
 
 To build an order from scratch, see [Creating & Managing an Order](creating-and-managing-an-order.md).

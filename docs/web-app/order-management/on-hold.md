@@ -4,7 +4,7 @@ title: "On Hold"
 
 # On Hold
 
-An order placed On Hold is paused and set aside — it's removed from cutsheets and delivery runs so it won't be harvested or scheduled until you're ready. All its information is saved; it just stops moving.
+An order placed On Hold is paused and set aside — it's removed from cut sheets and delivery runs so it won't be harvested or scheduled until you're ready. All its information is saved; it just stops moving.
 
 ## Where to find it
 
@@ -19,4 +19,4 @@ Typically for rain delays, site delays, or missing information — the order may
 Move it back to an active status and it returns to [Orders Pending](orders-pending.md) by default, so you can update the harvest and delivery dates before it re-enters the workflow.
 
 !!! note "The power of hold"
-    Because on-hold orders drop out of cutsheets and delivery runs, they can't be accidentally processed or scheduled — keeping active operations clean.
+    Because on-hold orders drop out of cut sheets and delivery runs, they can't be accidentally processed or scheduled — keeping active operations clean.

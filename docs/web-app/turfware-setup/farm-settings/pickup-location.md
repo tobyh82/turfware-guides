@@ -20,4 +20,4 @@ Left-hand navigation → Farm Settings → Pick Up Locations. Click Create to ad
 
 ## Archiving
 
-Retire a pick-up location you no longer use by Archiving it — it's hidden from the list and no longer available to select on new orders, but kept (not deleted). Flip Show Archived on the list to see archived records, and Unarchive to bring one back.
+Retire a pickup location you no longer use by Archiving it — it's hidden from the list and no longer available to select on new orders, but kept (not deleted). Flip Show Archived on the list to see archived records, and Unarchive to bring one back.

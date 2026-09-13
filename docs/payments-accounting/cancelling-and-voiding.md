@@ -25,4 +25,4 @@ The same screen is where you close the order — set the status to **Lost** (top
 Voiding the invoice does not close the order. To take it out of your workflow, set the order's status to **Lost** — see [Lost](../web-app/order-management/lost.md). It's kept as a record of the job that didn't convert.
 
 !!! warning "Deleting is not the same as voiding"
-    Deleting an order does **not** void its invoice — the invoice stays live in Sawfish and the customer can still be chased for it. If an order has been invoiced, Void the invoice first (above), then move the order to Lost. See the [Delete section](../web-app/delete/overview.md).
+    Deleting an order does **not** void its invoice — the invoice stays live in Sawfish and the customer can still be chased for it. If an order has been invoiced, Void the invoice first (above), then move the order to Lost. See the [Delete section](../web-app/delete/index.md).

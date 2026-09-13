@@ -94,7 +94,7 @@ Plain-language definitions of the terms used across Turfware — the web app, th
 
 **Pick list** — The driver's list of what to collect for a run, grouped by dispatch location.
 
-**Pickup / pick-up location** — A collection point where a customer or carrier picks turf up instead of having it delivered.
+**Pickup / pickup location** — A collection point where a customer or carrier picks turf up instead of having it delivered.
 
 **Planner** — A quick-view dashboard for scheduling the day's work.
 

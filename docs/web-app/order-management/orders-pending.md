@@ -4,7 +4,7 @@ title: "Orders Pending"
 
 # Orders Pending
 
-Orders Pending are orders that have been created but not yet confirmed. They're captured and saved, but they sit outside the operational workflow — they do not appear in preparation, harvesting/cutsheets, laying or delivery until they're confirmed.
+Orders Pending are orders that have been created but not yet confirmed. They're captured and saved, but they sit outside the operational workflow — they do not appear in preparation, harvesting/cut sheets, laying or delivery until they're confirmed.
 
 ## Where to find it
 

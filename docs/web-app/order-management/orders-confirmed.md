@@ -18,7 +18,7 @@ The list shows each confirmed order at a glance — order number, delivery date,
 
 Once an order is confirmed, the operational workflow starts and the order becomes visible across all the connected apps:
 
-- the Admin web app (planner, cutsheets, delivery runs),
+- the Admin web app (planner, cut sheets, delivery runs),
 - the Cutting / Harvest app, and
 - the Delivery app.
 

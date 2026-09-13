@@ -72,8 +72,6 @@ nav:
         - "Company Information": web-app/turfware-setup/farm-setup/company-information.md
         - "Sawfish Configuration": web-app/turfware-setup/farm-setup/sawfish-configuration.md
         - "Payment Methods": web-app/turfware-setup/farm-setup/payment-methods.md
-      - "Communications":
-        - "Communications": web-app/turfware-setup/communications/communications.md
     - "Customers":
       - web-app/customers/index.md
       - "Adding a customer": web-app/customers/adding-a-customer.md
@@ -98,16 +96,8 @@ nav:
       - "Changing a paid order": payments-accounting/changing-a-paid-order.md
       - "Refunds & credits": payments-accounting/refunds-and-credits.md
       - "Cancelling & voiding an invoice": payments-accounting/cancelling-and-voiding.md
-    - "Delete":
-      - "Overview": web-app/delete/overview.md
-      - "Deleting an Item": web-app/delete/deleting-an-item.md
-      - "Accessing the Delete Function": web-app/delete/accessing-the-delete-function.md
-      - "Restoring Deleted Items": web-app/delete/restoring-deleted-items.md
-    - "How to use lists":
-      - "Concept of list, best practices": web-app/how-to-use-lists/concept-of-list-best-practices.md
-      - "How to use date functions": web-app/how-to-use-lists/how-to-use-date-functions.md
-      - "How to use filters": web-app/how-to-use-lists/how-to-use-filters.md
-      - "How to use search": web-app/how-to-use-lists/how-to-use-search.md
+    - "Delete": web-app/delete/index.md
+    - "How to use lists": web-app/how-to-use-lists/index.md
     - "Users":
       - "Create a user": web-app/users/create-a-user.md
       - "User Roles": web-app/users/user-roles.md
@@ -117,15 +107,10 @@ nav:
       - "Installation": web-app/operations/installation.md
       - "Preparation": web-app/operations/preparation.md
     - "Logistics":
-      - "Delivery":
-        - "Export into CSV": web-app/logistics/delivery/export-into-csv.md
-        - "Print Docket": web-app/logistics/delivery/print-docket.md
-      - "Pickup":
-        - "How to generate reports and mark off pickup collected": web-app/logistics/pickup/how-to-generate-reports-and-mark-off-pickup-collected.md
-        - "What is the impact when pickup is collected": web-app/logistics/pickup/what-is-the-impact-when-pickup-is-collected.md
-      - "Scheduling":
-        - "How to use the routing Feature": web-app/logistics/scheduling/how-to-use-the-routing-feature.md
-        - "How to use the scheduler": web-app/logistics/scheduling/how-to-use-the-scheduler.md
+      - "Delivery": web-app/logistics/delivery.md
+      - "Pickup": web-app/logistics/pickup.md
+      - "How to use the routing feature": web-app/logistics/scheduling/how-to-use-the-routing-feature.md
+      - "How to use the scheduler": web-app/logistics/scheduling/how-to-use-the-scheduler.md
     - "Reports": web-app/report/index.md
     - "Notifications":
       - web-app/notifications/index.md
