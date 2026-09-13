@@ -4,6 +4,9 @@ title: "Login"
 
 # Login
 
-- Enter your mobile number. The OTP will be sent to you via SMS.
+When you open the Delivery App, you land on the login screen.
 
-- Enter the OTP code you received to log in to the app.
+![The Delivery App login screen](../../../assets/da-login.png){ width="300" }
+
+- Enter your mobile number. A one-time code (OTP) is sent to you by SMS.
+- Enter the 6-digit code to log in to the app.
