@@ -47,13 +47,10 @@ nav:
   - Home: index.md
   - "Web App":
     - web-app/index.md
-    - "Global Search": web-app/global-search.md
-    - "Dashboard":
-      - web-app/dashboard/index.md
-      - "Planner": web-app/dashboard/planner.md
-      - "Cut Sheet": web-app/dashboard/cut-sheet.md
-      - "Forecast": web-app/dashboard/forecast.md
-      - "Sales": web-app/dashboard/sales.md
+    - "Getting around":
+      - "Global Search": web-app/global-search.md
+      - "How to use lists": web-app/how-to-use-lists/index.md
+      - "Delete": web-app/delete/index.md
     - "Turfware Setup":
       - "Farm Settings":
         - "Turf": web-app/turfware-setup/farm-settings/turf-varieties.md
@@ -72,6 +69,16 @@ nav:
         - "Company Information": web-app/turfware-setup/farm-setup/company-information.md
         - "Sawfish Configuration": web-app/turfware-setup/farm-setup/sawfish-configuration.md
         - "Payment Methods": web-app/turfware-setup/farm-setup/payment-methods.md
+    - "Users":
+      - "Create a user": web-app/users/create-a-user.md
+      - "User Roles": web-app/users/user-roles.md
+      - "How access works": web-app/users/how-to-give-access-to-each-user-group.md
+    - "Dashboard":
+      - web-app/dashboard/index.md
+      - "Planner": web-app/dashboard/planner.md
+      - "Cut Sheet": web-app/dashboard/cut-sheet.md
+      - "Forecast": web-app/dashboard/forecast.md
+      - "Sales": web-app/dashboard/sales.md
     - "Customers":
       - web-app/customers/index.md
       - "Adding a customer": web-app/customers/adding-a-customer.md
@@ -89,19 +96,6 @@ nav:
       - "Orders Confirmed": web-app/order-management/orders-confirmed.md
       - "On Hold": web-app/order-management/on-hold.md
       - "Lost": web-app/order-management/lost.md
-    - "Payments & Accounting":
-      - payments-accounting/index.md
-      - "How the sync works": payments-accounting/how-the-sync-works.md
-      - "Recording payments": payments-accounting/recording-payments.md
-      - "Changing a paid order": payments-accounting/changing-a-paid-order.md
-      - "Refunds & credits": payments-accounting/refunds-and-credits.md
-      - "Cancelling & voiding an invoice": payments-accounting/cancelling-and-voiding.md
-    - "Delete": web-app/delete/index.md
-    - "How to use lists": web-app/how-to-use-lists/index.md
-    - "Users":
-      - "Create a user": web-app/users/create-a-user.md
-      - "User Roles": web-app/users/user-roles.md
-      - "How access works": web-app/users/how-to-give-access-to-each-user-group.md
     - "Operations":
       - "Cutsheets": web-app/operations/cutsheets.md
       - "Installation": web-app/operations/installation.md
@@ -111,11 +105,18 @@ nav:
       - "Pickup": web-app/logistics/pickup.md
       - "How to use the routing feature": web-app/logistics/scheduling/how-to-use-the-routing-feature.md
       - "How to use the scheduler": web-app/logistics/scheduling/how-to-use-the-scheduler.md
-    - "Reports": web-app/report/index.md
+    - "Payments & Accounting":
+      - payments-accounting/index.md
+      - "How the sync works": payments-accounting/how-the-sync-works.md
+      - "Recording payments": payments-accounting/recording-payments.md
+      - "Changing a paid order": payments-accounting/changing-a-paid-order.md
+      - "Refunds & credits": payments-accounting/refunds-and-credits.md
+      - "Cancelling & voiding an invoice": payments-accounting/cancelling-and-voiding.md
     - "Notifications":
       - web-app/notifications/index.md
       - "Editing a notification": web-app/notifications/editing-a-notification.md
       - "Variables": web-app/notifications/variables.md
+    - "Reports": web-app/report/index.md
   - "Delivery App":
     - delivery-app/index.md
     - "Using the Delivery App": delivery-app/using-the-delivery-app.md
