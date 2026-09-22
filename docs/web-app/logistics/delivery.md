@@ -10,7 +10,9 @@ The Delivery screen (Logistics → Delivery) lists your deliveries for a date ra
 
 ## Export to CSV
 
-To export the current list, click the green Export CSV button at the top. The filtered table downloads to your machine as a CSV file.
+To export the current list, click the green Export CSV button at the top. The filtered table downloads to your machine as a CSV file — this is the freight booking file you send to your carrier.
+
+The **sender contact** on the file — the email and phone your carrier will use to reach you — comes from your own Company Details (Turfware Setup → [Company Information](../turfware-setup/farm-setup/company-information.md)), so check those are your business's details, not a placeholder.
 
 ## Print dockets
 

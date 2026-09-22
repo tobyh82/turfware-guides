@@ -13,7 +13,7 @@ Left-hand navigation → System Settings → Company Information.
 ## Company Details
 
 - **Company Name and Display Name** — your legal name and the name shown to customers.
-- ABN, Main company email, and Office / Main Phone Number.
+- ABN, Main company email, and Office / Main Phone Number. The main email and phone are also used as the **sender contact** on the freight booking CSV exported from Logistics → [Delivery](../../logistics/delivery.md), so keep them current.
 - **Business Address and Postal Address** — select from the dropdown so they geocode; tick Same as business address to reuse the one address.
 - **Deposit Payment Sawfish Account Code** — the account that deposits post to when you split an invoice into a deposit + final (see [Quotes](../../order-management/quotes.md)).
 
