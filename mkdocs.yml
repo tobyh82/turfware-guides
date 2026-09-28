@@ -107,6 +107,7 @@ nav:
     - "Payments & Accounting":
       - payments-accounting/index.md
       - "How the sync works": payments-accounting/how-the-sync-works.md
+      - "What goes on the invoice": payments-accounting/what-goes-on-the-invoice.md
       - "Recording payments": payments-accounting/recording-payments.md
       - "Changing a paid order": payments-accounting/changing-a-paid-order.md
       - "Refunds & credits": payments-accounting/refunds-and-credits.md

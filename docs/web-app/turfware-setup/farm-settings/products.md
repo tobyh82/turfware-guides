@@ -14,9 +14,9 @@ Go to Farm Settings → Products. Click Create Product to add a new one, or clic
 
 ## 1. Naming
 
-- **Short Name** — the name shown on orders.
+- **Short Name** — the name shown on orders, quotes, the docket, the order PDF and the customer's invoice.
 - **Abbreviation** — the shorthand shown in the mobile apps.
-- **Full Name** — used on invoice line items; what the customer sees on their invoice.
+- **Full Name** — stored on the record, but not currently shown on the invoice or anywhere else. The **Short Name** is what prints on the invoice, the order PDF, the docket and quotes — so make it customer-ready. See [What goes on the invoice](../../../payments-accounting/what-goes-on-the-invoice.md).
 
 ## 2. Description
 

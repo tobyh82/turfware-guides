@@ -14,9 +14,11 @@ Go to Farm Settings → Services. Click Create Service to add a new one, or clic
 
 ## 1. Naming
 
-- **Short Name** — the name shown on orders.
-- **Abbreviation** — the shorthand shown in the mobile apps.
-- **Full Name** — used on invoice line items; what the customer sees on their invoice.
+- **Short Name** — the name shown on orders, quotes, the docket, the order PDF and the customer's invoice.
+- **Full Name** — stored on the record, but not currently shown on the invoice or anywhere else. The Short Name is what the customer sees, so make it customer-ready. See [What goes on the invoice](../../../payments-accounting/what-goes-on-the-invoice.md).
+
+!!! note "Freight, laying and pickup are not services here"
+    The *Freight Cost*, *Laying Cost* and *Pickup Cost* lines on an invoice come from the order's freight, laying and pickup settings, not from a service record. Services set up here are the extra items you sell — call-outs, add-ons — and they invoice as their own line, by Short Name.
 
 ## 2. Description
 

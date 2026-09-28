@@ -18,9 +18,11 @@ Go to Farm Settings → Turf. Click Create Grass to add a new variety, or click 
 
 A variety has three names, each used in a different place — so it reads clearly for staff, for drivers, and for customers:
 
-- **Short Name** — the name shown on orders. Keep it short (e.g. *Sir Walter*).
-- **Abbreviation** — the shorthand shown in the mobile apps (Delivery & Cutting), where space is tight.
-- **Full Name** — used on invoice line items; what the customer sees on their invoice (e.g. *Sir Walter DNA Certified Buffalo Grass*).
+- **Short Name** — what staff see: order screens, quotes, the delivery docket and coversheet, the order PDF and the Harvesting App cut sheet. Keep it short (e.g. *Sir Walter*).
+- **Abbreviation** — the shorthand on the web Cut Sheet dashboard, where space is tight.
+- **Full Name** — what the customer sees: the invoice line, the order confirmation email and their order view (e.g. *Sir Walter DNA Certified Buffalo Grass*). If it's blank, the Short Name is used on the invoice instead.
+
+For the full picture of which field lands where — on the invoice and everywhere else — see [What goes on the invoice](../../../payments-accounting/what-goes-on-the-invoice.md).
 
 ## 2. Description
 
