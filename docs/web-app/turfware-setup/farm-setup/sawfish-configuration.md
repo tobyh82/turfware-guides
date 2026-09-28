@@ -32,7 +32,7 @@ Once Turfware is connected, **Sawfish sends your invoices** — not Xero and not
 
 ### The sending rule
 
-Sawfish checks every hour and emails any invoice that meets all four of these:
+Sawfish emails an invoice as soon as it arrives from Turfware or Xero, and sweeps every hour for any it missed, whenever all four of these are true:
 
 1. It is **approved** (status *Pending* in Sawfish — not a draft).
 2. It has **not already been emailed**.
@@ -64,16 +64,16 @@ Sawfish only sends **approved** invoices. A draft is never sent — from Turfwar
 To stop Sawfish contacting a particular customer:
 
 1. In Sawfish, open **Clients** and select the customer.
-2. On their **Details** tab, find the **Communications** section and click Edit.
-3. Switch off **Email notifications** and **SMS notifications**, and save.
+2. Open their **Client Details** tab and scroll to **Communication Settings**.
+3. Switch off **Email notifications** and **SMS notifications**.
 
 While these are off, Sawfish's automatic sending and its reminders skip that customer. Invoices still sync and payments still reconcile — only the outbound messages stop.
 
 !!! note "Two things to know about the switch"
-    - **It stays off until you turn it back on** — it isn't a one-off skip. To resume, go back to the customer's Communications section and switch it on.
+    - **It stays off until you turn it back on** — it isn't a one-off skip. To resume, go back to the customer's Communication Settings and switch it on.
     - **An explicit Send turns it back on.** If anyone clicks Send on an invoice — in Sawfish, or Send / Approve & send in Turfware, or the delivery-date automation runs — Sawfish switches that customer's Email notifications on again and sends. The switch protects against the automatic sender and reminders, not against a deliberate send.
 
-If the toggles are greyed out, email or SMS is switched off for your whole business under Sawfish's **Settings → Invoice Settings**.
+If the toggles are greyed out, email or SMS is switched off for your whole business under Sawfish's **Settings → Invoice Settings**. (The per-event switches under **Settings → Invoice Notifications** — *Invoice approved and sent*, *Invoice paid*, *Statement* — control which messages go, not whether a customer is contacted at all.)
 
 ### Quick reference
 
@@ -82,7 +82,7 @@ If the toggles are greyed out, email or SMS is switched off for your whole busin
 | Send an invoice to a customer | Approve it in Turfware or Xero. Sawfish sends it within the hour. |
 | Prepare an invoice without sending it | Leave it as a draft — and make sure Sending Invoice Automation won't pick the order up on its delivery date. |
 | Hold a customer's invoices until later | Leave them as drafts, or switch off their Email and SMS notifications in Sawfish. |
-| Stop all Sawfish messages to one customer | Clients → the customer → Details → Communications → switch off Email and SMS notifications. |
+| Stop all Sawfish messages to one customer | Clients → the customer → Client Details → Communication Settings → switch off Email and SMS notifications. |
 | Resume messages to that customer | Same place — switch them back on. |
 | Fix an "Action Required: Unable to Send Invoice" email | The customer's Sawfish record has no email address. Add it, then send the invoice again — or, if it shouldn't go, switch off their notifications. |
 
@@ -92,7 +92,7 @@ If the toggles are greyed out, email or SMS is switched off for your whole busin
 Because it was approved in Xero and hadn't been emailed — Sawfish sends every approved, unsent invoice it can see, wherever it was created. If it was meant to be a draft, check its status in Xero: a Xero draft would have stayed a draft in Sawfish.
 
 **I got an "Action Required: Unable to Send Invoice" email. What happened?**
-Sawfish tried to send an approved invoice but the customer's record had no email address. Add the address in Sawfish and send it again. If you didn't intend it to go, switch off the customer's notifications instead.
+Sawfish tried to send an approved invoice but the customer's record had no email address — typically a customer created in Xero without one. Add the address under the customer's Client Details (or add a recipient on the invoice) and send it again. If you didn't intend it to go, switch off the customer's notifications instead. While you're there, check their payment terms: a customer with no terms set gets invoices that are due the day they're issued, so reminders start immediately.
 
 **Will Sawfish send a draft I generate in Turfware for review?**
 No — unless Sending Invoice Automation is on and the order is confirmed with a delivery date, in which case the automation sends it on that date regardless.
