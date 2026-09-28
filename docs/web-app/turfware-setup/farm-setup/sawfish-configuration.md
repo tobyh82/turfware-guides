@@ -51,7 +51,7 @@ Sending from Sawfish is what makes the rest of the flow work: the invoice carrie
 Sawfish only sends **approved** invoices. A draft is never sent — from Turfware or from Xero (a Xero draft comes into Sawfish as a draft). To prepare an invoice for review, or hold one back — say a project the customer wants invoiced once at the end — leave it as a **draft**.
 
 !!! warning "Reminders don't check whether the invoice was emailed"
-    Once an invoice is approved, its due-date reminders and overdue notices go out on schedule whether or not the original invoice email was ever sent. So an approved invoice is always "live" to the customer — if you don't want them contacted, it needs to be a draft, or their notifications need to be off (below).
+    Once an invoice is approved, its overdue reminders go out on schedule whether or not the original invoice email was ever sent — so an approved invoice is always "live" to the customer. If you don't want them contacted, it needs to be a draft, or their notifications need to be off (below). The reminder schedule itself (for example *Invoice Overdue by 1 day / 10 days / 20 days*) is under Sawfish's **Settings → Invoice Notifications → Custom Notifications**, and the *Invoice approved and sent* message there goes by SMS as well as email if both are switched on.
 
 ### How approval happens from Turfware
 
