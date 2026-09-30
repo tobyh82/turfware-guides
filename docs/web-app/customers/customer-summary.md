@@ -32,6 +32,8 @@ Under Notes, click the green Add Note button. Notes are for customer call notes 
 
 ## Open the customer in Sawfish
 
+An ⓘ next to the Sawfish Client link shows the customer's sync state: hover it to see when the details last synced with Sawfish, and any **sync error** or **sync conflict** with the time it happened — for example an email that Sawfish sent but which was already in use by another Turfware customer. Customer details flow Turfware → Sawfish → your accounting system; see [How the sync works](../../payments-accounting/how-the-sync-works.md#customer-details-sawfish-is-the-hub).
+
 The Sawfish Client field links straight through (the ↗ icon) to the customer in the Sawfish payments system, where you'll find deeper payment and account information.
 
 ## Archiving a customer

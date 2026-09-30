@@ -26,6 +26,8 @@ If it finds a possible match, the Confirm Sawfish Link window appears, listing t
 
 - If one of them is this customer, click Link this Sawfish client on that row — the Turfware customer is linked to the existing Sawfish client, so invoices sync to the right account.
 - If it's genuinely a new customer, click Create new Sawfish client.
+
+Sawfish clients already linked to another Turfware customer aren't offered — one Sawfish client links to one Turfware customer. And if Sawfish rejects the details you've entered (typically an email that already belongs to another customer), the save doesn't go through and the message tells you which customer is using them; fix the details, or link to that customer instead.
 - Cancel backs out without saving.
 
 ![Confirm Sawfish Link — link an existing client or create a new one](../../assets/customer-sawfish-link.png)

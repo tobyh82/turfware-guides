@@ -16,7 +16,7 @@ Voiding an invoice from Turfware also cancels it in your accounting system (Sawf
 
 ![The Invoicing tab — Void Invoice in the actions menu, and the order status set to Lost](../assets/pa-void-invoice.png)
 
-The invoice is voided in Sawfish, marked **VOIDED**, and removed from the customer's balance. Nothing more is needed on the accounting side.
+The invoice is voided in Sawfish, marked **VOIDED**, and removed from the customer's balance. Nothing more is needed on the accounting side. A voided invoice can't be paid through any Sawfish channel — its payment link shows a cancelled notice instead — and an invoice voided in your accounting system shows as cancelled in Sawfish the same way.
 
 Two rules apply to voiding:
 

@@ -105,3 +105,5 @@ No, it stays off — but note that a deliberate Send on one of their invoices sw
 Turfware can take in-person payments — Tap to Pay, Apple Pay and Google Pay — on a registered device. Click Fetch devices to pull the devices registered against your Sawfish account, then set one as Primary with the star. (In-person Tap to Pay runs on the Sawfish mobile app.)
 
 To register a device and take payments in person, follow [Tap to Pay on iPhone](https://help.sawfish.com.au/mobile/tap-to-pay/) in the Sawfish help centre — set it up there first, then Fetch devices here.
+
+Before a Tap to Pay payment is pushed to the device, Turfware checks the customer is in sync with Sawfish. If the push fails, the message says why — most often the customer's details differ between the two systems; check the ⓘ sync state on the [customer's summary](../../customers/customer-summary.md#open-the-customer-in-sawfish).
