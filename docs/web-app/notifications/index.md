@@ -30,7 +30,7 @@ Every message the system can send, grouped by area — Orders, Quotes, Operation
 | **Order Confirmation – delivery** | Email | Customer | An admin clicks Send confirmation on a delivery order |
 | **Order Confirmation – pick up** | Email | Customer | An admin clicks Send confirmation on a pickup order |
 | **Order delivery ETA** | Email + SMS | Customer | The order is next to be delivered (driver on the way) |
-| **Order Delivered Email – request feedback** | Email | Customer | The order is marked delivered — invites a review / feedback |
+| **Order Delivered Email – request feedback** | Email (+ SMS if enabled) | Customer | The driver marks the order delivered — carries the delivery photo and signature (`[DELIVERY_IMAGES]`, `[DELIVERY_SIGNATURE]`) and a review button |
 | **On Hold Orders** | Email | Customer | An order is placed on hold |
 
 ### Quotes

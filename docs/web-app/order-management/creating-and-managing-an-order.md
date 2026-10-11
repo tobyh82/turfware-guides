@@ -170,6 +170,8 @@ Administrator overrides — like force-confirming an unpaid order — are record
 
 Store files against the order — purchase orders, site plans, anything relevant. Open the Documents tab, click Upload (top right), choose the document type and file, and upload. All the order's documents are listed on this tab.
 
+This is also where the **proof of delivery** lands. When the driver marks the order delivered in the [Delivery App](../../delivery-app/delivering-an-order.md#what-happens-when-you-mark-it-delivered), the delivery photo and the customer's signature are attached here automatically — listed as *delivery_verification* and *delivery_signature* with the time they were captured. Click **View** to open either.
+
 When you upload, you'll see an **Attached in Invoice** checkbox.
 
 !!! tip "Send a document with the invoice"
