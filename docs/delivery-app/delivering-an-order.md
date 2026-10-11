@@ -36,11 +36,15 @@ At the bottom of an order, the **Verification of Delivery** section is where the
 
 The completed order moves to the completed orders section. To see it, tap **Complete** in the bottom navigation bar. To carry on, return to the **Delivery** tab and open the next order.
 
+![The Complete tab — finished orders for the day](../assets/da-complete.png){ width="300" }
+
 ## What happens when you mark it delivered
 
 Tapping **Mark as Delivered** does three things at once — the driver doesn't have to do anything else.
 
 **The proof is attached to the order.** The photo and the customer's signature are saved against the order the moment the driver taps the button, before the truck has left the site. In the web app, open the order and go to its **Documents** tab: the proof-of-delivery photo is listed under the category *delivery_verification* and the signature under *delivery_signature*, each with the time it was captured, and **View** opens it. They sit alongside any other documents on the order and can be re-sent to a customer at any time.
+
+![A proof-of-delivery photo as a driver takes it — the pallets dropped at the site, taken from the cab](../assets/da-pod-photo.jpg){ width="320" }
 
 **The order is marked delivered.** Each item on the order is stamped with its delivery time. Once every item is delivered the order's status changes to **Delivered**, and it appears that way on the web app's order lists and reports.
 
@@ -48,5 +52,3 @@ Tapping **Mark as Delivered** does three things at once — the driver doesn't h
 
 !!! note "When the customer wasn't there to sign"
     Ticking **Customer was not present to sign** lets the driver complete the delivery without a signature. The photo is still captured and attached, the order still moves to Delivered, and the customer still receives the delivery email — it just carries the photo without a signature.
-
-![The Complete tab — finished orders for the day](../assets/da-complete.png){ width="300" }

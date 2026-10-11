@@ -154,6 +154,10 @@ Two controls sit beside the order number at the top of the order:
 - **Flag** — click the flag icon to flag the order for attention (for example, something needs checking before it proceeds).
 - **Lock** — the lock icon freezes the order so key details can't be changed by accident. While an order is locked, these fields are disabled: customer, segment, sales person, services, pallet type, purchase order, market channel, delivery location, freight price, deliveries and installation (layer / laying). Click it again to unlock and edit.
 
+
+!!! tip "Looking for the proof of delivery?"
+    Once a driver has marked the order delivered, the delivery photo and the customer's signature are on the **Documents** tab (listed as *delivery_verification* and *delivery_signature*), and the status at the top right reads **Delivered**. See [what happens when an order is marked delivered](../../delivery-app/delivering-an-order.md#what-happens-when-you-mark-it-delivered).
+
 ## The Timeline tab
 
 The Timeline tracks every change to the order — what changed, who changed it, and when. Open it from the order's Timeline tab. Each entry shows:
