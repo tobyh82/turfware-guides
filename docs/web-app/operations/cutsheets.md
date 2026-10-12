@@ -29,7 +29,7 @@ Each row is one turf line on one order. Columns: Order no., Harvest Date, Delive
 
 The four new columns come from the turf item's [Cutting settings](../turfware-setup/farm-settings/turf-varieties.md#4-cutting): the unit count is m² × units per m², the estimated weight is m² × weight per m², and the per-pallet figures divide those by the number of pallets. The table scrolls sideways inside its own frame on a narrow screen.
 
-![The Operations Cutsheet — variety summary, filters and list](../../assets/operations-cutsheet.png)
+![The Operations Cutsheet — variety summary, harvest-date and farm filters, the list with Est. kg, m² / pallet, Units and Units / pallet, and the Dockets and labels menu open](../../assets/operations-cutsheet.png)
 
 ## Dockets and labels
 

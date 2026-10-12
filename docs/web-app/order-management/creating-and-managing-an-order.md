@@ -74,6 +74,8 @@ A delivery can be booked as more than one leg — a farm truck to a transport co
 - **Final** — the delivering carrier. *From* is the previous depot and *To* is the delivery address, both locked. Its date is **the order's delivery date** (marked *= order delivery date*) — change the delivery date and the final leg moves with it.
 - **+ Add leg** inserts another hand-over before the final leg. Leg dates must run in order and can't be later than the delivery date.
 
+![Freight legs — Leg 1 from the farm to a depot on its own date, and the Final leg from the depot to the customer, locked to the order delivery date](../../assets/order-freight-legs.png)
+
 Freight pricing is unchanged — the Delivery Rates and freight price still price the delivery to the customer; legs are about routing. Switching **Multi-leg freight** off removes the legs and brings back the single Delivery Notes box. Pickup and in-store orders never show the panel.
 
 Once legs are saved, the Order Summary's freight line reads *Freight · 2 legs*, every leg change is written to the Timeline (*Leg 1 changed: carrier X to Y; date 11/10 to 12/10*), and editing legs on a confirmed order asks you to confirm first. Each leg becomes its own locked tile on the [Scheduling board](../logistics/scheduling/how-to-use-the-scheduler.md#legs-on-the-board) and appears on that carrier's [transport report](../logistics/scheduling/how-to-use-the-scheduler.md#transport-report).

@@ -22,6 +22,8 @@ An order booked as [multi-leg freight](../../order-management/creating-and-manag
 
 Leg tiles carry a lock and the line *Set on order #27728 — change it there*: they can't be dragged, never sit in Unassigned, and are moved by editing the leg on the order. Confirm them with **Confirm Orders** like any other tile. The Planner's pallet totals count the order once, not once per leg.
 
+![The Daily board with a two-leg order — Leg 1 → Test Depo locked on the collecting carrier, and Final → the customer address locked on the delivering carrier](../../../assets/scheduler-legs.png)
+
 ## Transport report
 
 **Transport report** (next to Add Truck) produces the day's run sheet for the chosen carrier and date as **CSV**, **Excel** or **PDF**. One row per turf line per leg: Order no., Delivery date, Pickup from, Customer, Address, Suburb, State, Post code, Site contact, Site phone, Customer email, Delivery instructions, Turf, Qty m², Pallets, Pallet type, Pallet code, Est. kg, Via depot and Depot address.
