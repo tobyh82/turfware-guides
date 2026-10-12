@@ -17,7 +17,7 @@ Complete the customer's details. Two fields matter most:
 - **Organisation Type** — Company or Individual. This dictates how the customer is set up in your accounting system (Sawfish) and how you search for them in Turfware (business name vs a person's name).
 - Segment. This dictates the pricing the customer receives, as per your segment pricing controls (e.g. Wholesale, Retail, Trade).
 
-![Add Customer — Business Name, ABN, Segment, Organisation Type, primary person and site contact](../../assets/customer-add-new.png)
+![The customer form — ABN, Segment and Market Channel (highlighted), Organisation Type, primary person, Sawfish link, site contact and addresses](../../assets/customer-add-new.png)
 
 ## The duplicate check — Confirm Sawfish Link
 
