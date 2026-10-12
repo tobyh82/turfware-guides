@@ -26,10 +26,10 @@ The carrier's details and its trucks.
 
 ### Depot
 
-Where this carrier receives loads from another carrier. Fill it in only for carriers that act as a hand-over point in a multi-leg delivery — a transport company with a yard that a farm truck delivers to, for the carrier to finish the run.
+Where this carrier receives loads from another carrier. Fill it in only for carriers that act as a hand-over point in a [multi-leg delivery](../../order-management/creating-and-managing-an-order.md#multi-leg-freight) — a transport company with a yard that a farm truck delivers to, for the carrier to finish the run.
 
 - **Depot name**, **Depot contact**, **Depot email**, **Depot phone**.
-- **Depot address** — type the address and drag the map pin to the exact gate. The pin's location is what the Scheduling board uses to place the hand-over.
+- **Depot address** — type the address and drag the map pin to the exact gate. The pin's location is what the [Scheduling board](../../logistics/scheduling/how-to-use-the-scheduler.md#legs-on-the-board) uses to place the hand-over.
 
 Leave it blank for a carrier with no depot: they can run a single-leg delivery or the final leg of a multi-leg one, but can't be chosen as a hand-over point. A carrier with two yards is set up as two carriers.
 

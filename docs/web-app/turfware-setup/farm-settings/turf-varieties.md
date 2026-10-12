@@ -37,7 +37,7 @@ Internal notes about the turf — characteristics, care, ideal use. For your tea
 
 How this variety is cut, and how a square-metre quantity turns into a count the yard can work with. These were company-wide settings until now; they're set per turf item so that *Sir Walter – Small Roll* and *Sir Walter – Slab* each count correctly.
 
-- **Unit** — Roll or Slab. Shows on cut sheets, pallet labels and the customer's invoice ("715 rolls").
+- **Unit** — Roll or Slab. Shows on the [cut sheet and pallet labels](../../operations/cutsheets.md) and the customer's [invoice](../../../payments-accounting/what-goes-on-the-invoice.md) ("715 rolls").
 - **Units per m²** — how many rolls or slabs make up one square metre (for example 1.43 for a small roll, 2.00 for a slab). Turfware multiplies the order's m² by this to get the unit count: 500 m² × 1.43 = 715 rolls.
 - **SQM per Pallet** — how many square metres fit on a pallet. Drives the pallet count on every order.
 - **Weight (kg) per SQM** — average weight of one square metre. Used for the estimated weight on cut sheets and the transport report, so trucks can be planned.

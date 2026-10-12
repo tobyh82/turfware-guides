@@ -55,7 +55,7 @@ How the order is fulfilled. Choosing a type reveals the matching section.
 
 ### Dates you can pick
 
-- **Past dates are off.** In every date picker on the order — delivery, pickup, service (preparation) and harvest — days before today are greyed out and can't be chosen, and a note under the field says *Only an administrator can pick a date before [today]*. Administrators and super users see the whole calendar and can back-date an order when they're fixing one. Turfware checks this on save too, so it holds even if the calendar is bypassed; existing orders with past dates still open and save.
+- **Past dates are off.** In every date picker on the order — delivery, pickup, service (preparation) and harvest — days before today are greyed out and can't be chosen, and a note under the field says *Only an administrator can pick a date before [today]*. Administrators and super users (see [User Roles](../users/user-roles.md)) see the whole calendar and can back-date an order when they're fixing one. Turfware checks this on save too, so it holds even if the calendar is bypassed; existing orders with past dates still open and save.
 - **The harvest date fills in for you.** When you set or change the delivery date, the harvest date pre-fills to match the rule in [Company Information](../turfware-setup/farm-setup/company-information.md#order-workflow) — *Same as delivery date* or *Day prior to delivery date* — with a small note saying which. It's an ordinary field: change it if the cut is on another day, and a date you've typed by hand is never overwritten when the delivery date moves. The pre-fill won't land on a past day.
 
 ### Full delivery days

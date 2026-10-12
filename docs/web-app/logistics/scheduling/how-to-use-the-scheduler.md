@@ -28,4 +28,5 @@ Leg tiles carry a lock and the line *Set on order #27728 — change it there*: t
 
 - Only **confirmed** runs are reported, as before.
 - For a multi-leg order, the linehaul carrier's report for the leg date shows the depot as the destination; the delivering carrier's report for the delivery date shows the depot as the pickup. *Via depot* and *Depot address* are blank on a single-leg order.
+- *Est. kg* comes from each turf variety's weight per m² ([Farm Settings → Turf](../../turfware-setup/farm-settings/turf-varieties.md#4-cutting)); *Via depot* and *Depot address* from the carrier's [depot](../../turfware-setup/farm-settings/carrier-settings.md#depot).
 - *Pickup from* is the farm's address on the CSV and Excel, and the farm's name on the PDF. The CSV keeps its existing columns in the same order, so it still imports into carrier systems.

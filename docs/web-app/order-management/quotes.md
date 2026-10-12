@@ -37,7 +37,7 @@ Click Send, then confirm the recipient's email address before the quote goes out
 - **Simple** — Description · Qty · Amount, no unit price.
 - **Consolidated** — Description and Qty only, then one total — for a customer who wants the job price, not the breakdown.
 
-Lines are a flat list without Turf / Installation / Delivery headings, and GST is correct in every layout. Leave it on *Organisation default template* to use your default. The same template is offered when you [generate the invoice](creating-and-managing-an-order.md#generate-invoice), so quote and invoice match to the cent; the **Preview** reflects the template you've chosen.
+Lines are a flat list without Turf / Installation / Delivery headings, and GST is correct in every layout. Leave it on *Organisation default template* to use your default. The templates themselves — their layout, logo and wording — are managed in Sawfish under Settings → Invoice Templates (see the [Sawfish help centre](https://help.sawfish.com.au/)); Turfware lists whatever is set up there. The same template is offered when you [generate the invoice](creating-and-managing-an-order.md#generate-invoice), so quote and invoice match to the cent; the **Preview** reflects the template you've chosen.
 
 ## Convert a quote to an order
 

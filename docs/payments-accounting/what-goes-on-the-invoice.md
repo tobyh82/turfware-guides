@@ -10,6 +10,7 @@ When Turfware raises an invoice for an order, it builds the invoice line by line
 
 | On the invoice | Comes from |
 | --- | --- |
+| Template | The Sawfish invoice template chosen on [Generate invoice](../web-app/order-management/creating-and-managing-an-order.md#generate-invoice) or when the quote was sent; otherwise your organisation default |
 | Invoice number | The order's invoice number |
 | Reference | The customer's PO number if one was entered on the order, otherwise the order number |
 | Invoice date | The day the invoice is raised, unless a custom issue date is chosen |

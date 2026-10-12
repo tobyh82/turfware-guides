@@ -74,7 +74,7 @@ Controls whether an order can be confirmed before it's paid — an important con
 
 ## Logo & Theme
 
-- Upload your Site Logo, PDF Logo (for invoices/documents) and Favicon (square).
+- Upload your Site Logo, PDF Logo and Favicon (square). The PDF Logo prints on invoices, dockets and [pallet labels](../../operations/cutsheets.md#changing-whats-printed-on-the-label), alongside your Display Name and Office / Main Phone Number.
 - **Set your Colours** — Primary, Secondary, Menu Background, Menu Hover, Menu Active and Button.
 
 ## Notifications
