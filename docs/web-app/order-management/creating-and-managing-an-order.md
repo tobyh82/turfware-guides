@@ -83,7 +83,9 @@ Once legs are saved, the Order Summary's freight line reads *Freight · 2 legs*,
 What's available here is set by Company Settings → Order Settings — only the products and services you've enabled appear.
 
 === "Turf"
-    A Harvest date is required — the date the turf appears in the Harvest app to be cut for this order. It doesn't need to match the delivery date (e.g. cut the day before, deliver the next day).
+    A Harvest date is required — the date the turf appears in the Harvesting App to be cut for this order. **You usually won't need to type it**: when you set the delivery date, the harvest date fills in automatically — either the same day or the day before, whichever your business has chosen under System Settings → [Company Information → Order Workflow](../turfware-setup/farm-setup/company-information.md#order-workflow) (*Pre-fill harvest date*). A small note under the field shows which rule applied.
+
+    It doesn't have to stay that way: change it if the cut is on another day (a Friday cut for a Monday delivery, say). A harvest date you've set by hand is kept even if the delivery date later moves, and the pre-fill never lands on a past day.
 
     Opens the Turf section, where you select the turf varieties for the order. Turfware handles multiple varieties per order — the workflow splits for the harvesters but the order always keeps one unique order number. For each variety, select the farm it's harvested from and the SQM; the rest pre-fills from your Turf settings and the customer's segment. Select the harvesting pallet type.
 
