@@ -17,7 +17,7 @@ Left-hand navigation → System Settings → Company Information.
 - **Business Address and Postal Address** — select from the dropdown so they geocode; tick Same as business address to reuse the one address.
 - **Deposit Payment Sawfish Account Code** — the account that deposits post to when you split an invoice into a deposit + final (see [Quotes](../../order-management/quotes.md)).
 
-![Company Information — Company Details and Farm Details](../../../assets/ss-company-details.png)
+![Company settings — Company Details, Sending Invoice Automation and List View Default Date, Farm Details with the Cutting-style notice, and the Order Workflow card with Pre-fill harvest date and Blocking orders](../../../assets/ss-company-details.png)
 
 ## Sending Invoice Automation
 
@@ -32,8 +32,6 @@ Invoices for confirmed orders with a matching delivery date are then sent automa
 - **Send today's invoices** — set the number of days to 0 to send invoices for today's deliveries.
 - **Pre-requisites** — make sure your Sawfish item and account codes are set on your turf, products and services first, so invoices can generate.
 - **No duplicates** — invoices already sent won't be resent.
-
-![Sending Invoice Automation (red) and List View Default Date (green)](../../../assets/ss-sending-invoice-automation.png)
 
 ## List View Default Date
 
@@ -65,12 +63,12 @@ Controls whether an order can be confirmed before it's paid — an important con
 - **Require Payment Before Confirmation** — Activate to hard-stop an order moving Pending → Confirmed unless payment criteria are met. An order may be confirmed when *any* of these is true: it's marked Paid; a payment is recorded via Receive Payment (Manual); or the customer has active Account Terms *and* the order is within their credit limit (total outstanding invoices &lt; credit limit).
 - **Administrator Override** — only an Administrator can force-confirm an unpaid order; this triggers an *"Order Not Paid"* popup and is recorded in the order [Timeline](../../order-management/creating-and-managing-an-order.md#the-timeline-tab).
 
-![Order Workflow, Pricing Settings and Logo & Theme](../../../assets/ss-company-workflow.png)
-
 ## Pricing Settings
 
 - **Price Input Settings** — whether the rates you enter are Inclusive of GST (rates already include GST) or Exclusive of GST (GST added on top by the system).
 - **Lock Pricing Fields** — when enabled, only Administrators can edit pricing on orders.
+
+![Pricing Settings — Inclusive or Exclusive of GST, Lock Pricing Fields — and Logo & Theme](../../../assets/ss-company-workflow.png)
 
 ## Logo & Theme
 
@@ -82,7 +80,7 @@ Controls whether an order can be confirmed before it's paid — an important con
 - **Delivery Time-Range Communications** — the delivery window told to customers: N hours before to N hours after the scheduled delivery time. An Earliest delivery time communicated can override the start — e.g. a 7:00am delivery with a 2-hour buffer would read *5–9am*, but an earliest time of 6:00am makes it *6–9am*.
 - Default Email and Phone for System Notifications — the Admin, Accounts, Reply-to and Test email addresses and phone numbers that system notifications use.
 
-![Notifications — delivery time-range and default system notification contacts](../../../assets/ss-company-notifications.png)
+![Notifications — Delivery Time-Range Communications and the default Admin, Accounts, Reply-To and Test contacts](../../../assets/ss-company-notifications.png)
 
 ## Order Settings
 
@@ -107,7 +105,7 @@ A chart-of-account line for installation, so charges map to invoices via Sawfish
 
 *(Admin only.)* Sets how delivery & freight charges map to invoices via Sawfish — lifted out of the old Chart of Accounts window so it lives in one place. Set the Sawfish Account Code and Sawfish Item (e.g. *202 – Freight Sales* and *100 – Turf Delivery*).
 
-![Order Settings — product/service toggles and Installation / Freight Sawfish mapping](../../../assets/ss-order-settings.png)
+![Order Settings — Turf, Products, Installation and Services toggles with the Installation account mapping; Delivery / Freight account mapping; Google Review URL](../../../assets/ss-order-settings.png)
 
 !!! note "Ties into the order page"
     What you enable here is exactly what shows in the Products & Services section when [creating an order](../../order-management/creating-and-managing-an-order.md).
