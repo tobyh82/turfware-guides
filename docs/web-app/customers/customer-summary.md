@@ -14,17 +14,40 @@ The summary shows the customer's address (mapped), billing address, site contact
 
 To change any of them, click ✏ Edit Customer Info (top right), update the fields, and save.
 
-## Add a contact
+## Business contacts — who at the customer gets what
 
-Under Business Contact, click the green Add Contact button. Enter the contact's First / Last name, Email, Phone and Role, then choose their Communication Preferences — exactly which emails this contact receives:
+A customer record has one **primary contact** — the person on the customer's details, who receives every notification Turfware sends. Most businesses have more people than that: an accounts person who should get the invoices but not the delivery ETAs, a site foreman who needs the ETA and nothing else, an operations desk that wants order confirmations. **Business contacts** let you add each of them and choose exactly which messages they receive.
 
-- **Orders** — Order Confirmation (delivery / pick up / general), Order delivery ETA, Order Delivered (request feedback), On Hold Orders.
-- **Quotes** — Customer Quote, Customer accepted quote.
+### Add a contact
+
+Under **Business Contact**, click **Add Contact**. Enter their First and Last name, Email, Phone and Role (Director, Sales or Administration), then tick their **Communication Preferences** — the notifications this person receives:
+
+- **Orders** — Order Confirmation (delivery), Order Confirmation (pick up), Order delivery ETA, Order Delivered Email (request feedback), Delivery Confirmation, On Hold Orders.
+- **Quotes** — Customer accepted quote, Customer Quote.
 - **Accounts** — Invoices.
 
-Tick only what that person should get — e.g. an accounts contact gets Invoices, a site contact gets Order delivery ETA. Click Save.
+Tick only what that person should get, and click **Save**. To change a contact's preferences later, click the pencil on their row.
 
 ![Add Business Contact — details and communication preferences](../../assets/customer-add-contact.png)
+
+### How a contact receives a message
+
+- **Email** — when Turfware sends one of the ticked notifications to the customer, the contact is **copied in (CC)** on the same email. The primary contact still receives it, and the CC line shows who else did.
+- **SMS** — where a notification goes by SMS as well (Order delivery ETA, for example), the contact gets their own text, provided they have a phone number.
+- **Invoices** — ticking Invoices does more than copy an email: the contact is sent to **Sawfish as an invoice recipient** on the customer's client record, so Sawfish's invoice emails and payment reminders go to them as well as to the primary contact. This needs a first name, last name and email on the contact.
+
+Whether a notification goes by email, SMS or both is set per template under [Notifications](../notifications/index.md); a contact's ticks decide *who* is included, not *how* it's sent.
+
+### Typical setups
+
+| Who at the customer | Tick |
+|---|---|
+| Accounts / bookkeeper | Invoices |
+| Site foreman or installer | Order delivery ETA, Delivery Confirmation |
+| Operations or scheduling desk | Order Confirmation (delivery / pick up), On Hold Orders, Order delivery ETA |
+| Purchasing or the person who approves quotes | Customer Quote, Customer accepted quote |
+
+A small landscaping customer often needs none of this — the primary contact gets everything. The value is with trade and commercial customers where the person placing the order, the person on site and the person paying are three different people.
 
 ## Add a note
 
