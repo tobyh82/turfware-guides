@@ -22,16 +22,21 @@ The carrier's details and its trucks.
 - **Send Communications** — when on, Turfware emails the carrier (at the email above) whenever you assign orders to them for delivery, and those orders flow onto their delivery schedule and route.
 - **Farm Group** — the carrier's primary farm group. (You can link a carrier to more groups from [Farm Groups](farm-groups.md).)
 
-![Carrier — Administration tab: details and trucks](../../../assets/fs-carrier-administration.png)
+![Carrier — Administration tab: details, the Depot block with its map pin, and the Trucks capacity table](../../../assets/fs-carrier-administration.png)
 
 ### Depot
 
-Where this carrier receives loads from another carrier. Fill it in only for carriers that act as a hand-over point in a [multi-leg delivery](../../order-management/creating-and-managing-an-order.md#multi-leg-freight) — a transport company with a yard that a farm truck delivers to, for the carrier to finish the run.
+!!! warning "Only fill this in if orders are dropped at this carrier's yard to be delivered from there"
+    A depot is a yard where your turf is unloaded by one carrier and picked up by this one to finish the delivery — a [multi-leg delivery](../../order-management/creating-and-managing-an-order.md#multi-leg-freight). If this carrier just collects from the farm and delivers to the customer, **leave the Depot block empty**. A carrier with a depot filled in is offered as a hand-over point on every multi-leg order, so an unneeded one will confuse whoever is booking freight.
 
-- **Depot name**, **Depot contact**, **Depot email**, **Depot phone**.
+Leaving it blank doesn't limit the carrier: they can still run any single-leg delivery, and the final leg of a multi-leg one.
+
+If the carrier does have a depot:
+
+- **Depot name**, **Depot contact**, **Depot email**, **Depot phone** — who to call at the yard.
 - **Depot address** — type the address and drag the map pin to the exact gate. The pin's location is what the [Scheduling board](../../logistics/scheduling/how-to-use-the-scheduler.md#legs-on-the-board) uses to place the hand-over.
 
-Leave it blank for a carrier with no depot: they can run a single-leg delivery or the final leg of a multi-leg one, but can't be chosen as a hand-over point. A carrier with two yards is set up as two carriers.
+A carrier with two yards is set up as two carriers.
 
 ### Trucks
 
