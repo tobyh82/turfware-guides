@@ -6,7 +6,7 @@ title: "Turf Varieties"
 
 A turf variety is a grass you sell. Each one holds its names, pricing, cutting and pallet figures, accounting links and volume pricing — so that once it's set up, it flows correctly through orders, cut sheets, delivery and invoicing.
 
-![Create / Edit Grass form](../../../assets/turf-create-form.svg)
+![The turf form — names, description, Cutting, prices and status on the left; Sawfish codes, Shopify link and Volume Pricing on the right](../../../assets/fs-turf-form.png)
 
 ## Where to set them up
 
@@ -30,15 +30,16 @@ Internal notes about the turf — characteristics, care, ideal use. For your tea
 
 ## 3. Price settings
 
-- **Retail Price** — your full retail sell price. The baseline every other segment is discounted from.
-- **Cost Price** — what the turf costs you (production cost, or wholesale purchase price if bought in). Used for margin reporting.
+- **Retail price/unit** — your full retail sell price per m². The baseline every other segment is discounted from. The label says whether you're entering it Inc. or Ex. GST (set under Company Information → Pricing Settings), and the other figure is shown underneath.
+- **Cost price/unit** — what the turf costs you per m² (production cost, or wholesale purchase price if bought in). Used for margin reporting.
+- **Image** — optionally upload a photo of the variety (jpg or png).
 
 ## 4. Cutting
 
 How this variety is cut, and how a square-metre quantity turns into a count the yard can work with. These were company-wide settings until now; they're set per turf item so that *Sir Walter – Small Roll* and *Sir Walter – Slab* each count correctly.
 
 - **Unit** — Roll or Slab. Shows on the [cut sheet and pallet labels](../../operations/cutsheets.md) and the customer's [invoice](../../../payments-accounting/what-goes-on-the-invoice.md) ("715 rolls").
-- **Units per m²** — how many rolls or slabs make up one square metre (for example 1.43 for a small roll, 2.00 for a slab). Turfware multiplies the order's m² by this to get the unit count: 500 m² × 1.43 = 715 rolls.
+- **Units per m²** — how many rolls or slabs make up one square metre (for example 1.43 for a small roll, 1.39 for a slab). Turfware multiplies the order's m² by this to get the unit count, and the helper text under the field shows the sum for a 500 m² order as you type — *slabs per m² · 500 m² = 695 slabs*.
 - **SQM per Pallet** — how many square metres fit on a pallet. Drives the pallet count on every order.
 - **Weight (kg) per SQM** — average weight of one square metre. Used for the estimated weight on cut sheets and the transport report, so trucks can be planned.
 
