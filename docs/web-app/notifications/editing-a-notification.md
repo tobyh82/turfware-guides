@@ -18,6 +18,7 @@ Click any template on the [Notifications](index.md) list to open its editor. The
 
 - **Send Email** — toggle the email on or off.
 - **Email subject** — the subject line; you can insert [variables](variables.md) here too.
+- **Attachments** — files attached to the template (a PDF of terms, a brochure) are sent with every email from it.
 - **Email body** — a rich-text editor (bold, italic, colour, alignment, links). Click **Variables** to insert a merge field — see [Variables](variables.md).
 - **Email attachments** — attach JPG, PNG or PDF files under 2MB to send with the email.
 

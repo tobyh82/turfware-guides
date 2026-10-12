@@ -13,6 +13,7 @@ Open the customer → Billing tab.
 ## What it shows
 
 - **Current and Overdue balances** — two boxes at the top show the customer's Current and Overdue amounts at a glance. Both are calculated from the customer's **invoices**, the same way Sawfish calculates them, so they match what the customer sees: Current is invoiced amounts not yet due, Overdue is invoiced amounts past their due date. Orders that haven't been invoiced yet aren't counted — un-billed work isn't money owed.
+- **Unbilled** — a third box: delivered work since the Sawfish cutover that has no invoice yet. It's shown separately because un-billed work isn't money owed; it never counts towards Current or Overdue. If the work *was* invoiced directly in Sawfish, [link that invoice to the order](../order-management/creating-and-managing-an-order.md#generate-invoice) and it moves out of Unbilled into the balance.
 - **Orders table** — every order for the customer, line by line: order number, invoice number, PO / reference, suburb, status, date, due date, paid and due.
 - **Account Status and Sale Terms** — down the right, alongside the search, the customer's account status and payment terms (for example *15 days after bill date*).
 - **Search** — find an order by order number or PO / reference.

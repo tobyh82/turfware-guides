@@ -10,6 +10,8 @@ Market Channels are the sources your customers come from — for example *Shopif
 
 Left-hand navigation → System Settings → Market Channels. Click Create Market Channel to add one, or click a row to edit.
 
+Channels are chosen on the customer's record — see [Adding a customer](../../customers/adding-a-customer.md).
+
 ## Setting up a channel
 
 - **Name** — the channel name.

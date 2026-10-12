@@ -10,6 +10,7 @@ When Turfware raises an invoice for an order, it builds the invoice line by line
 
 | On the invoice | Comes from |
 | --- | --- |
+| Template | The Sawfish invoice template chosen on [Generate invoice](../web-app/order-management/creating-and-managing-an-order.md#generate-invoice) or when the quote was sent; otherwise your organisation default |
 | Invoice number | The order's invoice number |
 | Reference | The customer's PO number if one was entered on the order, otherwise the order number |
 | Invoice date | The day the invoice is raised, unless a custom issue date is chosen |
@@ -21,7 +22,7 @@ When Turfware raises an invoice for an order, it builds the invoice line by line
 
 **1. Turf — one line per turf item on the order.**
 
-- **Description** — the variety's **Full Name**. If Full Name is blank, its Short Name is used instead; if the variety can't be found, the line reads *N/A*. Nothing else from the turf record appears.
+- **Description** — the variety's **Full Name** (Short Name if blank; *N/A* if the variety can't be found), then a second line with the count: *715 rolls on 8 pallets*. The unit word comes from the variety's [Cutting unit](../web-app/turfware-setup/farm-settings/turf-varieties.md#4-cutting). If the line has no pallets, only the units show; if it has no unit count, the description is the name alone.
 - **Quantity** — the line's square metres. **Unit price** — the line's rate. So a line reads, for example, *Sir Walter DNA Certified Buffalo Grass · 500 m² · $12.32*.
 - **Discount** — the line's own percentage or dollar discount, if any.
 

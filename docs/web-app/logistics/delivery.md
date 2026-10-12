@@ -14,6 +14,8 @@ To export the current list, click the green Export CSV button at the top. The fi
 
 The **sender contact** on the file — the email and phone your carrier will use to reach you — comes from your own Company Details (Turfware Setup → [Company Information](../turfware-setup/farm-setup/company-information.md)), so check those are your business's details, not a placeholder.
 
+This is the delivery list for a date range. For a **per-carrier run sheet** — one row per leg, as CSV, Excel or PDF — use the Transport report on the [Scheduling](scheduling/how-to-use-the-scheduler.md#transport-report) screen.
+
 ## Print dockets
 
 Click the green Print Dockets button at the top. The delivery dockets are generated as a PDF, which opens in a new tab ready to print.

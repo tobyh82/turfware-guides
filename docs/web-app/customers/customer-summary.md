@@ -6,11 +6,11 @@ title: "Customer summary"
 
 Open a customer by clicking their row on the Customers page. The Summary tab is the customer's home — their details, contacts and notes in one place. Across the top are five tabs: Summary, Pricing, Billing, Marketing, Documents.
 
-![Customer summary — details, contacts and notes](../../assets/customer-summary.png)
+![Customer summary — details including Market Channel, the Sawfish Client link, business contacts and notes](../../assets/customer-summary.png)
 
 ## Customer details
 
-The summary shows the customer's address (mapped), billing address, site contact, email, phone, Segment, Organisation Type, Account Status, Sale Terms, Sales Rep and Credit Limit.
+The summary shows the customer's address (mapped), billing address, site contact, email, phone, Segment, Market Channel, Organisation Type, Account Status, Sale Terms, Sales Rep and Credit Limit.
 
 To change any of them, click ✏ Edit Customer Info (top right), update the fields, and save.
 
