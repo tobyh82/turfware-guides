@@ -47,10 +47,18 @@ For example, starts −1 and ends +1 opens your lists showing yesterday through 
 ## Farm Details
 
 - Home Farm Address.
-- **Cutting style** — Rolls or Slabs, plus the Slabs / SQM figure — the default cutting style applied to turf.
+- **Cutting style has moved.** Unit (roll or slab), units per m², SQM per pallet and weight are now set on each turf item — see [Turf](../farm-settings/turf-varieties.md#4-cutting). The old company-wide value is kept only as a fallback for varieties that haven't been given their own.
 - **Automatic Pallet Coding** — Activate to auto-assign pallet codes, and choose the Pallet Code System (e.g. Alphabetical *A, B, C*).
 
 ## Order Workflow
+
+- **Pre-fill harvest date** — *Same as delivery date* or *Day prior to delivery date*. When a delivery date is set on an order, the harvest date fills in to match this rule, with a note under it saying which. It's a normal field — anyone can change it — and a harvest date someone has typed by hand is never overwritten. Changing this setting affects new pre-fills only, not existing orders.
+- **Blocking orders: what counts against capacity** — decides when a delivery day is treated as full. Pallet spaces per day come from each carrier and truck in Carrier Settings, as the Planner shows them.
+    - *Confirmed orders only* — a pending order takes no space, so anyone can save one on a full day. The block lands when the order is confirmed: a manager's permission is needed, the same as the farm cut-off.
+    - *Pending and confirmed orders* — a pending order takes a space the moment it's saved, so full days are closed at the point of picking the date: struck through in the calendar and can't be chosen. Managers can still book them, and the override is logged against the order.
+
+    See [Full delivery days](../../order-management/creating-and-managing-an-order.md#full-delivery-days) for what the order screen shows.
+
 
 Controls whether an order can be confirmed before it's paid — an important control for protecting the farm from harvesting turf for orders that won't be paid.
 

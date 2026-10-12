@@ -31,6 +31,14 @@ Click Preview to check the quote email before it goes — the preview is like-fo
 
 Click Send, then confirm the recipient's email address before the quote goes out.
 
+**Choose the layout.** The **Template** picker on the Send Quote dialog lists your Sawfish invoice templates, grouped by how they lay out line items:
+
+- **Detailed** — Description · Qty · Unit price · Amount.
+- **Simple** — Description · Qty · Amount, no unit price.
+- **Consolidated** — Description and Qty only, then one total — for a customer who wants the job price, not the breakdown.
+
+Lines are a flat list without Turf / Installation / Delivery headings, and GST is correct in every layout. Leave it on *Organisation default template* to use your default. The same template is offered when you [generate the invoice](creating-and-managing-an-order.md#generate-invoice), so quote and invoice match to the cent; the **Preview** reflects the template you've chosen.
+
 ## Convert a quote to an order
 
 When the customer says yes, open the quote and click Convert To Order. Confirm the turf to convert, and Turfware creates the order with a status of Pending — ready to move through the [order workflow](orders-pending.md). (If the customer accepts online instead, this happens automatically — see [Quotes Accepted](quotes-accepted.md).)

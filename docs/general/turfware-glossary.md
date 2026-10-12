@@ -12,6 +12,8 @@ Plain-language definitions of the terms used across Turfware — the web app, th
 
 ## C
 
+**Capacity** — the pallet spaces available on a delivery day, from your carriers and trucks. A day is *full* for an order when the order's pallets won't fit; Company Information sets whether pending orders count against it.
+
 **Carrier** — A freight provider that moves orders from farm to customer — your own fleet or a third party. Carrier accounts and settings control how each carrier's freight is charged and mapped to your accounts.
 
 **Confirmed** — An order that has been confirmed and pushed into the harvest, delivery and laying workflow. See [Orders Confirmed](../web-app/order-management/orders-confirmed.md).
@@ -21,6 +23,8 @@ Plain-language definitions of the terms used across Turfware — the web app, th
 **Cutting style** — How turf is cut: **Rolls** or **Slabs**, with a Slabs / SQM figure. Set as a default per turf variety.
 
 ## D
+
+**Depot** — a carrier's yard where another carrier hands over a load in a multi-leg delivery. Set on the carrier record.
 
 **Deposit invoice / final invoice** — When an invoice is split, the **deposit** is billed up front (often when a quote is accepted) and the **final invoice** covers the balance on completion.
 
@@ -58,6 +62,8 @@ Plain-language definitions of the terms used across Turfware — the web app, th
 
 ## L
 
+**Leg / multi-leg freight** — one carrier's part of a delivery. A multi-leg delivery runs farm → depot → customer with a carrier and date for each leg.
+
 **Lead** — A prospective order or customer captured for follow-up (for example, via **Add Lead** in the Harvesting App).
 
 **Lock** — Freezing an order so key details — customer, segment, pricing, freight, deliveries and more — can't be changed by accident. Click the lock again to unlock and edit.
@@ -83,6 +89,8 @@ Plain-language definitions of the terms used across Turfware — the web app, th
 **Order workflow** — The stages an order passes through: [Quote](../web-app/order-management/quotes.md) → Quote Accepted → (Shopify Pending) → Orders Pending → [Orders Confirmed](../web-app/order-management/orders-confirmed.md), with [On Hold](../web-app/order-management/on-hold.md) and [Lost](../web-app/order-management/lost.md) as side states.
 
 ## P
+
+**Pallet label** — an A5 label per pallet, generated from Cutsheets: customer, address, order, turf, units and m² on the pallet, pallet X of Y.
 
 **Paddock** — A block within a farm where a particular turf variety is grown and recorded.
 
@@ -126,9 +134,17 @@ Plain-language definitions of the terms used across Turfware — the web app, th
 
 ## T
 
+**Transport report** — the per-carrier, per-day run sheet from the Scheduling screen, as CSV, Excel or PDF.
+
 **Truck** — A delivery vehicle. Orders are assigned to trucks to build the day's runs.
 
 **Turfware** — The turf-management platform this manual covers, spanning orders, customers, harvesting, delivery, logistics, reporting and payments.
+
+## U
+
+**Unbilled** — delivered work with no invoice yet; shown on the Billing tab, never part of the balance.
+
+**Units per m²** — on a turf item, how many rolls or slabs make one square metre; turns an order's m² into a unit count.
 
 ## V
 

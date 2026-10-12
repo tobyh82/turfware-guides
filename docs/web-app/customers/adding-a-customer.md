@@ -13,6 +13,7 @@ On the Customers page, click the green New Contact button (top right).
 
 Complete the customer's details. Two fields matter most:
 
+- **Market Channel** — where the customer came from (Web Enquiry, Referral, and so on), set once here beside Segment and recorded on the customer. *New orders will pick this up automatically in a coming update.*
 - **Organisation Type** — Company or Individual. This dictates how the customer is set up in your accounting system (Sawfish) and how you search for them in Turfware (business name vs a person's name).
 - Segment. This dictates the pricing the customer receives, as per your segment pricing controls (e.g. Wholesale, Retail, Trade).
 

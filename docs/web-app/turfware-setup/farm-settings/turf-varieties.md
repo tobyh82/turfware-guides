@@ -4,7 +4,7 @@ title: "Turf Varieties"
 
 # Turf Varieties
 
-A turf variety is a grass you sell. Each one holds its names, pricing, pallet and weight figures, accounting links and volume pricing — so that once it's set up, it flows correctly through orders, cut sheets, delivery and invoicing.
+A turf variety is a grass you sell. Each one holds its names, pricing, cutting and pallet figures, accounting links and volume pricing — so that once it's set up, it flows correctly through orders, cut sheets, delivery and invoicing.
 
 ![Create / Edit Grass form](../../../assets/turf-create-form.svg)
 
@@ -33,10 +33,17 @@ Internal notes about the turf — characteristics, care, ideal use. For your tea
 - **Retail Price** — your full retail sell price. The baseline every other segment is discounted from.
 - **Cost Price** — what the turf costs you (production cost, or wholesale purchase price if bought in). Used for margin reporting.
 
-## 4. Pallet & weight
+## 4. Cutting
 
+How this variety is cut, and how a square-metre quantity turns into a count the yard can work with. These were company-wide settings until now; they're set per turf item so that *Sir Walter – Small Roll* and *Sir Walter – Slab* each count correctly.
+
+- **Unit** — Roll or Slab. Shows on cut sheets, pallet labels and the customer's invoice ("715 rolls").
+- **Units per m²** — how many rolls or slabs make up one square metre (for example 1.43 for a small roll, 2.00 for a slab). Turfware multiplies the order's m² by this to get the unit count: 500 m² × 1.43 = 715 rolls.
 - **SQM per Pallet** — how many square metres fit on a pallet. Drives the pallet count on every order.
-- **Weight (kg) per SQM** — average weight of one square metre. Used to calculate pallet weights and total truck load weight for scheduling.
+- **Weight (kg) per SQM** — average weight of one square metre. Used for the estimated weight on cut sheets and the transport report, so trucks can be planned.
+
+!!! note "Varieties set up before this release"
+    Every existing variety was given a Unit and Units per m² from the old company-wide Cutting style setting, so nothing changes until you edit it. A variety with no Units per m² falls back to that company setting.
 
 ## 5. Status
 
