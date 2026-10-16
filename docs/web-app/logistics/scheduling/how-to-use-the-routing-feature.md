@@ -25,3 +25,12 @@ Switch to the blue Routing button (top left) to open the Routing Management page
 - Click CSV (next to Add Truck) to export the deliveries as a CSV file.
 
 ![Routing — orders allocated to a truck, with the calculated route](../../../assets/routing2.png)
+
+## Tell customers their delivery window
+
+Once a truck's run is set, open the arrow next to that truck's **Save** button and click **Send Confirmation**. Every customer with an order on that truck gets the *Delivery Confirmation* email (and SMS to the site contact, if switched on), telling them the window their turf is due in. It isn't sent automatically — this click is what sends it.
+
+- The window is the drop's ETD with your buffers either side, set under Company Information → [Notifications](../../turfware-setup/farm-setup/company-information.md#notifications) (for example *5–9am* for a 7:00am drop with a 2-hour buffer).
+- After sending, the item reads **Resend Confirmation** — use it if the run changes.
+- The same menu has **Generate Docket**.
+- Edit the wording under [Notifications](../../notifications/index.md#orders) → *Delivery Confirmation*.

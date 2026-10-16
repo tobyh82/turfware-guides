@@ -26,11 +26,11 @@ Every message the system can send, grouped by area — Orders, Quotes, Operation
 
 | Notification | Channel | Goes to | When |
 |---|---|---|---|
-| **Order Confirmation** | Email + SMS | Customer (email); order site contact (SMS) | A delivery is scheduled in truck routing — tells the customer their estimated delivery window |
+| **Delivery Confirmation** (email) and **Delivery Confirmation SMS** | Email + SMS | Customer (email); order site contact (SMS) | Someone clicks **Send Confirmation** on a truck in [Routing](../logistics/scheduling/how-to-use-the-routing-feature.md#tell-customers-their-delivery-window) — tells each customer on that truck their delivery window. Not sent automatically |
 | **Order Confirmation – delivery** | Email | Customer | An admin clicks Send confirmation on a delivery order |
 | **Order Confirmation – pick up** | Email | Customer | An admin clicks Send confirmation on a pickup order |
 | **Order delivery ETA** | Email + SMS | Customer | The order is next to be delivered (driver on the way) |
-| **Order Delivered Email – request feedback** | Email (+ SMS if enabled) | Customer | The driver marks the order delivered — carries the delivery photo and signature (`[DELIVERY_IMAGES]`, `[DELIVERY_SIGNATURE]`) and a review button |
+| **Order Delivered Email – request feedback** | Email (+ SMS if enabled) | Customer | The driver marks the order delivered — carries the delivery photo and signature (`[DELIVERY_IMAGES]`, `[DELIVERY_SIGNATURE]`) and a review button. The review button only appears once a **Google Review URL** is set under Company Information → [Miscellaneous](../turfware-setup/farm-setup/company-information.md#miscellaneous) |
 | **On Hold Orders** | Email | Customer | An order is placed on hold |
 
 ### Quotes

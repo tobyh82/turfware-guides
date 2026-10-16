@@ -57,6 +57,7 @@ For example, starts −1 and ends +1 opens your lists showing yesterday through 
 
     See [Full delivery days](../../order-management/creating-and-managing-an-order.md#full-delivery-days) for what the order screen shows.
 
+### Require Payment Before Confirmation
 
 Controls whether an order can be confirmed before it's paid — an important control for protecting the farm from harvesting turf for orders that won't be paid.
 
@@ -77,7 +78,7 @@ Controls whether an order can be confirmed before it's paid — an important con
 
 ## Notifications
 
-- **Delivery Time-Range Communications** — the delivery window told to customers: N hours before to N hours after the scheduled delivery time. An Earliest delivery time communicated can override the start — e.g. a 7:00am delivery with a 2-hour buffer would read *5–9am*, but an earliest time of 6:00am makes it *6–9am*.
+- **Delivery Time-Range Communications** — the delivery window told to customers: N hours before to N hours after the scheduled delivery time. An Earliest delivery time communicated can override the start — e.g. a 7:00am delivery with a 2-hour buffer would read *5–9am*, but an earliest time of 6:00am makes it *6–9am*. The window goes out when you [send the delivery confirmation from Routing](../../logistics/scheduling/how-to-use-the-routing-feature.md#tell-customers-their-delivery-window).
 - Default Email and Phone for System Notifications — the Admin, Accounts, Reply-to and Test email addresses and phone numbers that system notifications use.
 
 ![Notifications — Delivery Time-Range Communications and the default Admin, Accounts, Reply-To and Test contacts](../../../assets/ss-company-notifications.png)

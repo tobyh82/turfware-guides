@@ -128,7 +128,7 @@ The order value, calculated line by line, replicating the invoice values. Apply 
 To move an order into the workflow, change the order Status in the top-right of the order (Pending → Confirmed). Depending on your admin settings, there may be a blocker.
 
 !!! note "Require Payment Before Confirmation"
-    Set under System Settings → Company Information → Order Workflow. When enabled, it's a hard-stop preventing Pending → Confirmed unless payment criteria are met — protecting you from harvesting turf for orders that won't be paid.
+    Set under System Settings → Company Information → [Order Workflow](../turfware-setup/farm-setup/company-information.md#require-payment-before-confirmation). It's off until an administrator switches it on. When enabled, it's a hard-stop preventing Pending → Confirmed unless payment criteria are met — protecting you from harvesting turf for orders that won't be paid.
 
     An order may be confirmed when any of these is true:
 
@@ -147,7 +147,13 @@ The key actions live in the ⋯ menu in the top-right of the order.
 
 ### Send confirmation
 
-Sends an email confirmation of the order to the customer. We recommend sending it — it provides a validation of the order confirmation. It's a template you can customise (Notifications → *Order Confirmation*). A popup appears, pre-filled with that order's information; add email addresses and adjust the wording to suit.
+Sends an email confirmation of the order to the customer. We recommend sending it — it provides a validation of the order confirmation. It uses the *Order Confirmation – delivery* or *Order Confirmation – pick up* template, which you can customise under [Notifications](../notifications/index.md#orders). A popup appears, pre-filled with that order's information; add email addresses and adjust the wording to suit. Once sent, the menu item reads **Resend Confirmation** and the send is written to the Timeline.
+
+!!! note "Two different confirmations"
+    Customers can get two confirmations, and neither goes automatically — someone sends each one.
+
+    - **Order confirmation** (this one) — confirms the order itself: what's coming and the date. Sent from the order's ⋯ menu.
+    - **Delivery confirmation** — tells the customer their delivery window once the order is on a truck. Sent per truck from [Routing](../logistics/scheduling/how-to-use-the-routing-feature.md#tell-customers-their-delivery-window), so every customer on that run gets theirs at once.
 
 ![Confirm Order — email recipients, subject and body before sending](../../assets/order-send-confirmation.png)
 
