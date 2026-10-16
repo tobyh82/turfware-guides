@@ -2,6 +2,8 @@ site_name: Turfware Help
 site_url: https://help.turfware.com.au/
 site_description: Turfware user guides — orders, delivery, harvesting, setup & integrations
 docs_dir: docs
+not_in_nav: |
+  thanks.md
 theme:
   name: material
   language: en
